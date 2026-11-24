@@ -1,0 +1,13 @@
+CREATE DATABASE IF NOT EXISTS returns_operations;
+USE returns_operations;
+DROP TABLE IF EXISTS returns;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS customers;
+CREATE TABLE customers(customer_id VARCHAR(10) PRIMARY KEY, customer_segment VARCHAR(40), region VARCHAR(40), city VARCHAR(60));
+CREATE TABLE products(product_id VARCHAR(10) PRIMARY KEY, product_name VARCHAR(100), category VARCHAR(60));
+CREATE TABLE orders(order_id VARCHAR(12) PRIMARY KEY, order_date DATE, customer_id VARCHAR(10), product_id VARCHAR(10), quantity INT, order_value DECIMAL(12,2), order_status VARCHAR(30), sales_channel VARCHAR(40), FOREIGN KEY(customer_id) REFERENCES customers(customer_id), FOREIGN KEY(product_id) REFERENCES products(product_id));
+CREATE TABLE returns(return_id VARCHAR(12) PRIMARY KEY, order_id VARCHAR(12) UNIQUE, request_date DATE, pickup_date DATE, received_date DATE, closed_date DATE NULL, return_reason VARCHAR(80), return_status VARCHAR(40), return_channel VARCHAR(40), assigned_team VARCHAR(60), refund_amount DECIMAL(12,2), sla_days INT, processing_days INT NULL, sla_met TINYINT, is_open TINYINT, FOREIGN KEY(order_id) REFERENCES orders(order_id));
+CREATE INDEX idx_orders_date ON orders(order_date);
+CREATE INDEX idx_returns_request ON returns(request_date);
+CREATE INDEX idx_returns_status ON returns(return_status);

@@ -1,0 +1,7 @@
+{
+  "orders": 10000,
+  "return_cases": 1419,
+  "customers": 800,
+  "products": 20,
+  "returned_order_count": 1419
+}

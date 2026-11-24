@@ -1,0 +1,21 @@
+product_id,product_name,category
+PR001,Smartphone,Electronics
+PR002,Laptop,Electronics
+PR003,Headphones,Electronics
+PR004,Monitor,Electronics
+PR005,Smartwatch,Electronics
+PR006,Shoes,Fashion
+PR007,T-shirt,Fashion
+PR008,Jacket,Fashion
+PR009,Jeans,Fashion
+PR010,Handbag,Fashion
+PR011,Mixer Grinder,Home & Kitchen
+PR012,Cookware Set,Home & Kitchen
+PR013,Bedsheet,Home & Kitchen
+PR014,Storage Rack,Home & Kitchen
+PR015,Desk Lamp,Home & Kitchen
+PR016,Notebook Set,Books & Stationery
+PR017,Office Chair,Books & Stationery
+PR018,Printer Paper,Books & Stationery
+PR019,Pen Pack,Books & Stationery
+PR020,Planner,Books & Stationery

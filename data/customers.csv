@@ -1,0 +1,801 @@
+customer_id,customer_segment,region,city
+CU0001,Consumer,West,Mumbai
+CU0002,Small Business,Central,Bhopal
+CU0003,Corporate,South,Bengaluru
+CU0004,Small Business,West,Mumbai
+CU0005,Corporate,North,Jaipur
+CU0006,Small Business,East,Kolkata
+CU0007,Corporate,South,Chennai
+CU0008,Consumer,North,Jaipur
+CU0009,Corporate,West,Mumbai
+CU0010,Corporate,North,Delhi
+CU0011,Small Business,West,Pune
+CU0012,Corporate,East,Kolkata
+CU0013,Consumer,East,Kolkata
+CU0014,Corporate,North,Delhi
+CU0015,Small Business,South,Chennai
+CU0016,Corporate,North,Jaipur
+CU0017,Corporate,West,Pune
+CU0018,Consumer,South,Bengaluru
+CU0019,Consumer,North,Delhi
+CU0020,Corporate,West,Mumbai
+CU0021,Consumer,North,Delhi
+CU0022,Small Business,South,Bengaluru
+CU0023,Consumer,East,Kolkata
+CU0024,Small Business,North,Jaipur
+CU0025,Small Business,North,Jaipur
+CU0026,Consumer,South,Chennai
+CU0027,Corporate,South,Bengaluru
+CU0028,Corporate,Central,Bhopal
+CU0029,Corporate,South,Chennai
+CU0030,Consumer,West,Mumbai
+CU0031,Corporate,North,Delhi
+CU0032,Corporate,North,Jaipur
+CU0033,Consumer,East,Kolkata
+CU0034,Corporate,North,Jaipur
+CU0035,Consumer,East,Kolkata
+CU0036,Corporate,West,Pune
+CU0037,Consumer,North,Jaipur
+CU0038,Consumer,South,Chennai
+CU0039,Corporate,West,Mumbai
+CU0040,Corporate,East,Kolkata
+CU0041,Consumer,East,Kolkata
+CU0042,Consumer,Central,Bhopal
+CU0043,Consumer,North,Jaipur
+CU0044,Small Business,West,Mumbai
+CU0045,Small Business,Central,Bhopal
+CU0046,Small Business,North,Jaipur
+CU0047,Corporate,South,Chennai
+CU0048,Consumer,North,Delhi
+CU0049,Consumer,North,Jaipur
+CU0050,Consumer,West,Mumbai
+CU0051,Corporate,South,Bengaluru
+CU0052,Small Business,North,Delhi
+CU0053,Small Business,East,Kolkata
+CU0054,Consumer,South,Bengaluru
+CU0055,Consumer,South,Chennai
+CU0056,Small Business,South,Chennai
+CU0057,Consumer,East,Kolkata
+CU0058,Consumer,East,Kolkata
+CU0059,Small Business,North,Jaipur
+CU0060,Corporate,East,Kolkata
+CU0061,Corporate,East,Kolkata
+CU0062,Corporate,South,Chennai
+CU0063,Corporate,Central,Bhopal
+CU0064,Corporate,South,Bengaluru
+CU0065,Corporate,East,Kolkata
+CU0066,Consumer,East,Kolkata
+CU0067,Corporate,Central,Bhopal
+CU0068,Small Business,West,Pune
+CU0069,Corporate,North,Jaipur
+CU0070,Small Business,West,Pune
+CU0071,Consumer,North,Jaipur
+CU0072,Small Business,Central,Bhopal
+CU0073,Small Business,West,Pune
+CU0074,Small Business,North,Jaipur
+CU0075,Small Business,West,Pune
+CU0076,Small Business,East,Kolkata
+CU0077,Corporate,Central,Bhopal
+CU0078,Consumer,East,Kolkata
+CU0079,Consumer,North,Delhi
+CU0080,Consumer,North,Jaipur
+CU0081,Consumer,West,Pune
+CU0082,Corporate,West,Mumbai
+CU0083,Consumer,West,Pune
+CU0084,Small Business,North,Delhi
+CU0085,Corporate,Central,Bhopal
+CU0086,Small Business,Central,Bhopal
+CU0087,Consumer,West,Pune
+CU0088,Corporate,North,Delhi
+CU0089,Consumer,North,Jaipur
+CU0090,Small Business,Central,Bhopal
+CU0091,Consumer,East,Kolkata
+CU0092,Small Business,South,Bengaluru
+CU0093,Consumer,North,Delhi
+CU0094,Small Business,West,Pune
+CU0095,Small Business,North,Jaipur
+CU0096,Consumer,East,Kolkata
+CU0097,Small Business,North,Jaipur
+CU0098,Consumer,Central,Bhopal
+CU0099,Small Business,Central,Bhopal
+CU0100,Corporate,West,Pune
+CU0101,Small Business,South,Chennai
+CU0102,Corporate,South,Bengaluru
+CU0103,Small Business,South,Chennai
+CU0104,Consumer,West,Mumbai
+CU0105,Corporate,South,Chennai
+CU0106,Small Business,North,Delhi
+CU0107,Consumer,East,Kolkata
+CU0108,Small Business,East,Kolkata
+CU0109,Small Business,South,Chennai
+CU0110,Corporate,South,Bengaluru
+CU0111,Corporate,East,Kolkata
+CU0112,Small Business,South,Chennai
+CU0113,Consumer,North,Delhi
+CU0114,Consumer,South,Chennai
+CU0115,Consumer,South,Chennai
+CU0116,Consumer,West,Pune
+CU0117,Consumer,South,Bengaluru
+CU0118,Corporate,West,Mumbai
+CU0119,Consumer,South,Bengaluru
+CU0120,Consumer,West,Pune
+CU0121,Small Business,East,Kolkata
+CU0122,Small Business,South,Bengaluru
+CU0123,Corporate,East,Kolkata
+CU0124,Corporate,West,Mumbai
+CU0125,Consumer,South,Bengaluru
+CU0126,Small Business,West,Mumbai
+CU0127,Consumer,North,Delhi
+CU0128,Corporate,East,Kolkata
+CU0129,Corporate,East,Kolkata
+CU0130,Consumer,South,Bengaluru
+CU0131,Small Business,North,Jaipur
+CU0132,Small Business,South,Chennai
+CU0133,Consumer,North,Delhi
+CU0134,Corporate,North,Delhi
+CU0135,Corporate,South,Bengaluru
+CU0136,Consumer,West,Mumbai
+CU0137,Small Business,West,Mumbai
+CU0138,Corporate,West,Pune
+CU0139,Consumer,West,Pune
+CU0140,Corporate,Central,Bhopal
+CU0141,Small Business,West,Pune
+CU0142,Small Business,West,Mumbai
+CU0143,Small Business,West,Pune
+CU0144,Small Business,North,Delhi
+CU0145,Consumer,West,Pune
+CU0146,Corporate,North,Jaipur
+CU0147,Small Business,South,Bengaluru
+CU0148,Consumer,North,Delhi
+CU0149,Corporate,East,Kolkata
+CU0150,Small Business,North,Delhi
+CU0151,Small Business,West,Mumbai
+CU0152,Small Business,West,Pune
+CU0153,Consumer,West,Mumbai
+CU0154,Corporate,South,Bengaluru
+CU0155,Consumer,West,Pune
+CU0156,Corporate,East,Kolkata
+CU0157,Consumer,South,Bengaluru
+CU0158,Corporate,North,Delhi
+CU0159,Small Business,West,Mumbai
+CU0160,Corporate,East,Kolkata
+CU0161,Small Business,West,Mumbai
+CU0162,Consumer,East,Kolkata
+CU0163,Corporate,East,Kolkata
+CU0164,Consumer,South,Bengaluru
+CU0165,Small Business,North,Jaipur
+CU0166,Consumer,West,Mumbai
+CU0167,Small Business,Central,Bhopal
+CU0168,Consumer,North,Jaipur
+CU0169,Small Business,East,Kolkata
+CU0170,Consumer,South,Chennai
+CU0171,Consumer,West,Mumbai
+CU0172,Corporate,South,Chennai
+CU0173,Small Business,West,Pune
+CU0174,Consumer,West,Mumbai
+CU0175,Small Business,Central,Bhopal
+CU0176,Corporate,West,Pune
+CU0177,Corporate,South,Chennai
+CU0178,Consumer,West,Pune
+CU0179,Small Business,East,Kolkata
+CU0180,Corporate,West,Pune
+CU0181,Corporate,West,Pune
+CU0182,Small Business,South,Chennai
+CU0183,Small Business,Central,Bhopal
+CU0184,Corporate,West,Pune
+CU0185,Corporate,East,Kolkata
+CU0186,Consumer,North,Delhi
+CU0187,Consumer,West,Pune
+CU0188,Small Business,South,Bengaluru
+CU0189,Consumer,South,Bengaluru
+CU0190,Small Business,West,Pune
+CU0191,Small Business,South,Bengaluru
+CU0192,Corporate,Central,Bhopal
+CU0193,Consumer,Central,Bhopal
+CU0194,Consumer,South,Chennai
+CU0195,Corporate,South,Bengaluru
+CU0196,Consumer,North,Delhi
+CU0197,Corporate,West,Pune
+CU0198,Consumer,Central,Bhopal
+CU0199,Small Business,Central,Bhopal
+CU0200,Consumer,West,Mumbai
+CU0201,Corporate,South,Bengaluru
+CU0202,Small Business,South,Bengaluru
+CU0203,Corporate,East,Kolkata
+CU0204,Small Business,West,Mumbai
+CU0205,Small Business,West,Pune
+CU0206,Small Business,North,Jaipur
+CU0207,Corporate,North,Jaipur
+CU0208,Small Business,East,Kolkata
+CU0209,Small Business,East,Kolkata
+CU0210,Small Business,South,Bengaluru
+CU0211,Corporate,South,Bengaluru
+CU0212,Corporate,South,Bengaluru
+CU0213,Corporate,North,Jaipur
+CU0214,Small Business,South,Chennai
+CU0215,Consumer,East,Kolkata
+CU0216,Small Business,West,Mumbai
+CU0217,Small Business,East,Kolkata
+CU0218,Corporate,Central,Bhopal
+CU0219,Small Business,South,Chennai
+CU0220,Corporate,East,Kolkata
+CU0221,Small Business,North,Jaipur
+CU0222,Consumer,West,Pune
+CU0223,Consumer,North,Jaipur
+CU0224,Corporate,Central,Bhopal
+CU0225,Small Business,West,Pune
+CU0226,Small Business,South,Bengaluru
+CU0227,Small Business,North,Delhi
+CU0228,Small Business,South,Chennai
+CU0229,Small Business,East,Kolkata
+CU0230,Small Business,North,Jaipur
+CU0231,Corporate,West,Mumbai
+CU0232,Consumer,East,Kolkata
+CU0233,Corporate,East,Kolkata
+CU0234,Small Business,North,Jaipur
+CU0235,Small Business,Central,Bhopal
+CU0236,Corporate,East,Kolkata
+CU0237,Consumer,East,Kolkata
+CU0238,Consumer,West,Mumbai
+CU0239,Consumer,Central,Bhopal
+CU0240,Small Business,East,Kolkata
+CU0241,Consumer,West,Pune
+CU0242,Small Business,North,Delhi
+CU0243,Consumer,North,Delhi
+CU0244,Small Business,West,Mumbai
+CU0245,Consumer,North,Jaipur
+CU0246,Corporate,North,Delhi
+CU0247,Small Business,West,Mumbai
+CU0248,Corporate,Central,Bhopal
+CU0249,Small Business,Central,Bhopal
+CU0250,Corporate,South,Chennai
+CU0251,Consumer,South,Chennai
+CU0252,Consumer,North,Jaipur
+CU0253,Small Business,East,Kolkata
+CU0254,Corporate,North,Jaipur
+CU0255,Consumer,West,Mumbai
+CU0256,Corporate,North,Jaipur
+CU0257,Small Business,West,Pune
+CU0258,Consumer,North,Delhi
+CU0259,Corporate,South,Chennai
+CU0260,Consumer,South,Chennai
+CU0261,Small Business,North,Delhi
+CU0262,Consumer,Central,Bhopal
+CU0263,Consumer,West,Mumbai
+CU0264,Corporate,East,Kolkata
+CU0265,Corporate,East,Kolkata
+CU0266,Consumer,North,Delhi
+CU0267,Corporate,South,Bengaluru
+CU0268,Corporate,North,Jaipur
+CU0269,Consumer,South,Chennai
+CU0270,Corporate,South,Chennai
+CU0271,Corporate,East,Kolkata
+CU0272,Corporate,Central,Bhopal
+CU0273,Corporate,South,Chennai
+CU0274,Consumer,West,Pune
+CU0275,Consumer,West,Pune
+CU0276,Small Business,West,Mumbai
+CU0277,Corporate,West,Mumbai
+CU0278,Consumer,South,Chennai
+CU0279,Small Business,North,Jaipur
+CU0280,Consumer,South,Chennai
+CU0281,Corporate,East,Kolkata
+CU0282,Corporate,North,Delhi
+CU0283,Corporate,North,Delhi
+CU0284,Corporate,West,Mumbai
+CU0285,Small Business,West,Mumbai
+CU0286,Small Business,North,Delhi
+CU0287,Small Business,West,Pune
+CU0288,Small Business,South,Bengaluru
+CU0289,Consumer,North,Jaipur
+CU0290,Corporate,West,Pune
+CU0291,Small Business,South,Bengaluru
+CU0292,Consumer,South,Bengaluru
+CU0293,Corporate,West,Pune
+CU0294,Consumer,South,Chennai
+CU0295,Small Business,South,Chennai
+CU0296,Small Business,West,Pune
+CU0297,Consumer,South,Bengaluru
+CU0298,Corporate,South,Chennai
+CU0299,Small Business,North,Jaipur
+CU0300,Corporate,East,Kolkata
+CU0301,Corporate,North,Jaipur
+CU0302,Consumer,South,Chennai
+CU0303,Consumer,East,Kolkata
+CU0304,Small Business,West,Mumbai
+CU0305,Corporate,North,Delhi
+CU0306,Small Business,North,Delhi
+CU0307,Consumer,West,Pune
+CU0308,Small Business,Central,Bhopal
+CU0309,Consumer,North,Jaipur
+CU0310,Consumer,South,Bengaluru
+CU0311,Consumer,North,Jaipur
+CU0312,Consumer,North,Jaipur
+CU0313,Corporate,West,Pune
+CU0314,Small Business,Central,Bhopal
+CU0315,Corporate,Central,Bhopal
+CU0316,Small Business,South,Bengaluru
+CU0317,Corporate,West,Pune
+CU0318,Small Business,West,Pune
+CU0319,Corporate,North,Delhi
+CU0320,Small Business,North,Jaipur
+CU0321,Corporate,West,Pune
+CU0322,Corporate,West,Pune
+CU0323,Corporate,Central,Bhopal
+CU0324,Consumer,North,Delhi
+CU0325,Consumer,North,Delhi
+CU0326,Corporate,East,Kolkata
+CU0327,Small Business,East,Kolkata
+CU0328,Small Business,Central,Bhopal
+CU0329,Small Business,South,Chennai
+CU0330,Small Business,West,Pune
+CU0331,Consumer,South,Chennai
+CU0332,Small Business,North,Delhi
+CU0333,Consumer,North,Delhi
+CU0334,Small Business,Central,Bhopal
+CU0335,Corporate,West,Pune
+CU0336,Corporate,Central,Bhopal
+CU0337,Corporate,West,Pune
+CU0338,Consumer,South,Bengaluru
+CU0339,Corporate,East,Kolkata
+CU0340,Small Business,East,Kolkata
+CU0341,Small Business,Central,Bhopal
+CU0342,Small Business,West,Pune
+CU0343,Consumer,West,Pune
+CU0344,Small Business,North,Delhi
+CU0345,Corporate,West,Pune
+CU0346,Consumer,West,Mumbai
+CU0347,Small Business,Central,Bhopal
+CU0348,Small Business,West,Mumbai
+CU0349,Corporate,West,Pune
+CU0350,Consumer,North,Delhi
+CU0351,Consumer,West,Pune
+CU0352,Small Business,North,Jaipur
+CU0353,Corporate,North,Delhi
+CU0354,Corporate,Central,Bhopal
+CU0355,Consumer,North,Delhi
+CU0356,Consumer,South,Chennai
+CU0357,Consumer,East,Kolkata
+CU0358,Consumer,West,Pune
+CU0359,Consumer,South,Bengaluru
+CU0360,Consumer,West,Pune
+CU0361,Consumer,North,Jaipur
+CU0362,Small Business,Central,Bhopal
+CU0363,Consumer,South,Bengaluru
+CU0364,Small Business,West,Pune
+CU0365,Consumer,South,Chennai
+CU0366,Small Business,South,Bengaluru
+CU0367,Corporate,Central,Bhopal
+CU0368,Corporate,West,Pune
+CU0369,Corporate,Central,Bhopal
+CU0370,Consumer,South,Bengaluru
+CU0371,Consumer,South,Bengaluru
+CU0372,Corporate,Central,Bhopal
+CU0373,Corporate,North,Delhi
+CU0374,Small Business,Central,Bhopal
+CU0375,Corporate,West,Pune
+CU0376,Small Business,South,Bengaluru
+CU0377,Consumer,West,Mumbai
+CU0378,Consumer,South,Bengaluru
+CU0379,Small Business,East,Kolkata
+CU0380,Corporate,North,Delhi
+CU0381,Corporate,West,Mumbai
+CU0382,Consumer,Central,Bhopal
+CU0383,Consumer,South,Chennai
+CU0384,Small Business,East,Kolkata
+CU0385,Small Business,West,Mumbai
+CU0386,Corporate,Central,Bhopal
+CU0387,Corporate,South,Chennai
+CU0388,Small Business,South,Chennai
+CU0389,Corporate,North,Delhi
+CU0390,Corporate,North,Jaipur
+CU0391,Corporate,East,Kolkata
+CU0392,Consumer,North,Jaipur
+CU0393,Small Business,West,Pune
+CU0394,Small Business,West,Pune
+CU0395,Consumer,South,Chennai
+CU0396,Consumer,East,Kolkata
+CU0397,Small Business,North,Jaipur
+CU0398,Corporate,West,Mumbai
+CU0399,Corporate,West,Pune
+CU0400,Small Business,South,Chennai
+CU0401,Small Business,West,Pune
+CU0402,Corporate,North,Delhi
+CU0403,Corporate,West,Mumbai
+CU0404,Corporate,West,Mumbai
+CU0405,Corporate,South,Bengaluru
+CU0406,Consumer,North,Delhi
+CU0407,Small Business,East,Kolkata
+CU0408,Corporate,West,Pune
+CU0409,Corporate,West,Mumbai
+CU0410,Consumer,West,Mumbai
+CU0411,Small Business,West,Mumbai
+CU0412,Corporate,North,Jaipur
+CU0413,Small Business,South,Chennai
+CU0414,Corporate,North,Jaipur
+CU0415,Consumer,North,Delhi
+CU0416,Corporate,West,Mumbai
+CU0417,Small Business,North,Delhi
+CU0418,Corporate,West,Mumbai
+CU0419,Consumer,North,Jaipur
+CU0420,Small Business,South,Bengaluru
+CU0421,Corporate,West,Mumbai
+CU0422,Small Business,Central,Bhopal
+CU0423,Consumer,North,Delhi
+CU0424,Small Business,South,Bengaluru
+CU0425,Corporate,West,Pune
+CU0426,Small Business,North,Jaipur
+CU0427,Consumer,South,Bengaluru
+CU0428,Corporate,East,Kolkata
+CU0429,Corporate,North,Jaipur
+CU0430,Small Business,South,Chennai
+CU0431,Consumer,North,Delhi
+CU0432,Corporate,East,Kolkata
+CU0433,Corporate,East,Kolkata
+CU0434,Corporate,South,Bengaluru
+CU0435,Consumer,West,Pune
+CU0436,Corporate,West,Pune
+CU0437,Corporate,North,Delhi
+CU0438,Corporate,Central,Bhopal
+CU0439,Small Business,South,Chennai
+CU0440,Small Business,South,Chennai
+CU0441,Small Business,East,Kolkata
+CU0442,Corporate,North,Jaipur
+CU0443,Small Business,West,Mumbai
+CU0444,Corporate,West,Mumbai
+CU0445,Small Business,Central,Bhopal
+CU0446,Consumer,South,Chennai
+CU0447,Corporate,North,Jaipur
+CU0448,Small Business,South,Chennai
+CU0449,Small Business,South,Bengaluru
+CU0450,Corporate,North,Jaipur
+CU0451,Small Business,Central,Bhopal
+CU0452,Corporate,South,Bengaluru
+CU0453,Small Business,South,Bengaluru
+CU0454,Corporate,South,Chennai
+CU0455,Consumer,South,Chennai
+CU0456,Corporate,North,Jaipur
+CU0457,Small Business,South,Bengaluru
+CU0458,Consumer,East,Kolkata
+CU0459,Corporate,North,Jaipur
+CU0460,Consumer,North,Jaipur
+CU0461,Consumer,South,Chennai
+CU0462,Consumer,East,Kolkata
+CU0463,Small Business,North,Jaipur
+CU0464,Consumer,North,Jaipur
+CU0465,Small Business,South,Bengaluru
+CU0466,Consumer,East,Kolkata
+CU0467,Consumer,East,Kolkata
+CU0468,Corporate,North,Jaipur
+CU0469,Corporate,South,Bengaluru
+CU0470,Consumer,South,Bengaluru
+CU0471,Small Business,South,Bengaluru
+CU0472,Consumer,South,Chennai
+CU0473,Small Business,West,Pune
+CU0474,Consumer,West,Mumbai
+CU0475,Consumer,East,Kolkata
+CU0476,Consumer,Central,Bhopal
+CU0477,Consumer,East,Kolkata
+CU0478,Consumer,East,Kolkata
+CU0479,Corporate,East,Kolkata
+CU0480,Consumer,East,Kolkata
+CU0481,Consumer,South,Chennai
+CU0482,Small Business,North,Delhi
+CU0483,Small Business,North,Delhi
+CU0484,Corporate,South,Chennai
+CU0485,Small Business,East,Kolkata
+CU0486,Small Business,North,Jaipur
+CU0487,Consumer,Central,Bhopal
+CU0488,Consumer,South,Chennai
+CU0489,Corporate,South,Chennai
+CU0490,Small Business,North,Delhi
+CU0491,Consumer,Central,Bhopal
+CU0492,Consumer,South,Bengaluru
+CU0493,Consumer,South,Bengaluru
+CU0494,Small Business,South,Bengaluru
+CU0495,Small Business,South,Chennai
+CU0496,Small Business,West,Pune
+CU0497,Consumer,West,Pune
+CU0498,Small Business,South,Bengaluru
+CU0499,Consumer,East,Kolkata
+CU0500,Corporate,West,Mumbai
+CU0501,Small Business,South,Bengaluru
+CU0502,Corporate,South,Chennai
+CU0503,Small Business,South,Bengaluru
+CU0504,Consumer,South,Bengaluru
+CU0505,Small Business,North,Jaipur
+CU0506,Corporate,North,Jaipur
+CU0507,Small Business,West,Mumbai
+CU0508,Small Business,North,Jaipur
+CU0509,Consumer,North,Delhi
+CU0510,Corporate,Central,Bhopal
+CU0511,Small Business,North,Delhi
+CU0512,Corporate,North,Jaipur
+CU0513,Consumer,South,Chennai
+CU0514,Consumer,South,Bengaluru
+CU0515,Corporate,South,Bengaluru
+CU0516,Small Business,West,Pune
+CU0517,Small Business,Central,Bhopal
+CU0518,Corporate,North,Jaipur
+CU0519,Consumer,West,Mumbai
+CU0520,Small Business,West,Pune
+CU0521,Corporate,West,Mumbai
+CU0522,Corporate,North,Jaipur
+CU0523,Corporate,East,Kolkata
+CU0524,Small Business,Central,Bhopal
+CU0525,Small Business,South,Bengaluru
+CU0526,Corporate,East,Kolkata
+CU0527,Corporate,Central,Bhopal
+CU0528,Small Business,North,Delhi
+CU0529,Consumer,West,Mumbai
+CU0530,Corporate,West,Pune
+CU0531,Small Business,South,Bengaluru
+CU0532,Corporate,South,Chennai
+CU0533,Consumer,North,Delhi
+CU0534,Consumer,North,Delhi
+CU0535,Consumer,East,Kolkata
+CU0536,Small Business,Central,Bhopal
+CU0537,Corporate,East,Kolkata
+CU0538,Consumer,West,Pune
+CU0539,Corporate,South,Bengaluru
+CU0540,Small Business,East,Kolkata
+CU0541,Small Business,North,Jaipur
+CU0542,Small Business,South,Chennai
+CU0543,Corporate,South,Chennai
+CU0544,Corporate,South,Bengaluru
+CU0545,Consumer,East,Kolkata
+CU0546,Corporate,North,Jaipur
+CU0547,Consumer,North,Delhi
+CU0548,Small Business,North,Delhi
+CU0549,Small Business,Central,Bhopal
+CU0550,Consumer,South,Bengaluru
+CU0551,Small Business,East,Kolkata
+CU0552,Corporate,South,Bengaluru
+CU0553,Small Business,South,Bengaluru
+CU0554,Corporate,West,Mumbai
+CU0555,Small Business,West,Pune
+CU0556,Corporate,West,Mumbai
+CU0557,Corporate,North,Delhi
+CU0558,Small Business,East,Kolkata
+CU0559,Consumer,West,Mumbai
+CU0560,Small Business,East,Kolkata
+CU0561,Consumer,Central,Bhopal
+CU0562,Small Business,North,Delhi
+CU0563,Consumer,South,Bengaluru
+CU0564,Corporate,North,Jaipur
+CU0565,Corporate,Central,Bhopal
+CU0566,Corporate,South,Chennai
+CU0567,Consumer,North,Jaipur
+CU0568,Corporate,North,Delhi
+CU0569,Corporate,West,Mumbai
+CU0570,Small Business,Central,Bhopal
+CU0571,Corporate,West,Mumbai
+CU0572,Consumer,West,Pune
+CU0573,Consumer,Central,Bhopal
+CU0574,Small Business,East,Kolkata
+CU0575,Consumer,North,Jaipur
+CU0576,Consumer,Central,Bhopal
+CU0577,Corporate,South,Bengaluru
+CU0578,Corporate,West,Pune
+CU0579,Small Business,East,Kolkata
+CU0580,Small Business,North,Jaipur
+CU0581,Small Business,North,Delhi
+CU0582,Small Business,North,Delhi
+CU0583,Small Business,East,Kolkata
+CU0584,Corporate,South,Bengaluru
+CU0585,Consumer,West,Pune
+CU0586,Corporate,South,Bengaluru
+CU0587,Small Business,North,Delhi
+CU0588,Small Business,North,Jaipur
+CU0589,Small Business,South,Bengaluru
+CU0590,Small Business,East,Kolkata
+CU0591,Consumer,West,Pune
+CU0592,Small Business,East,Kolkata
+CU0593,Small Business,South,Chennai
+CU0594,Small Business,North,Delhi
+CU0595,Corporate,South,Chennai
+CU0596,Small Business,West,Pune
+CU0597,Small Business,West,Pune
+CU0598,Small Business,North,Jaipur
+CU0599,Small Business,Central,Bhopal
+CU0600,Small Business,West,Pune
+CU0601,Consumer,South,Bengaluru
+CU0602,Small Business,Central,Bhopal
+CU0603,Small Business,Central,Bhopal
+CU0604,Small Business,Central,Bhopal
+CU0605,Consumer,North,Delhi
+CU0606,Corporate,North,Delhi
+CU0607,Corporate,Central,Bhopal
+CU0608,Small Business,West,Pune
+CU0609,Small Business,South,Bengaluru
+CU0610,Corporate,North,Jaipur
+CU0611,Small Business,Central,Bhopal
+CU0612,Corporate,West,Mumbai
+CU0613,Corporate,North,Jaipur
+CU0614,Consumer,North,Delhi
+CU0615,Corporate,South,Bengaluru
+CU0616,Consumer,East,Kolkata
+CU0617,Corporate,Central,Bhopal
+CU0618,Consumer,North,Jaipur
+CU0619,Small Business,North,Delhi
+CU0620,Small Business,West,Pune
+CU0621,Corporate,North,Jaipur
+CU0622,Corporate,North,Jaipur
+CU0623,Small Business,North,Delhi
+CU0624,Small Business,North,Jaipur
+CU0625,Corporate,West,Mumbai
+CU0626,Corporate,North,Delhi
+CU0627,Consumer,South,Chennai
+CU0628,Corporate,North,Delhi
+CU0629,Corporate,Central,Bhopal
+CU0630,Corporate,South,Bengaluru
+CU0631,Corporate,South,Chennai
+CU0632,Consumer,West,Mumbai
+CU0633,Consumer,West,Pune
+CU0634,Consumer,East,Kolkata
+CU0635,Corporate,West,Pune
+CU0636,Corporate,North,Jaipur
+CU0637,Corporate,East,Kolkata
+CU0638,Consumer,West,Mumbai
+CU0639,Consumer,North,Delhi
+CU0640,Corporate,West,Mumbai
+CU0641,Corporate,South,Bengaluru
+CU0642,Corporate,West,Mumbai
+CU0643,Consumer,South,Chennai
+CU0644,Corporate,West,Mumbai
+CU0645,Small Business,North,Delhi
+CU0646,Small Business,South,Chennai
+CU0647,Consumer,Central,Bhopal
+CU0648,Consumer,South,Bengaluru
+CU0649,Consumer,East,Kolkata
+CU0650,Corporate,Central,Bhopal
+CU0651,Corporate,Central,Bhopal
+CU0652,Corporate,West,Mumbai
+CU0653,Corporate,North,Delhi
+CU0654,Small Business,Central,Bhopal
+CU0655,Consumer,East,Kolkata
+CU0656,Corporate,South,Chennai
+CU0657,Consumer,Central,Bhopal
+CU0658,Small Business,West,Mumbai
+CU0659,Small Business,West,Mumbai
+CU0660,Consumer,North,Jaipur
+CU0661,Small Business,West,Pune
+CU0662,Consumer,West,Pune
+CU0663,Consumer,West,Mumbai
+CU0664,Consumer,Central,Bhopal
+CU0665,Consumer,West,Mumbai
+CU0666,Corporate,West,Pune
+CU0667,Small Business,South,Bengaluru
+CU0668,Consumer,Central,Bhopal
+CU0669,Consumer,West,Mumbai
+CU0670,Small Business,Central,Bhopal
+CU0671,Consumer,West,Pune
+CU0672,Corporate,South,Chennai
+CU0673,Corporate,West,Pune
+CU0674,Consumer,East,Kolkata
+CU0675,Small Business,West,Pune
+CU0676,Small Business,East,Kolkata
+CU0677,Small Business,South,Bengaluru
+CU0678,Small Business,Central,Bhopal
+CU0679,Consumer,South,Chennai
+CU0680,Consumer,West,Mumbai
+CU0681,Consumer,South,Chennai
+CU0682,Small Business,South,Chennai
+CU0683,Corporate,North,Jaipur
+CU0684,Consumer,South,Bengaluru
+CU0685,Small Business,North,Delhi
+CU0686,Corporate,South,Chennai
+CU0687,Corporate,North,Delhi
+CU0688,Small Business,South,Chennai
+CU0689,Consumer,East,Kolkata
+CU0690,Consumer,West,Pune
+CU0691,Corporate,West,Pune
+CU0692,Corporate,South,Bengaluru
+CU0693,Small Business,North,Jaipur
+CU0694,Consumer,West,Pune
+CU0695,Small Business,South,Bengaluru
+CU0696,Consumer,North,Jaipur
+CU0697,Corporate,North,Delhi
+CU0698,Consumer,South,Chennai
+CU0699,Consumer,North,Delhi
+CU0700,Small Business,South,Chennai
+CU0701,Consumer,West,Mumbai
+CU0702,Corporate,North,Jaipur
+CU0703,Consumer,East,Kolkata
+CU0704,Small Business,North,Delhi
+CU0705,Consumer,North,Jaipur
+CU0706,Small Business,South,Chennai
+CU0707,Corporate,South,Bengaluru
+CU0708,Consumer,Central,Bhopal
+CU0709,Corporate,Central,Bhopal
+CU0710,Consumer,West,Mumbai
+CU0711,Corporate,South,Chennai
+CU0712,Small Business,Central,Bhopal
+CU0713,Small Business,Central,Bhopal
+CU0714,Small Business,East,Kolkata
+CU0715,Corporate,Central,Bhopal
+CU0716,Consumer,East,Kolkata
+CU0717,Consumer,West,Pune
+CU0718,Small Business,Central,Bhopal
+CU0719,Small Business,West,Pune
+CU0720,Corporate,North,Jaipur
+CU0721,Small Business,East,Kolkata
+CU0722,Corporate,North,Delhi
+CU0723,Corporate,West,Pune
+CU0724,Corporate,Central,Bhopal
+CU0725,Corporate,Central,Bhopal
+CU0726,Small Business,South,Bengaluru
+CU0727,Small Business,West,Mumbai
+CU0728,Small Business,West,Mumbai
+CU0729,Corporate,South,Chennai
+CU0730,Corporate,East,Kolkata
+CU0731,Consumer,West,Mumbai
+CU0732,Corporate,West,Mumbai
+CU0733,Consumer,South,Chennai
+CU0734,Small Business,North,Jaipur
+CU0735,Consumer,West,Mumbai
+CU0736,Consumer,West,Mumbai
+CU0737,Corporate,North,Jaipur
+CU0738,Consumer,West,Pune
+CU0739,Corporate,West,Pune
+CU0740,Consumer,North,Delhi
+CU0741,Small Business,West,Pune
+CU0742,Consumer,Central,Bhopal
+CU0743,Consumer,North,Jaipur
+CU0744,Small Business,South,Bengaluru
+CU0745,Consumer,South,Chennai
+CU0746,Corporate,West,Pune
+CU0747,Small Business,South,Bengaluru
+CU0748,Corporate,Central,Bhopal
+CU0749,Corporate,East,Kolkata
+CU0750,Small Business,West,Pune
+CU0751,Corporate,North,Delhi
+CU0752,Consumer,North,Jaipur
+CU0753,Small Business,North,Delhi
+CU0754,Consumer,North,Delhi
+CU0755,Consumer,South,Chennai
+CU0756,Consumer,South,Bengaluru
+CU0757,Small Business,South,Bengaluru
+CU0758,Consumer,Central,Bhopal
+CU0759,Small Business,East,Kolkata
+CU0760,Small Business,South,Bengaluru
+CU0761,Consumer,West,Pune
+CU0762,Corporate,North,Delhi
+CU0763,Consumer,North,Delhi
+CU0764,Corporate,West,Pune
+CU0765,Small Business,West,Pune
+CU0766,Corporate,South,Chennai
+CU0767,Consumer,West,Pune
+CU0768,Corporate,South,Chennai
+CU0769,Consumer,South,Bengaluru
+CU0770,Corporate,West,Pune
+CU0771,Consumer,North,Delhi
+CU0772,Consumer,East,Kolkata
+CU0773,Consumer,North,Jaipur
+CU0774,Corporate,Central,Bhopal
+CU0775,Corporate,East,Kolkata
+CU0776,Consumer,North,Jaipur
+CU0777,Small Business,South,Chennai
+CU0778,Consumer,Central,Bhopal
+CU0779,Corporate,West,Mumbai
+CU0780,Small Business,South,Bengaluru
+CU0781,Small Business,West,Pune
+CU0782,Small Business,West,Pune
+CU0783,Consumer,Central,Bhopal
+CU0784,Consumer,Central,Bhopal
+CU0785,Small Business,South,Chennai
+CU0786,Corporate,South,Chennai
+CU0787,Corporate,Central,Bhopal
+CU0788,Corporate,North,Delhi
+CU0789,Corporate,West,Pune
+CU0790,Corporate,North,Delhi
+CU0791,Small Business,Central,Bhopal
+CU0792,Corporate,West,Mumbai
+CU0793,Small Business,West,Mumbai
+CU0794,Corporate,East,Kolkata
+CU0795,Small Business,South,Bengaluru
+CU0796,Small Business,South,Bengaluru
+CU0797,Small Business,North,Jaipur
+CU0798,Corporate,South,Chennai
+CU0799,Small Business,Central,Bhopal
+CU0800,Consumer,North,Delhi

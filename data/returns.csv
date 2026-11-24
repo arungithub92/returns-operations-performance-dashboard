@@ -1,0 +1,1420 @@
+return_id,order_id,request_date,pickup_date,received_date,closed_date,return_reason,return_status,return_channel,assigned_team,refund_amount,sla_days,processing_days,sla_met,is_open
+RT000001,OR000002,2025-04-29,2025-04-30,2025-05-05,2025-04-30,Size/Fit Issue,Closed,Customer Support,Returns Team A,1558.32,5,1,1,0
+RT000002,OR000003,2025-10-11,2025-10-12,2025-10-17,2025-10-21,Size/Fit Issue,Closed,App,Escalations Team,12975.18,5,10,0,0
+RT000003,OR000007,2025-11-22,2025-11-25,2025-11-28,2025-12-02,Late Delivery,Closed,App,Returns Team C,15913.24,5,10,0,0
+RT000004,OR000015,2025-06-17,2025-06-20,2025-06-24,2025-06-23,Wrong Item Delivered,Rejected,Website,Returns Team A,31330.53,5,6,0,0
+RT000005,OR000022,2025-02-08,2025-02-09,2025-02-15,,Late Delivery,Inspection,Website,Escalations Team,18998.75,5,,0,1
+RT000006,OR000026,2025-09-23,2025-09-24,2025-09-27,,Wrong Item Delivered,In Transit,App,Returns Team A,27395.27,5,,0,1
+RT000007,OR000028,2025-12-17,2025-12-20,2025-12-22,,Damaged Product,Inspection,Website,Returns Team C,658.79,5,,0,1
+RT000008,OR000033,2025-11-22,2025-11-23,2025-11-26,2025-12-01,Late Delivery,Closed,App,Returns Team C,24355.29,5,9,0,0
+RT000009,OR000043,2025-09-17,2025-09-19,2025-09-24,,Product Not as Described,Inspection,Website,Returns Team C,31489.75,5,,0,1
+RT000010,OR000070,2025-08-05,2025-08-08,2025-08-12,,Size/Fit Issue,Pickup Scheduled,Website,Escalations Team,9218.02,5,,0,1
+RT000011,OR000071,2025-05-22,2025-05-23,2025-05-25,,Product Not as Described,Pickup Scheduled,App,Escalations Team,29249.36,5,,0,1
+RT000012,OR000082,2025-05-12,2025-05-15,2025-05-15,,Wrong Item Delivered,In Transit,App,Escalations Team,7131.77,5,,0,1
+RT000013,OR000092,2025-05-28,2025-05-30,2025-06-03,2025-06-06,Changed Mind,Closed,Customer Support,Returns Team B,18284.35,5,9,0,0
+RT000014,OR000093,2025-03-29,2025-03-30,2025-04-01,2025-04-10,Changed Mind,Closed,Website,Escalations Team,14263.65,5,12,0,0
+RT000015,OR000113,2025-04-24,2025-04-25,2025-04-28,2025-05-03,Missing Parts,Closed,Customer Support,Returns Team B,14051.06,5,9,0,0
+RT000016,OR000134,2025-04-26,2025-04-27,2025-05-01,,Late Delivery,Received,Customer Support,Returns Team C,38097.46,5,,0,1
+RT000017,OR000135,2025-01-23,2025-01-24,2025-01-27,2025-02-01,Size/Fit Issue,Closed,Website,Returns Team A,334.83,5,9,0,0
+RT000018,OR000143,2025-06-29,2025-07-01,2025-07-04,2025-07-07,Missing Parts,Closed,Website,Escalations Team,7536.98,5,8,0,0
+RT000019,OR000144,2025-11-12,2025-11-14,2025-11-19,2025-11-21,Late Delivery,Closed,Customer Support,Returns Team B,5652.03,5,9,0,0
+RT000020,OR000152,2025-02-02,2025-02-04,2025-02-07,,Wrong Item Delivered,Received,Website,Returns Team A,17045.7,5,,0,1
+RT000021,OR000155,2025-10-10,2025-10-12,2025-10-15,,Damaged Product,Inspection,Customer Support,Returns Team B,31116.7,5,,0,1
+RT000022,OR000162,2025-02-10,2025-02-13,2025-02-17,,Changed Mind,Received,Website,Escalations Team,843.39,5,,0,1
+RT000023,OR000163,2025-02-07,2025-02-08,2025-02-14,2025-02-18,Size/Fit Issue,Closed,Website,Returns Team A,28799.59,5,11,0,0
+RT000024,OR000165,2026-01-02,2026-01-05,2026-01-07,,Size/Fit Issue,Pickup Scheduled,Website,Returns Team B,17934.92,5,,0,1
+RT000025,OR000190,2025-08-21,2025-08-23,2025-08-26,2025-08-27,Missing Parts,Closed,Website,Returns Team A,12260.52,5,6,0,0
+RT000026,OR000195,2025-08-23,2025-08-26,2025-08-27,,Late Delivery,Requested,Customer Support,Returns Team A,14288.8,5,,0,1
+RT000027,OR000199,2025-02-24,2025-02-27,2025-03-03,2025-03-01,Late Delivery,Closed,App,Returns Team A,1600.09,5,5,1,0
+RT000028,OR000205,2025-04-14,2025-04-15,2025-04-18,2025-04-15,Size/Fit Issue,Closed,App,Returns Team B,15182.39,5,1,1,0
+RT000029,OR000210,2025-05-02,2025-05-03,2025-05-08,2025-05-06,Product Not as Described,Closed,Customer Support,Escalations Team,19605.92,5,4,1,0
+RT000030,OR000213,2025-08-19,2025-08-21,2025-08-22,,Damaged Product,Received,App,Returns Team B,11040.67,5,,0,1
+RT000031,OR000249,2025-04-02,2025-04-04,2025-04-09,,Size/Fit Issue,Refund Processing,Website,Returns Team C,19943.07,5,,0,1
+RT000032,OR000260,2025-10-11,2025-10-14,2025-10-16,2025-10-14,Wrong Item Delivered,Closed,App,Escalations Team,25317.4,5,3,1,0
+RT000033,OR000263,2025-04-04,2025-04-07,2025-04-07,2025-04-12,Changed Mind,Closed,Website,Escalations Team,7065.36,5,8,0,0
+RT000034,OR000270,2025-12-27,2025-12-28,2026-01-03,,Late Delivery,Refund Processing,App,Returns Team C,25287.61,5,,0,1
+RT000035,OR000274,2025-03-11,2025-03-12,2025-03-17,2025-03-18,Product Not as Described,Rejected,App,Returns Team B,13639.82,5,7,0,0
+RT000036,OR000280,2025-04-14,2025-04-15,2025-04-21,,Size/Fit Issue,Received,Customer Support,Returns Team B,30015.91,5,,0,1
+RT000037,OR000290,2025-08-03,2025-08-06,2025-08-08,2025-08-15,Missing Parts,Closed,App,Returns Team A,12829.39,5,12,0,0
+RT000038,OR000297,2025-12-24,2025-12-27,2025-12-28,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team A,25356.12,5,,0,1
+RT000039,OR000301,2025-05-12,2025-05-14,2025-05-16,2025-05-16,Changed Mind,Closed,App,Escalations Team,21754.84,5,4,1,0
+RT000040,OR000303,2025-02-06,2025-02-07,2025-02-12,,Size/Fit Issue,In Transit,App,Returns Team C,13603.0,5,,0,1
+RT000041,OR000309,2025-04-19,2025-04-21,2025-04-24,,Missing Parts,Pickup Scheduled,App,Escalations Team,6100.08,5,,0,1
+RT000042,OR000310,2025-10-19,2025-10-21,2025-10-25,,Late Delivery,Refund Processing,Customer Support,Returns Team A,23014.89,5,,0,1
+RT000043,OR000311,2025-12-26,2025-12-27,2025-12-30,,Changed Mind,Pickup Scheduled,App,Returns Team A,30776.25,5,,0,1
+RT000044,OR000334,2025-07-25,2025-07-26,2025-08-01,2025-07-28,Product Not as Described,Closed,Website,Returns Team B,5710.05,5,3,1,0
+RT000045,OR000337,2025-04-28,2025-04-30,2025-05-05,2025-05-02,Damaged Product,Rejected,Customer Support,Returns Team A,31735.89,5,4,1,0
+RT000046,OR000340,2025-02-21,2025-02-24,2025-02-27,2025-03-02,Wrong Item Delivered,Closed,Customer Support,Returns Team A,15453.7,5,9,0,0
+RT000047,OR000341,2025-08-09,2025-08-10,2025-08-13,,Product Not as Described,Inspection,App,Returns Team B,32015.37,5,,0,1
+RT000048,OR000347,2025-07-12,2025-07-13,2025-07-17,,Changed Mind,Requested,App,Returns Team A,2208.14,5,,0,1
+RT000049,OR000351,2025-06-14,2025-06-17,2025-06-17,2025-06-18,Changed Mind,Closed,Customer Support,Escalations Team,20460.85,5,4,1,0
+RT000050,OR000359,2025-12-09,2025-12-10,2025-12-16,,Product Not as Described,Pickup Scheduled,App,Returns Team B,21725.8,5,,0,1
+RT000051,OR000362,2025-09-23,2025-09-24,2025-09-30,2025-09-25,Changed Mind,Closed,Website,Returns Team B,27881.5,5,2,1,0
+RT000052,OR000363,2025-10-18,2025-10-20,2025-10-21,2025-10-23,Changed Mind,Closed,Customer Support,Returns Team B,39036.41,5,5,1,0
+RT000053,OR000368,2025-01-14,2025-01-17,2025-01-21,2025-01-17,Damaged Product,Rejected,Customer Support,Returns Team C,8368.75,5,3,1,0
+RT000054,OR000390,2025-09-07,2025-09-09,2025-09-10,2025-09-08,Product Not as Described,Closed,App,Returns Team C,11845.76,5,1,1,0
+RT000055,OR000413,2025-07-27,2025-07-29,2025-08-02,2025-07-31,Size/Fit Issue,Closed,Customer Support,Returns Team A,607.02,5,4,1,0
+RT000056,OR000416,2025-02-25,2025-02-26,2025-02-28,2025-02-27,Damaged Product,Closed,Customer Support,Returns Team B,8632.02,5,2,1,0
+RT000057,OR000417,2025-04-16,2025-04-18,2025-04-20,2025-04-23,Damaged Product,Closed,App,Escalations Team,624.57,5,7,0,0
+RT000058,OR000426,2025-10-27,2025-10-30,2025-11-01,2025-10-29,Product Not as Described,Closed,Website,Returns Team A,6057.31,5,2,1,0
+RT000059,OR000428,2025-01-16,2025-01-18,2025-01-21,,Size/Fit Issue,Pickup Scheduled,App,Returns Team A,30834.84,5,,0,1
+RT000060,OR000442,2025-10-31,2025-11-03,2025-11-06,,Late Delivery,Inspection,App,Returns Team C,33358.67,5,,0,1
+RT000061,OR000449,2025-06-03,2025-06-06,2025-06-06,,Product Not as Described,In Transit,App,Escalations Team,11758.83,5,,0,1
+RT000062,OR000455,2025-11-30,2025-12-03,2025-12-03,,Product Not as Described,Received,Website,Returns Team B,18675.83,5,,0,1
+RT000063,OR000459,2025-02-13,2025-02-15,2025-02-18,,Product Not as Described,Refund Processing,App,Returns Team C,11094.77,5,,0,1
+RT000064,OR000468,2025-06-06,2025-06-07,2025-06-12,2025-06-16,Product Not as Described,Closed,Website,Returns Team B,20166.22,5,10,0,0
+RT000065,OR000470,2025-06-04,2025-06-06,2025-06-11,2025-06-07,Size/Fit Issue,Closed,Customer Support,Returns Team C,35175.49,5,3,1,0
+RT000066,OR000474,2025-03-10,2025-03-11,2025-03-17,2025-03-22,Size/Fit Issue,Closed,Website,Returns Team A,20999.52,5,12,0,0
+RT000067,OR000482,2025-06-25,2025-06-27,2025-06-30,2025-06-29,Changed Mind,Closed,Customer Support,Returns Team B,8023.15,5,4,1,0
+RT000068,OR000487,2025-07-10,2025-07-11,2025-07-14,2025-07-20,Damaged Product,Closed,Customer Support,Escalations Team,11779.31,5,10,0,0
+RT000069,OR000490,2025-11-27,2025-11-30,2025-12-01,,Changed Mind,Received,Website,Returns Team A,24393.47,5,,0,1
+RT000070,OR000496,2025-01-11,2025-01-13,2025-01-14,,Product Not as Described,Requested,App,Returns Team A,25207.56,5,,0,1
+RT000071,OR000499,2025-10-15,2025-10-16,2025-10-18,2025-10-24,Missing Parts,Closed,Website,Returns Team A,31511.75,5,9,0,0
+RT000072,OR000504,2025-05-31,2025-06-02,2025-06-04,2025-06-04,Product Not as Described,Closed,App,Returns Team C,4976.72,5,4,1,0
+RT000073,OR000509,2025-05-05,2025-05-06,2025-05-11,,Damaged Product,Requested,App,Returns Team C,3388.76,5,,0,1
+RT000074,OR000531,2025-09-24,2025-09-26,2025-10-01,,Damaged Product,Inspection,Website,Escalations Team,16102.69,5,,0,1
+RT000075,OR000540,2025-12-26,2025-12-28,2026-01-02,2026-01-07,Missing Parts,Closed,App,Returns Team C,11469.91,5,12,0,0
+RT000076,OR000542,2025-03-25,2025-03-26,2025-03-29,,Damaged Product,Refund Processing,Website,Escalations Team,34276.44,5,,0,1
+RT000077,OR000548,2025-07-09,2025-07-12,2025-07-12,,Late Delivery,Refund Processing,App,Escalations Team,11441.03,5,,0,1
+RT000078,OR000550,2025-11-30,2025-12-02,2025-12-07,,Product Not as Described,Requested,Customer Support,Escalations Team,38368.05,5,,0,1
+RT000079,OR000551,2025-10-14,2025-10-16,2025-10-18,2025-10-17,Wrong Item Delivered,Rejected,Website,Returns Team C,32228.78,5,3,1,0
+RT000080,OR000558,2025-06-18,2025-06-21,2025-06-24,,Wrong Item Delivered,In Transit,Customer Support,Returns Team C,17569.73,5,,0,1
+RT000081,OR000568,2026-01-10,2026-01-12,2026-01-14,2026-01-21,Missing Parts,Closed,App,Returns Team C,9037.39,5,11,0,0
+RT000082,OR000575,2025-02-22,2025-02-25,2025-02-26,2025-03-05,Changed Mind,Closed,Website,Returns Team C,38119.66,5,11,0,0
+RT000083,OR000583,2025-10-29,2025-11-01,2025-11-03,2025-11-06,Changed Mind,Closed,Customer Support,Escalations Team,18137.97,5,8,0,0
+RT000084,OR000586,2025-03-10,2025-03-11,2025-03-13,2025-03-21,Missing Parts,Closed,App,Returns Team C,5287.92,5,11,0,0
+RT000085,OR000593,2025-12-29,2025-12-31,2026-01-03,,Missing Parts,Received,Website,Escalations Team,3546.12,5,,0,1
+RT000086,OR000605,2025-05-09,2025-05-10,2025-05-13,2025-05-12,Size/Fit Issue,Closed,App,Returns Team C,36075.06,5,3,1,0
+RT000087,OR000614,2025-03-05,2025-03-06,2025-03-12,,Changed Mind,Refund Processing,App,Escalations Team,11598.67,5,,0,1
+RT000088,OR000620,2025-08-09,2025-08-11,2025-08-16,,Missing Parts,Received,Website,Returns Team A,21893.52,5,,0,1
+RT000089,OR000622,2025-02-20,2025-02-23,2025-02-23,,Missing Parts,Inspection,App,Returns Team A,38705.32,5,,0,1
+RT000090,OR000624,2025-10-07,2025-10-10,2025-10-13,,Missing Parts,Received,Customer Support,Returns Team B,18519.52,5,,0,1
+RT000091,OR000627,2025-03-05,2025-03-07,2025-03-08,,Damaged Product,Received,App,Returns Team C,26610.51,5,,0,1
+RT000092,OR000629,2025-08-29,2025-08-30,2025-09-03,,Product Not as Described,Received,Customer Support,Returns Team A,4577.66,5,,0,1
+RT000093,OR000631,2025-09-06,2025-09-08,2025-09-12,2025-09-10,Wrong Item Delivered,Rejected,Customer Support,Returns Team B,29919.3,5,4,1,0
+RT000094,OR000656,2025-06-21,2025-06-24,2025-06-27,2025-06-26,Product Not as Described,Closed,App,Returns Team C,18077.22,5,5,1,0
+RT000095,OR000666,2025-12-30,2026-01-02,2026-01-05,,Missing Parts,Pickup Scheduled,App,Returns Team A,29092.1,5,,0,1
+RT000096,OR000668,2025-09-12,2025-09-15,2025-09-17,,Missing Parts,Received,Website,Returns Team B,18149.41,5,,0,1
+RT000097,OR000669,2025-04-10,2025-04-11,2025-04-13,2025-04-22,Product Not as Described,Closed,Customer Support,Returns Team C,28640.19,5,12,0,0
+RT000098,OR000681,2025-10-02,2025-10-03,2025-10-06,2025-10-05,Late Delivery,Closed,Customer Support,Returns Team B,36739.86,5,3,1,0
+RT000099,OR000683,2025-11-20,2025-11-21,2025-11-26,,Size/Fit Issue,Requested,App,Returns Team C,1838.75,5,,0,1
+RT000100,OR000684,2025-08-09,2025-08-12,2025-08-15,,Missing Parts,Pickup Scheduled,App,Escalations Team,34655.14,5,,0,1
+RT000101,OR000686,2025-10-02,2025-10-05,2025-10-06,2025-10-14,Damaged Product,Closed,Customer Support,Escalations Team,21740.67,5,12,0,0
+RT000102,OR000699,2025-09-14,2025-09-16,2025-09-19,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team C,8391.73,5,,0,1
+RT000103,OR000701,2025-02-22,2025-02-24,2025-02-25,,Missing Parts,Pickup Scheduled,App,Returns Team B,31855.14,5,,0,1
+RT000104,OR000703,2025-07-13,2025-07-14,2025-07-17,,Product Not as Described,Inspection,Website,Returns Team C,11018.45,5,,0,1
+RT000105,OR000709,2025-02-01,2025-02-02,2025-02-04,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team B,7264.39,5,,0,1
+RT000106,OR000720,2025-03-15,2025-03-17,2025-03-21,2025-03-25,Wrong Item Delivered,Closed,Customer Support,Returns Team B,3252.62,5,10,0,0
+RT000107,OR000728,2025-09-08,2025-09-09,2025-09-12,2025-09-18,Changed Mind,Closed,Customer Support,Returns Team C,7626.16,5,10,0,0
+RT000108,OR000769,2025-02-05,2025-02-07,2025-02-10,2025-02-12,Missing Parts,Closed,Website,Returns Team B,12773.86,5,7,0,0
+RT000109,OR000770,2025-02-25,2025-02-28,2025-02-28,2025-03-09,Missing Parts,Closed,Customer Support,Returns Team A,38329.19,5,12,0,0
+RT000110,OR000782,2025-09-28,2025-09-29,2025-10-01,,Changed Mind,Inspection,Website,Returns Team B,12183.43,5,,0,1
+RT000111,OR000785,2025-05-02,2025-05-04,2025-05-09,,Late Delivery,Inspection,Customer Support,Returns Team A,44395.85,5,,0,1
+RT000112,OR000786,2025-09-13,2025-09-14,2025-09-19,2025-09-16,Missing Parts,Closed,Website,Returns Team C,3991.06,5,3,1,0
+RT000113,OR000792,2025-02-04,2025-02-05,2025-02-09,,Product Not as Described,Inspection,App,Returns Team C,28677.32,5,,0,1
+RT000114,OR000796,2025-09-04,2025-09-07,2025-09-09,2025-09-05,Size/Fit Issue,Closed,Customer Support,Returns Team C,6428.11,5,1,1,0
+RT000115,OR000807,2025-02-27,2025-03-02,2025-03-06,2025-03-03,Changed Mind,Closed,Customer Support,Returns Team C,18210.9,5,4,1,0
+RT000116,OR000817,2025-06-15,2025-06-18,2025-06-22,,Size/Fit Issue,Inspection,App,Escalations Team,20635.5,5,,0,1
+RT000117,OR000826,2025-09-16,2025-09-19,2025-09-21,,Damaged Product,Refund Processing,Customer Support,Returns Team A,10775.17,5,,0,1
+RT000118,OR000829,2025-01-24,2025-01-27,2025-01-27,2025-02-03,Size/Fit Issue,Closed,Website,Escalations Team,25703.26,5,10,0,0
+RT000119,OR000843,2026-01-13,2026-01-14,2026-01-18,2026-01-23,Changed Mind,Closed,Website,Returns Team C,8944.34,5,10,0,0
+RT000120,OR000863,2025-03-28,2025-03-29,2025-04-03,2025-04-07,Wrong Item Delivered,Closed,Website,Escalations Team,40245.42,5,10,0,0
+RT000121,OR000875,2025-08-03,2025-08-06,2025-08-09,2025-08-14,Late Delivery,Rejected,Customer Support,Returns Team B,11362.14,5,11,0,0
+RT000122,OR000880,2025-01-16,2025-01-19,2025-01-22,,Changed Mind,Inspection,App,Returns Team B,38273.0,5,,0,1
+RT000123,OR000884,2025-05-09,2025-05-10,2025-05-16,,Missing Parts,Received,Website,Returns Team B,34014.05,5,,0,1
+RT000124,OR000887,2025-10-26,2025-10-28,2025-11-02,2025-11-07,Size/Fit Issue,Closed,Customer Support,Returns Team C,24762.03,5,12,0,0
+RT000125,OR000894,2025-08-31,2025-09-01,2025-09-03,,Missing Parts,Received,App,Returns Team A,23299.79,5,,0,1
+RT000126,OR000907,2025-05-27,2025-05-28,2025-06-03,2025-06-03,Size/Fit Issue,Closed,Customer Support,Returns Team B,23156.25,5,7,0,0
+RT000127,OR000908,2025-04-13,2025-04-16,2025-04-19,,Size/Fit Issue,Inspection,Website,Escalations Team,26017.89,5,,0,1
+RT000128,OR000921,2025-06-07,2025-06-08,2025-06-14,,Changed Mind,Refund Processing,App,Returns Team B,33020.49,5,,0,1
+RT000129,OR000922,2025-11-19,2025-11-21,2025-11-26,,Product Not as Described,Requested,Customer Support,Returns Team A,26227.55,5,,0,1
+RT000130,OR000928,2025-05-09,2025-05-12,2025-05-16,2025-05-15,Size/Fit Issue,Closed,App,Escalations Team,447.7,5,6,0,0
+RT000131,OR000934,2025-10-02,2025-10-05,2025-10-05,,Late Delivery,In Transit,Customer Support,Returns Team B,19836.86,5,,0,1
+RT000132,OR000941,2025-04-25,2025-04-27,2025-05-02,,Size/Fit Issue,Requested,Customer Support,Returns Team C,25540.49,5,,0,1
+RT000133,OR000942,2025-03-23,2025-03-26,2025-03-26,,Product Not as Described,Pickup Scheduled,Customer Support,Returns Team B,9517.24,5,,0,1
+RT000134,OR000948,2025-05-24,2025-05-26,2025-05-28,,Missing Parts,Received,Customer Support,Returns Team A,9669.65,5,,0,1
+RT000135,OR000951,2025-06-23,2025-06-24,2025-06-29,,Damaged Product,Received,Customer Support,Returns Team B,7973.19,5,,0,1
+RT000136,OR000967,2025-07-16,2025-07-19,2025-07-21,2025-07-24,Product Not as Described,Closed,App,Escalations Team,4162.99,5,8,0,0
+RT000137,OR000973,2025-11-13,2025-11-15,2025-11-19,,Missing Parts,Inspection,App,Returns Team A,23313.65,5,,0,1
+RT000138,OR000988,2025-09-16,2025-09-17,2025-09-20,,Product Not as Described,Refund Processing,Customer Support,Escalations Team,28345.29,5,,0,1
+RT000139,OR000994,2025-03-20,2025-03-21,2025-03-24,,Product Not as Described,In Transit,Website,Escalations Team,33715.59,5,,0,1
+RT000140,OR000996,2025-03-06,2025-03-08,2025-03-12,2025-03-13,Size/Fit Issue,Closed,App,Returns Team C,12305.9,5,7,0,0
+RT000141,OR001000,2025-02-01,2025-02-03,2025-02-04,,Damaged Product,Received,App,Escalations Team,18302.11,5,,0,1
+RT000142,OR001017,2025-06-21,2025-06-23,2025-06-25,2025-07-01,Wrong Item Delivered,Closed,Website,Returns Team C,1238.52,5,10,0,0
+RT000143,OR001024,2025-06-09,2025-06-10,2025-06-13,2025-06-16,Late Delivery,Closed,App,Escalations Team,9488.21,5,7,0,0
+RT000144,OR001028,2025-03-06,2025-03-07,2025-03-09,2025-03-10,Size/Fit Issue,Closed,App,Returns Team A,2925.05,5,4,1,0
+RT000145,OR001029,2025-10-23,2025-10-25,2025-10-27,,Damaged Product,Inspection,Website,Returns Team B,1159.49,5,,0,1
+RT000146,OR001034,2025-12-27,2025-12-28,2026-01-03,,Size/Fit Issue,Pickup Scheduled,Website,Returns Team C,26430.79,5,,0,1
+RT000147,OR001039,2025-07-20,2025-07-23,2025-07-23,,Product Not as Described,Requested,Customer Support,Returns Team C,28053.0,5,,0,1
+RT000148,OR001042,2025-10-26,2025-10-27,2025-10-30,,Changed Mind,Received,App,Returns Team B,33188.55,5,,0,1
+RT000149,OR001063,2025-02-01,2025-02-02,2025-02-07,,Product Not as Described,Refund Processing,App,Returns Team C,1585.14,5,,0,1
+RT000150,OR001080,2025-12-02,2025-12-03,2025-12-06,2025-12-06,Wrong Item Delivered,Closed,App,Escalations Team,27789.19,5,4,1,0
+RT000151,OR001081,2025-07-09,2025-07-10,2025-07-15,2025-07-11,Changed Mind,Closed,Website,Returns Team C,32993.47,5,2,1,0
+RT000152,OR001088,2025-12-05,2025-12-08,2025-12-09,2025-12-12,Late Delivery,Rejected,Customer Support,Returns Team C,33968.12,5,7,0,0
+RT000153,OR001117,2025-09-05,2025-09-08,2025-09-10,2025-09-16,Wrong Item Delivered,Closed,Website,Returns Team C,3443.99,5,11,0,0
+RT000154,OR001123,2025-08-17,2025-08-20,2025-08-22,2025-08-24,Damaged Product,Closed,App,Returns Team C,31031.02,5,7,0,0
+RT000155,OR001139,2025-02-28,2025-03-03,2025-03-03,2025-03-05,Changed Mind,Rejected,App,Escalations Team,28721.74,5,5,1,0
+RT000156,OR001152,2025-12-14,2025-12-16,2025-12-18,2025-12-18,Missing Parts,Closed,App,Escalations Team,28128.42,5,4,1,0
+RT000157,OR001153,2025-10-17,2025-10-20,2025-10-20,,Damaged Product,In Transit,App,Returns Team B,24068.48,5,,0,1
+RT000158,OR001154,2025-12-17,2025-12-20,2025-12-20,2025-12-27,Size/Fit Issue,Closed,App,Returns Team C,26054.17,5,10,0,0
+RT000159,OR001166,2025-04-03,2025-04-04,2025-04-09,,Size/Fit Issue,Received,Customer Support,Returns Team C,32222.36,5,,0,1
+RT000160,OR001190,2025-12-23,2025-12-24,2025-12-29,2025-12-28,Missing Parts,Closed,App,Returns Team A,19492.31,5,5,1,0
+RT000161,OR001193,2025-04-14,2025-04-16,2025-04-19,2025-04-23,Changed Mind,Closed,App,Escalations Team,18759.92,5,9,0,0
+RT000162,OR001197,2025-11-28,2025-12-01,2025-12-03,2025-12-07,Product Not as Described,Closed,Customer Support,Returns Team C,15585.67,5,9,0,0
+RT000163,OR001198,2025-12-21,2025-12-22,2025-12-26,2025-12-23,Changed Mind,Closed,Website,Returns Team A,25849.71,5,2,1,0
+RT000164,OR001201,2025-05-08,2025-05-10,2025-05-12,2025-05-19,Size/Fit Issue,Closed,Website,Escalations Team,799.66,5,11,0,0
+RT000165,OR001206,2025-02-08,2025-02-11,2025-02-13,2025-02-12,Changed Mind,Closed,Customer Support,Escalations Team,19315.42,5,4,1,0
+RT000166,OR001214,2025-08-13,2025-08-16,2025-08-19,2025-08-21,Changed Mind,Rejected,Website,Escalations Team,5999.09,5,8,0,0
+RT000167,OR001216,2025-05-09,2025-05-12,2025-05-16,2025-05-14,Changed Mind,Closed,App,Returns Team B,24985.66,5,5,1,0
+RT000168,OR001228,2025-04-08,2025-04-09,2025-04-11,2025-04-13,Size/Fit Issue,Closed,Website,Returns Team B,28386.58,5,5,1,0
+RT000169,OR001238,2025-05-09,2025-05-10,2025-05-13,2025-05-18,Size/Fit Issue,Rejected,App,Escalations Team,20407.42,5,9,0,0
+RT000170,OR001243,2025-10-26,2025-10-27,2025-10-30,,Late Delivery,Requested,App,Returns Team C,18078.41,5,,0,1
+RT000171,OR001247,2025-04-28,2025-04-29,2025-05-01,2025-05-03,Missing Parts,Closed,Customer Support,Escalations Team,7692.56,5,5,1,0
+RT000172,OR001257,2025-10-19,2025-10-21,2025-10-25,,Size/Fit Issue,In Transit,Website,Escalations Team,5421.86,5,,0,1
+RT000173,OR001267,2025-11-15,2025-11-17,2025-11-21,2025-11-25,Wrong Item Delivered,Closed,Website,Returns Team B,1423.48,5,10,0,0
+RT000174,OR001268,2025-03-12,2025-03-13,2025-03-16,2025-03-20,Product Not as Described,Closed,App,Returns Team A,32118.21,5,8,0,0
+RT000175,OR001274,2025-08-07,2025-08-10,2025-08-13,2025-08-18,Damaged Product,Closed,Customer Support,Returns Team B,12739.81,5,11,0,0
+RT000176,OR001282,2025-09-14,2025-09-17,2025-09-20,,Size/Fit Issue,Received,App,Returns Team A,18368.0,5,,0,1
+RT000177,OR001283,2025-05-07,2025-05-10,2025-05-13,,Missing Parts,Inspection,Customer Support,Returns Team C,23370.62,5,,0,1
+RT000178,OR001284,2025-11-22,2025-11-25,2025-11-28,,Size/Fit Issue,Inspection,Website,Returns Team C,40130.23,5,,0,1
+RT000179,OR001285,2026-01-09,2026-01-10,2026-01-15,,Product Not as Described,Requested,Customer Support,Escalations Team,7753.91,5,,0,1
+RT000180,OR001300,2025-07-29,2025-07-31,2025-08-04,2025-08-09,Changed Mind,Closed,Website,Returns Team C,25373.52,5,11,0,0
+RT000181,OR001308,2025-07-18,2025-07-20,2025-07-22,,Wrong Item Delivered,Received,App,Returns Team C,15362.2,5,,0,1
+RT000182,OR001309,2025-04-03,2025-04-04,2025-04-06,2025-04-07,Product Not as Described,Closed,App,Returns Team C,8141.5,5,4,1,0
+RT000183,OR001315,2025-07-30,2025-08-01,2025-08-05,2025-08-06,Product Not as Described,Closed,Website,Escalations Team,27988.34,5,7,0,0
+RT000184,OR001329,2025-05-04,2025-05-06,2025-05-11,2025-05-12,Late Delivery,Closed,Website,Escalations Team,14273.76,5,8,0,0
+RT000185,OR001333,2025-04-03,2025-04-04,2025-04-07,2025-04-13,Product Not as Described,Closed,Website,Escalations Team,3700.08,5,10,0,0
+RT000186,OR001351,2025-07-03,2025-07-04,2025-07-06,,Changed Mind,Refund Processing,App,Returns Team B,10065.59,5,,0,1
+RT000187,OR001359,2025-05-19,2025-05-20,2025-05-26,2025-05-25,Size/Fit Issue,Closed,Website,Returns Team B,12249.1,5,6,0,0
+RT000188,OR001362,2025-11-09,2025-11-11,2025-11-14,2025-11-10,Late Delivery,Closed,Customer Support,Returns Team B,15819.21,5,1,1,0
+RT000189,OR001364,2025-12-20,2025-12-23,2025-12-24,2026-01-01,Size/Fit Issue,Rejected,App,Returns Team B,31503.41,5,12,0,0
+RT000190,OR001380,2025-05-06,2025-05-09,2025-05-13,2025-05-07,Late Delivery,Closed,Website,Escalations Team,15997.26,5,1,1,0
+RT000191,OR001385,2025-09-09,2025-09-12,2025-09-14,,Wrong Item Delivered,Received,App,Returns Team C,18793.1,5,,0,1
+RT000192,OR001390,2025-05-05,2025-05-07,2025-05-09,,Product Not as Described,Refund Processing,App,Returns Team B,17185.16,5,,0,1
+RT000193,OR001396,2025-10-02,2025-10-03,2025-10-08,,Changed Mind,Inspection,Website,Escalations Team,14262.47,5,,0,1
+RT000194,OR001403,2025-11-05,2025-11-08,2025-11-09,2025-11-15,Missing Parts,Rejected,Website,Returns Team B,14093.88,5,10,0,0
+RT000195,OR001412,2025-04-12,2025-04-14,2025-04-18,2025-04-22,Changed Mind,Closed,Customer Support,Returns Team C,12442.18,5,10,0,0
+RT000196,OR001423,2025-05-26,2025-05-28,2025-06-01,2025-06-07,Missing Parts,Closed,Website,Escalations Team,4346.45,5,12,0,0
+RT000197,OR001424,2025-06-16,2025-06-19,2025-06-20,,Missing Parts,Received,Customer Support,Returns Team A,1260.37,5,,0,1
+RT000198,OR001438,2025-05-07,2025-05-08,2025-05-14,,Damaged Product,Pickup Scheduled,Website,Returns Team A,19618.68,5,,0,1
+RT000199,OR001443,2025-03-09,2025-03-10,2025-03-16,2025-03-15,Size/Fit Issue,Closed,Website,Returns Team C,4327.6,5,6,0,0
+RT000200,OR001448,2025-09-24,2025-09-26,2025-09-29,2025-09-26,Late Delivery,Rejected,App,Returns Team B,33176.89,5,2,1,0
+RT000201,OR001453,2025-06-10,2025-06-11,2025-06-14,2025-06-11,Changed Mind,Closed,Website,Returns Team B,8239.03,5,1,1,0
+RT000202,OR001468,2025-10-24,2025-10-26,2025-10-27,2025-10-30,Wrong Item Delivered,Closed,App,Escalations Team,14410.15,5,6,0,0
+RT000203,OR001480,2025-02-10,2025-02-11,2025-02-14,2025-02-22,Missing Parts,Closed,App,Escalations Team,20103.96,5,12,0,0
+RT000204,OR001498,2025-10-26,2025-10-29,2025-11-01,,Missing Parts,Requested,Customer Support,Returns Team C,14439.37,5,,0,1
+RT000205,OR001500,2025-11-13,2025-11-15,2025-11-16,2025-11-21,Damaged Product,Closed,Website,Returns Team A,22248.76,5,8,0,0
+RT000206,OR001503,2025-01-28,2025-01-31,2025-02-03,2025-01-30,Damaged Product,Closed,Customer Support,Returns Team C,31895.77,5,2,1,0
+RT000207,OR001505,2025-10-03,2025-10-05,2025-10-06,2025-10-07,Wrong Item Delivered,Closed,App,Returns Team B,24748.08,5,4,1,0
+RT000208,OR001532,2026-01-06,2026-01-07,2026-01-09,2026-01-14,Missing Parts,Rejected,Customer Support,Returns Team C,15327.93,5,8,0,0
+RT000209,OR001535,2025-05-02,2025-05-05,2025-05-06,2025-05-09,Missing Parts,Closed,App,Returns Team C,1519.43,5,7,0,0
+RT000210,OR001548,2025-06-09,2025-06-11,2025-06-14,,Changed Mind,Refund Processing,Website,Returns Team A,19553.92,5,,0,1
+RT000211,OR001551,2025-05-30,2025-06-01,2025-06-04,,Damaged Product,In Transit,Website,Escalations Team,29043.12,5,,0,1
+RT000212,OR001556,2025-08-13,2025-08-16,2025-08-16,2025-08-25,Product Not as Described,Closed,App,Escalations Team,4860.56,5,12,0,0
+RT000213,OR001572,2025-03-20,2025-03-21,2025-03-27,2025-03-31,Missing Parts,Closed,Customer Support,Returns Team C,27464.16,5,11,0,0
+RT000214,OR001576,2025-07-08,2025-07-09,2025-07-13,2025-07-11,Late Delivery,Closed,Website,Returns Team C,18559.42,5,3,1,0
+RT000215,OR001579,2025-05-17,2025-05-19,2025-05-20,2025-05-26,Product Not as Described,Closed,Website,Returns Team A,8259.24,5,9,0,0
+RT000216,OR001583,2025-08-28,2025-08-30,2025-09-02,2025-09-06,Changed Mind,Closed,Customer Support,Returns Team A,32939.22,5,9,0,0
+RT000217,OR001593,2025-06-23,2025-06-25,2025-06-29,,Missing Parts,Received,Website,Returns Team B,2297.92,5,,0,1
+RT000218,OR001603,2025-06-19,2025-06-22,2025-06-26,2025-06-28,Size/Fit Issue,Closed,Customer Support,Escalations Team,36709.14,5,9,0,0
+RT000219,OR001610,2025-08-23,2025-08-24,2025-08-28,2025-08-25,Damaged Product,Closed,Customer Support,Returns Team B,9866.57,5,2,1,0
+RT000220,OR001611,2025-01-31,2025-02-03,2025-02-03,,Size/Fit Issue,Pickup Scheduled,App,Escalations Team,7042.82,5,,0,1
+RT000221,OR001623,2025-02-10,2025-02-11,2025-02-17,,Damaged Product,Received,App,Escalations Team,38868.76,5,,0,1
+RT000222,OR001625,2025-09-29,2025-10-02,2025-10-03,,Changed Mind,In Transit,Customer Support,Returns Team A,4079.42,5,,0,1
+RT000223,OR001629,2025-10-17,2025-10-19,2025-10-22,2025-10-18,Late Delivery,Closed,Customer Support,Returns Team C,3794.59,5,1,1,0
+RT000224,OR001637,2025-07-30,2025-08-01,2025-08-04,,Missing Parts,Received,Website,Returns Team B,8287.4,5,,0,1
+RT000225,OR001640,2025-05-31,2025-06-03,2025-06-04,,Size/Fit Issue,Received,App,Returns Team A,30778.61,5,,0,1
+RT000226,OR001642,2025-07-22,2025-07-23,2025-07-27,2025-07-30,Size/Fit Issue,Closed,Customer Support,Returns Team B,19001.32,5,8,0,0
+RT000227,OR001647,2025-10-21,2025-10-22,2025-10-28,,Missing Parts,Refund Processing,Website,Escalations Team,35607.09,5,,0,1
+RT000228,OR001657,2025-05-26,2025-05-28,2025-05-29,,Product Not as Described,Refund Processing,App,Escalations Team,34253.5,5,,0,1
+RT000229,OR001666,2025-09-15,2025-09-17,2025-09-19,2025-09-24,Damaged Product,Closed,Website,Escalations Team,41999.59,5,9,0,0
+RT000230,OR001668,2025-10-11,2025-10-12,2025-10-14,2025-10-15,Late Delivery,Closed,Website,Escalations Team,11686.58,5,4,1,0
+RT000231,OR001672,2025-01-26,2025-01-28,2025-02-01,2025-02-05,Damaged Product,Closed,Website,Returns Team A,34964.69,5,10,0,0
+RT000232,OR001682,2025-12-28,2025-12-30,2025-12-31,2026-01-01,Late Delivery,Closed,Website,Returns Team C,4991.08,5,4,1,0
+RT000233,OR001686,2025-04-25,2025-04-26,2025-05-02,,Missing Parts,Inspection,App,Returns Team B,976.91,5,,0,1
+RT000234,OR001704,2025-01-29,2025-01-30,2025-02-05,,Size/Fit Issue,In Transit,Customer Support,Returns Team C,19858.01,5,,0,1
+RT000235,OR001718,2025-04-08,2025-04-09,2025-04-14,,Changed Mind,Inspection,Website,Returns Team C,21894.2,5,,0,1
+RT000236,OR001721,2025-11-11,2025-11-14,2025-11-18,,Missing Parts,Pickup Scheduled,Customer Support,Returns Team A,12885.05,5,,0,1
+RT000237,OR001734,2025-12-13,2025-12-14,2025-12-17,2025-12-22,Changed Mind,Closed,App,Returns Team C,35659.36,5,9,0,0
+RT000238,OR001737,2025-05-07,2025-05-08,2025-05-13,2025-05-15,Late Delivery,Closed,App,Returns Team B,34802.9,5,8,0,0
+RT000239,OR001746,2025-04-30,2025-05-02,2025-05-03,,Changed Mind,In Transit,App,Returns Team C,7086.1,5,,0,1
+RT000240,OR001752,2025-08-19,2025-08-20,2025-08-26,,Size/Fit Issue,Received,App,Returns Team C,33508.38,5,,0,1
+RT000241,OR001755,2025-03-23,2025-03-24,2025-03-26,2025-04-03,Missing Parts,Closed,App,Returns Team B,15452.9,5,11,0,0
+RT000242,OR001766,2025-04-23,2025-04-25,2025-04-30,2025-05-02,Wrong Item Delivered,Closed,Customer Support,Escalations Team,20324.45,5,9,0,0
+RT000243,OR001778,2025-09-07,2025-09-08,2025-09-13,,Damaged Product,Received,App,Returns Team B,16741.96,5,,0,1
+RT000244,OR001792,2025-02-05,2025-02-06,2025-02-09,,Changed Mind,Refund Processing,Customer Support,Returns Team A,35018.72,5,,0,1
+RT000245,OR001794,2025-12-22,2025-12-23,2025-12-27,,Missing Parts,Requested,Customer Support,Returns Team B,34045.85,5,,0,1
+RT000246,OR001795,2025-02-14,2025-02-15,2025-02-20,,Missing Parts,Received,App,Returns Team C,3361.68,5,,0,1
+RT000247,OR001796,2025-07-18,2025-07-21,2025-07-23,,Product Not as Described,Received,Customer Support,Returns Team C,16507.79,5,,0,1
+RT000248,OR001799,2025-03-26,2025-03-29,2025-04-01,2025-04-07,Changed Mind,Closed,Website,Returns Team C,27054.89,5,12,0,0
+RT000249,OR001830,2025-12-04,2025-12-05,2025-12-10,2025-12-12,Product Not as Described,Closed,Website,Returns Team B,4902.33,5,8,0,0
+RT000250,OR001832,2025-05-24,2025-05-25,2025-05-30,2025-06-01,Damaged Product,Closed,Website,Returns Team A,20504.24,5,8,0,0
+RT000251,OR001834,2025-12-09,2025-12-12,2025-12-15,,Missing Parts,Refund Processing,Website,Returns Team A,25506.05,5,,0,1
+RT000252,OR001849,2025-04-04,2025-04-07,2025-04-09,,Damaged Product,Pickup Scheduled,App,Returns Team A,5941.78,5,,0,1
+RT000253,OR001855,2025-05-03,2025-05-05,2025-05-09,2025-05-09,Product Not as Described,Closed,Website,Returns Team B,31784.77,5,6,0,0
+RT000254,OR001862,2025-01-27,2025-01-29,2025-02-01,2025-02-06,Wrong Item Delivered,Closed,Website,Escalations Team,31612.93,5,10,0,0
+RT000255,OR001865,2025-05-12,2025-05-13,2025-05-15,,Changed Mind,Pickup Scheduled,App,Returns Team A,2085.83,5,,0,1
+RT000256,OR001869,2025-03-11,2025-03-12,2025-03-18,,Missing Parts,Requested,Website,Escalations Team,11419.14,5,,0,1
+RT000257,OR001874,2025-12-09,2025-12-12,2025-12-12,2025-12-19,Product Not as Described,Closed,App,Returns Team C,4525.98,5,10,0,0
+RT000258,OR001886,2025-09-27,2025-09-30,2025-10-03,2025-09-30,Damaged Product,Closed,Customer Support,Returns Team B,7684.92,5,3,1,0
+RT000259,OR001896,2025-11-14,2025-11-16,2025-11-18,2025-11-23,Wrong Item Delivered,Closed,App,Returns Team B,32517.85,5,9,0,0
+RT000260,OR001902,2025-05-15,2025-05-17,2025-05-21,2025-05-27,Size/Fit Issue,Closed,Website,Returns Team A,6010.27,5,12,0,0
+RT000261,OR001909,2026-01-10,2026-01-12,2026-01-14,,Late Delivery,Received,Customer Support,Escalations Team,14298.15,5,,0,1
+RT000262,OR001918,2025-08-14,2025-08-16,2025-08-19,,Damaged Product,Pickup Scheduled,App,Returns Team C,7844.19,5,,0,1
+RT000263,OR001933,2025-12-14,2025-12-15,2025-12-19,,Wrong Item Delivered,Refund Processing,Website,Returns Team A,17110.7,5,,0,1
+RT000264,OR001940,2025-06-29,2025-07-01,2025-07-04,,Size/Fit Issue,Received,Website,Escalations Team,26142.77,5,,0,1
+RT000265,OR001945,2025-02-11,2025-02-14,2025-02-15,,Missing Parts,Requested,Customer Support,Escalations Team,38664.96,5,,0,1
+RT000266,OR001951,2025-08-14,2025-08-16,2025-08-20,,Damaged Product,Received,Website,Returns Team B,5243.42,5,,0,1
+RT000267,OR001952,2025-05-21,2025-05-22,2025-05-28,,Wrong Item Delivered,Received,App,Escalations Team,31281.51,5,,0,1
+RT000268,OR001964,2025-07-16,2025-07-17,2025-07-20,2025-07-23,Size/Fit Issue,Closed,Customer Support,Returns Team C,31263.29,5,7,0,0
+RT000269,OR001983,2025-06-12,2025-06-15,2025-06-17,,Late Delivery,Pickup Scheduled,Customer Support,Returns Team B,6201.16,5,,0,1
+RT000270,OR001985,2025-03-18,2025-03-20,2025-03-25,,Wrong Item Delivered,Requested,App,Returns Team B,25264.35,5,,0,1
+RT000271,OR002002,2025-03-05,2025-03-08,2025-03-10,,Damaged Product,Received,Website,Returns Team C,11009.83,5,,0,1
+RT000272,OR002018,2025-06-28,2025-07-01,2025-07-02,2025-06-30,Product Not as Described,Closed,App,Returns Team B,24897.25,5,2,1,0
+RT000273,OR002021,2025-09-23,2025-09-26,2025-09-27,2025-09-25,Wrong Item Delivered,Closed,Website,Returns Team A,7904.82,5,2,1,0
+RT000274,OR002031,2025-07-14,2025-07-15,2025-07-17,2025-07-15,Missing Parts,Closed,Customer Support,Returns Team C,19006.2,5,1,1,0
+RT000275,OR002036,2025-08-20,2025-08-21,2025-08-24,2025-09-01,Damaged Product,Closed,Website,Returns Team C,6576.98,5,12,0,0
+RT000276,OR002042,2025-12-13,2025-12-14,2025-12-16,,Missing Parts,In Transit,App,Returns Team C,7267.9,5,,0,1
+RT000277,OR002048,2025-11-10,2025-11-13,2025-11-17,2025-11-16,Changed Mind,Closed,App,Escalations Team,9870.46,5,6,0,0
+RT000278,OR002056,2025-04-15,2025-04-17,2025-04-21,2025-04-21,Missing Parts,Closed,App,Returns Team C,13789.03,5,6,0,0
+RT000279,OR002065,2025-02-18,2025-02-21,2025-02-21,,Size/Fit Issue,Received,Website,Returns Team B,1954.77,5,,0,1
+RT000280,OR002068,2025-09-02,2025-09-05,2025-09-05,,Size/Fit Issue,Pickup Scheduled,App,Returns Team B,21684.18,5,,0,1
+RT000281,OR002073,2025-03-29,2025-04-01,2025-04-05,2025-04-05,Size/Fit Issue,Closed,App,Returns Team C,27170.94,5,7,0,0
+RT000282,OR002075,2025-04-17,2025-04-19,2025-04-24,,Size/Fit Issue,Refund Processing,Website,Returns Team C,18876.72,5,,0,1
+RT000283,OR002077,2025-10-29,2025-10-30,2025-11-05,2025-11-07,Damaged Product,Closed,Customer Support,Returns Team B,13553.55,5,9,0,0
+RT000284,OR002078,2025-09-04,2025-09-07,2025-09-08,2025-09-06,Damaged Product,Closed,Customer Support,Returns Team B,35186.97,5,2,1,0
+RT000285,OR002084,2025-04-26,2025-04-28,2025-05-02,,Changed Mind,Pickup Scheduled,Website,Returns Team A,8618.0,5,,0,1
+RT000286,OR002088,2025-02-15,2025-02-17,2025-02-19,2025-02-20,Wrong Item Delivered,Closed,App,Returns Team C,21418.17,5,5,1,0
+RT000287,OR002089,2025-10-08,2025-10-09,2025-10-14,2025-10-18,Changed Mind,Closed,App,Escalations Team,24229.5,5,10,0,0
+RT000288,OR002090,2025-07-13,2025-07-14,2025-07-17,,Changed Mind,Refund Processing,App,Escalations Team,2650.01,5,,0,1
+RT000289,OR002093,2025-06-13,2025-06-15,2025-06-20,2025-06-18,Wrong Item Delivered,Closed,Customer Support,Returns Team B,13143.2,5,5,1,0
+RT000290,OR002095,2025-04-20,2025-04-21,2025-04-25,2025-04-25,Late Delivery,Closed,App,Escalations Team,408.28,5,5,1,0
+RT000291,OR002099,2025-06-26,2025-06-29,2025-06-29,,Late Delivery,Received,Customer Support,Returns Team B,13071.88,5,,0,1
+RT000292,OR002104,2025-08-06,2025-08-08,2025-08-09,2025-08-18,Wrong Item Delivered,Closed,Website,Escalations Team,34113.33,5,12,0,0
+RT000293,OR002111,2025-02-10,2025-02-11,2025-02-16,,Size/Fit Issue,Pickup Scheduled,Website,Returns Team A,35560.72,5,,0,1
+RT000294,OR002119,2025-08-04,2025-08-07,2025-08-10,,Changed Mind,Refund Processing,App,Returns Team C,4118.39,5,,0,1
+RT000295,OR002126,2025-12-18,2025-12-19,2025-12-24,,Changed Mind,Inspection,Website,Returns Team A,4383.43,5,,0,1
+RT000296,OR002134,2025-09-09,2025-09-12,2025-09-13,2025-09-14,Changed Mind,Closed,Customer Support,Returns Team B,33528.21,5,5,1,0
+RT000297,OR002137,2025-08-31,2025-09-03,2025-09-03,2025-09-06,Changed Mind,Closed,Customer Support,Returns Team B,11625.23,5,6,0,0
+RT000298,OR002152,2025-04-21,2025-04-23,2025-04-25,,Size/Fit Issue,Refund Processing,Website,Returns Team B,5428.1,5,,0,1
+RT000299,OR002154,2026-01-05,2026-01-08,2026-01-11,2026-01-06,Missing Parts,Closed,App,Returns Team A,19379.57,5,1,1,0
+RT000300,OR002157,2025-07-27,2025-07-29,2025-08-01,,Late Delivery,Received,Website,Returns Team B,18413.65,5,,0,1
+RT000301,OR002158,2025-02-05,2025-02-08,2025-02-09,,Missing Parts,Requested,App,Returns Team C,16861.68,5,,0,1
+RT000302,OR002169,2025-01-24,2025-01-27,2025-01-31,,Product Not as Described,Inspection,App,Escalations Team,14256.93,5,,0,1
+RT000303,OR002172,2025-08-30,2025-09-02,2025-09-06,,Changed Mind,Received,App,Returns Team B,18998.9,5,,0,1
+RT000304,OR002173,2025-06-21,2025-06-24,2025-06-25,,Missing Parts,Pickup Scheduled,Website,Escalations Team,1645.55,5,,0,1
+RT000305,OR002188,2025-03-23,2025-03-24,2025-03-30,,Late Delivery,Requested,App,Returns Team C,19160.31,5,,0,1
+RT000306,OR002196,2025-02-12,2025-02-13,2025-02-19,,Wrong Item Delivered,Refund Processing,Website,Returns Team B,32570.99,5,,0,1
+RT000307,OR002199,2025-04-24,2025-04-26,2025-05-01,2025-05-03,Product Not as Described,Closed,Customer Support,Escalations Team,26263.5,5,9,0,0
+RT000308,OR002204,2025-02-09,2025-02-11,2025-02-12,,Size/Fit Issue,Received,Website,Escalations Team,1319.48,5,,0,1
+RT000309,OR002220,2025-05-07,2025-05-09,2025-05-14,2025-05-12,Missing Parts,Closed,Customer Support,Returns Team C,17335.68,5,5,1,0
+RT000310,OR002221,2025-10-01,2025-10-02,2025-10-07,,Damaged Product,Refund Processing,Customer Support,Returns Team B,22879.05,5,,0,1
+RT000311,OR002224,2025-07-30,2025-08-01,2025-08-02,2025-08-04,Damaged Product,Closed,Website,Escalations Team,306.94,5,5,1,0
+RT000312,OR002237,2025-06-19,2025-06-20,2025-06-25,,Late Delivery,Pickup Scheduled,Website,Returns Team B,30795.76,5,,0,1
+RT000313,OR002255,2025-02-03,2025-02-04,2025-02-09,,Damaged Product,Received,Customer Support,Returns Team C,19636.81,5,,0,1
+RT000314,OR002263,2025-03-09,2025-03-11,2025-03-16,,Wrong Item Delivered,In Transit,Website,Returns Team B,29770.85,5,,0,1
+RT000315,OR002293,2025-07-13,2025-07-14,2025-07-20,,Missing Parts,Refund Processing,Customer Support,Escalations Team,13266.84,5,,0,1
+RT000316,OR002312,2025-09-19,2025-09-22,2025-09-26,,Product Not as Described,Refund Processing,App,Escalations Team,22489.02,5,,0,1
+RT000317,OR002313,2025-05-20,2025-05-22,2025-05-25,,Late Delivery,Refund Processing,Website,Returns Team A,8380.22,5,,0,1
+RT000318,OR002323,2025-09-05,2025-09-07,2025-09-09,,Changed Mind,Pickup Scheduled,App,Escalations Team,36488.46,5,,0,1
+RT000319,OR002327,2025-10-09,2025-10-11,2025-10-14,2025-10-17,Missing Parts,Closed,Website,Returns Team C,32752.35,5,8,0,0
+RT000320,OR002334,2025-11-13,2025-11-14,2025-11-16,2025-11-18,Size/Fit Issue,Closed,Website,Returns Team B,11365.6,5,5,1,0
+RT000321,OR002346,2025-07-05,2025-07-07,2025-07-12,,Damaged Product,Pickup Scheduled,App,Returns Team B,22035.37,5,,0,1
+RT000322,OR002354,2025-04-27,2025-04-29,2025-05-01,2025-05-02,Missing Parts,Closed,App,Returns Team A,8126.84,5,5,1,0
+RT000323,OR002355,2025-09-24,2025-09-25,2025-09-29,,Product Not as Described,Refund Processing,Website,Escalations Team,36015.64,5,,0,1
+RT000324,OR002361,2025-01-28,2025-01-31,2025-01-31,2025-01-30,Missing Parts,Closed,App,Escalations Team,19731.29,5,2,1,0
+RT000325,OR002366,2025-08-12,2025-08-14,2025-08-16,2025-08-22,Product Not as Described,Closed,Customer Support,Returns Team A,37522.22,5,10,0,0
+RT000326,OR002369,2025-11-02,2025-11-04,2025-11-09,2025-11-07,Missing Parts,Closed,Customer Support,Returns Team C,10382.85,5,5,1,0
+RT000327,OR002373,2025-10-26,2025-10-29,2025-10-30,2025-11-05,Damaged Product,Closed,App,Returns Team A,31146.56,5,10,0,0
+RT000328,OR002378,2025-09-20,2025-09-23,2025-09-25,2025-09-24,Changed Mind,Rejected,Website,Returns Team A,19503.97,5,4,1,0
+RT000329,OR002381,2026-01-01,2026-01-04,2026-01-04,,Late Delivery,Requested,Customer Support,Returns Team C,27807.17,5,,0,1
+RT000330,OR002384,2025-09-30,2025-10-03,2025-10-05,,Changed Mind,In Transit,App,Returns Team A,21795.67,5,,0,1
+RT000331,OR002395,2025-04-08,2025-04-09,2025-04-15,2025-04-12,Missing Parts,Closed,Customer Support,Returns Team C,6718.04,5,4,1,0
+RT000332,OR002401,2025-02-20,2025-02-21,2025-02-24,2025-02-22,Missing Parts,Closed,App,Escalations Team,37378.07,5,2,1,0
+RT000333,OR002417,2025-02-17,2025-02-19,2025-02-20,,Late Delivery,Requested,Website,Escalations Team,21918.23,5,,0,1
+RT000334,OR002428,2025-10-01,2025-10-04,2025-10-06,,Late Delivery,Refund Processing,Customer Support,Escalations Team,4986.9,5,,0,1
+RT000335,OR002429,2025-04-28,2025-04-29,2025-05-04,2025-05-10,Late Delivery,Closed,Website,Escalations Team,22698.5,5,12,0,0
+RT000336,OR002435,2025-09-06,2025-09-07,2025-09-12,2025-09-13,Product Not as Described,Closed,Customer Support,Returns Team C,33760.35,5,7,0,0
+RT000337,OR002438,2025-01-14,2025-01-15,2025-01-20,2025-01-16,Missing Parts,Closed,App,Returns Team B,21044.31,5,2,1,0
+RT000338,OR002443,2025-10-29,2025-10-30,2025-11-04,2025-10-31,Size/Fit Issue,Closed,App,Returns Team B,20364.33,5,2,1,0
+RT000339,OR002445,2025-07-09,2025-07-12,2025-07-13,,Changed Mind,Received,Website,Returns Team A,41949.2,5,,0,1
+RT000340,OR002447,2025-07-16,2025-07-17,2025-07-23,,Missing Parts,In Transit,App,Returns Team B,27179.65,5,,0,1
+RT000341,OR002450,2025-06-01,2025-06-02,2025-06-05,2025-06-11,Missing Parts,Closed,Website,Returns Team B,1128.47,5,10,0,0
+RT000342,OR002459,2025-11-13,2025-11-15,2025-11-17,,Damaged Product,Received,Website,Returns Team A,24699.54,5,,0,1
+RT000343,OR002462,2025-02-27,2025-02-28,2025-03-04,2025-03-08,Size/Fit Issue,Closed,Customer Support,Escalations Team,4461.98,5,9,0,0
+RT000344,OR002467,2025-09-04,2025-09-05,2025-09-09,2025-09-13,Late Delivery,Closed,Customer Support,Escalations Team,32654.81,5,9,0,0
+RT000345,OR002469,2025-01-30,2025-01-31,2025-02-04,2025-01-31,Damaged Product,Closed,Customer Support,Escalations Team,703.69,5,1,1,0
+RT000346,OR002470,2025-05-10,2025-05-12,2025-05-17,,Late Delivery,Pickup Scheduled,Customer Support,Returns Team A,8355.68,5,,0,1
+RT000347,OR002473,2025-06-22,2025-06-24,2025-06-28,,Changed Mind,Inspection,Website,Returns Team B,5446.11,5,,0,1
+RT000348,OR002479,2025-09-24,2025-09-27,2025-09-30,2025-09-25,Late Delivery,Closed,App,Returns Team B,13871.33,5,1,1,0
+RT000349,OR002496,2025-04-27,2025-04-29,2025-05-03,,Size/Fit Issue,In Transit,Website,Escalations Team,35146.15,5,,0,1
+RT000350,OR002499,2025-08-05,2025-08-08,2025-08-12,2025-08-09,Product Not as Described,Closed,App,Returns Team C,9374.76,5,4,1,0
+RT000351,OR002503,2025-01-05,2025-01-08,2025-01-08,,Late Delivery,Received,Customer Support,Returns Team C,11901.93,5,,0,1
+RT000352,OR002521,2025-01-14,2025-01-16,2025-01-17,,Changed Mind,Inspection,Customer Support,Returns Team C,29046.41,5,,0,1
+RT000353,OR002530,2025-03-20,2025-03-21,2025-03-27,2025-03-22,Size/Fit Issue,Closed,Website,Escalations Team,6333.98,5,2,1,0
+RT000354,OR002533,2025-10-01,2025-10-02,2025-10-04,2025-10-02,Damaged Product,Closed,Customer Support,Returns Team B,30179.61,5,1,1,0
+RT000355,OR002544,2025-05-23,2025-05-24,2025-05-27,,Wrong Item Delivered,Inspection,Website,Returns Team C,9470.14,5,,0,1
+RT000356,OR002546,2025-02-26,2025-03-01,2025-03-01,,Missing Parts,In Transit,App,Returns Team A,22131.12,5,,0,1
+RT000357,OR002555,2025-02-27,2025-02-28,2025-03-04,2025-03-01,Wrong Item Delivered,Closed,App,Returns Team A,18843.18,5,2,1,0
+RT000358,OR002565,2025-02-03,2025-02-05,2025-02-06,,Size/Fit Issue,Inspection,App,Returns Team B,32893.03,5,,0,1
+RT000359,OR002572,2025-08-11,2025-08-12,2025-08-18,,Missing Parts,Pickup Scheduled,App,Returns Team C,32949.49,5,,0,1
+RT000360,OR002573,2025-10-06,2025-10-09,2025-10-12,2025-10-10,Late Delivery,Closed,App,Returns Team C,33142.32,5,4,1,0
+RT000361,OR002578,2025-04-01,2025-04-03,2025-04-07,2025-04-10,Product Not as Described,Closed,Customer Support,Escalations Team,33715.97,5,9,0,0
+RT000362,OR002594,2025-02-08,2025-02-09,2025-02-13,2025-02-16,Late Delivery,Closed,Website,Returns Team A,8703.18,5,8,0,0
+RT000363,OR002609,2025-11-10,2025-11-13,2025-11-15,,Missing Parts,Refund Processing,Website,Returns Team B,36799.3,5,,0,1
+RT000364,OR002611,2025-12-31,2026-01-01,2026-01-07,2026-01-12,Changed Mind,Closed,App,Escalations Team,16026.24,5,12,0,0
+RT000365,OR002615,2026-01-04,2026-01-06,2026-01-10,2026-01-09,Wrong Item Delivered,Closed,App,Escalations Team,17682.96,5,5,1,0
+RT000366,OR002621,2025-02-12,2025-02-13,2025-02-15,,Size/Fit Issue,In Transit,Website,Returns Team B,21849.75,5,,0,1
+RT000367,OR002622,2025-04-10,2025-04-11,2025-04-17,,Late Delivery,Inspection,Customer Support,Returns Team C,21127.05,5,,0,1
+RT000368,OR002623,2025-02-06,2025-02-08,2025-02-09,,Damaged Product,Inspection,Customer Support,Returns Team A,25812.09,5,,0,1
+RT000369,OR002625,2025-05-02,2025-05-04,2025-05-09,2025-05-04,Missing Parts,Closed,App,Escalations Team,16097.47,5,2,1,0
+RT000370,OR002634,2025-06-27,2025-06-29,2025-07-03,2025-07-07,Changed Mind,Closed,App,Escalations Team,5716.92,5,10,0,0
+RT000371,OR002637,2025-07-29,2025-07-31,2025-08-01,,Late Delivery,In Transit,Website,Returns Team B,20264.59,5,,0,1
+RT000372,OR002642,2025-11-07,2025-11-10,2025-11-10,,Product Not as Described,In Transit,Website,Returns Team C,28897.21,5,,0,1
+RT000373,OR002645,2025-05-12,2025-05-14,2025-05-17,2025-05-16,Wrong Item Delivered,Closed,Website,Escalations Team,4664.85,5,4,1,0
+RT000374,OR002648,2025-02-16,2025-02-18,2025-02-23,,Late Delivery,Inspection,Customer Support,Returns Team B,14212.69,5,,0,1
+RT000375,OR002658,2025-03-15,2025-03-18,2025-03-21,2025-03-18,Missing Parts,Closed,Website,Returns Team A,962.11,5,3,1,0
+RT000376,OR002661,2025-05-09,2025-05-10,2025-05-14,,Wrong Item Delivered,In Transit,Website,Escalations Team,3793.69,5,,0,1
+RT000377,OR002663,2025-05-18,2025-05-19,2025-05-25,2025-05-24,Product Not as Described,Closed,Customer Support,Returns Team C,24026.61,5,6,0,0
+RT000378,OR002664,2025-07-26,2025-07-29,2025-07-30,2025-07-27,Late Delivery,Rejected,Website,Escalations Team,20942.3,5,1,1,0
+RT000379,OR002672,2025-11-24,2025-11-26,2025-11-30,2025-12-04,Late Delivery,Closed,Website,Returns Team B,28879.55,5,10,0,0
+RT000380,OR002673,2025-04-09,2025-04-11,2025-04-13,2025-04-19,Changed Mind,Closed,Customer Support,Escalations Team,20827.84,5,10,0,0
+RT000381,OR002684,2025-12-21,2025-12-24,2025-12-24,,Damaged Product,Refund Processing,App,Returns Team C,15538.1,5,,0,1
+RT000382,OR002706,2025-07-23,2025-07-24,2025-07-29,2025-08-04,Damaged Product,Closed,Customer Support,Returns Team C,4067.84,5,12,0,0
+RT000383,OR002715,2025-12-20,2025-12-21,2025-12-24,2025-12-26,Changed Mind,Closed,App,Escalations Team,19294.27,5,6,0,0
+RT000384,OR002719,2025-05-15,2025-05-18,2025-05-18,2025-05-27,Damaged Product,Closed,Customer Support,Escalations Team,6191.89,5,12,0,0
+RT000385,OR002729,2025-10-09,2025-10-12,2025-10-14,2025-10-15,Wrong Item Delivered,Closed,Website,Returns Team C,36886.19,5,6,0,0
+RT000386,OR002745,2025-05-11,2025-05-12,2025-05-18,,Changed Mind,In Transit,Customer Support,Returns Team C,17625.43,5,,0,1
+RT000387,OR002749,2025-03-24,2025-03-26,2025-03-31,2025-03-30,Wrong Item Delivered,Rejected,Customer Support,Returns Team A,907.76,5,6,0,0
+RT000388,OR002750,2025-03-24,2025-03-26,2025-03-27,2025-03-30,Size/Fit Issue,Closed,Website,Escalations Team,31891.81,5,6,0,0
+RT000389,OR002752,2025-11-27,2025-11-30,2025-12-02,2025-12-02,Changed Mind,Closed,App,Returns Team C,2815.11,5,5,1,0
+RT000390,OR002756,2025-08-20,2025-08-23,2025-08-26,2025-08-24,Late Delivery,Closed,Website,Escalations Team,40410.17,5,4,1,0
+RT000391,OR002761,2025-03-23,2025-03-26,2025-03-27,,Product Not as Described,In Transit,App,Returns Team B,17802.86,5,,0,1
+RT000392,OR002773,2025-09-23,2025-09-26,2025-09-27,,Wrong Item Delivered,Requested,Website,Returns Team B,32733.24,5,,0,1
+RT000393,OR002775,2025-06-10,2025-06-12,2025-06-17,2025-06-22,Size/Fit Issue,Rejected,App,Returns Team A,40887.58,5,12,0,0
+RT000394,OR002779,2025-03-31,2025-04-01,2025-04-04,2025-04-07,Wrong Item Delivered,Closed,Website,Returns Team B,36079.83,5,7,0,0
+RT000395,OR002780,2025-12-26,2025-12-28,2025-12-30,,Missing Parts,In Transit,Customer Support,Returns Team C,11899.38,5,,0,1
+RT000396,OR002786,2025-03-31,2025-04-03,2025-04-03,2025-04-04,Size/Fit Issue,Closed,Customer Support,Returns Team A,41157.87,5,4,1,0
+RT000397,OR002790,2025-07-11,2025-07-14,2025-07-16,2025-07-21,Damaged Product,Closed,Customer Support,Returns Team B,1573.33,5,10,0,0
+RT000398,OR002794,2025-03-12,2025-03-14,2025-03-15,2025-03-13,Size/Fit Issue,Closed,Customer Support,Escalations Team,15224.58,5,1,1,0
+RT000399,OR002818,2025-01-04,2025-01-07,2025-01-08,2025-01-07,Product Not as Described,Closed,Customer Support,Returns Team B,29928.2,5,3,1,0
+RT000400,OR002824,2025-02-07,2025-02-10,2025-02-11,2025-02-12,Product Not as Described,Closed,App,Escalations Team,3935.39,5,5,1,0
+RT000401,OR002835,2025-09-03,2025-09-06,2025-09-09,,Damaged Product,Received,Customer Support,Returns Team C,11410.5,5,,0,1
+RT000402,OR002843,2025-09-15,2025-09-17,2025-09-20,2025-09-17,Changed Mind,Closed,App,Returns Team A,25100.99,5,2,1,0
+RT000403,OR002848,2025-01-27,2025-01-29,2025-01-30,,Product Not as Described,Received,Customer Support,Returns Team A,13990.96,5,,0,1
+RT000404,OR002854,2025-02-02,2025-02-03,2025-02-08,2025-02-04,Changed Mind,Closed,Website,Returns Team C,7226.84,5,2,1,0
+RT000405,OR002864,2025-04-26,2025-04-27,2025-04-30,2025-05-05,Missing Parts,Closed,App,Returns Team C,7037.57,5,9,0,0
+RT000406,OR002873,2025-03-11,2025-03-13,2025-03-18,,Wrong Item Delivered,Inspection,App,Returns Team A,1714.94,5,,0,1
+RT000407,OR002874,2025-06-13,2025-06-16,2025-06-16,,Late Delivery,Received,App,Escalations Team,14583.35,5,,0,1
+RT000408,OR002878,2025-05-11,2025-05-13,2025-05-15,2025-05-23,Damaged Product,Closed,Customer Support,Returns Team C,15504.47,5,12,0,0
+RT000409,OR002879,2025-10-19,2025-10-21,2025-10-26,,Late Delivery,Pickup Scheduled,Website,Returns Team C,35542.87,5,,0,1
+RT000410,OR002900,2025-04-05,2025-04-07,2025-04-10,,Missing Parts,In Transit,Customer Support,Returns Team B,2663.27,5,,0,1
+RT000411,OR002914,2025-04-04,2025-04-07,2025-04-08,2025-04-13,Late Delivery,Closed,Website,Returns Team A,12576.81,5,9,0,0
+RT000412,OR002915,2025-12-08,2025-12-10,2025-12-15,2025-12-17,Changed Mind,Closed,Website,Returns Team B,882.69,5,9,0,0
+RT000413,OR002923,2025-07-25,2025-07-28,2025-07-28,,Wrong Item Delivered,Refund Processing,Website,Escalations Team,24449.82,5,,0,1
+RT000414,OR002924,2025-08-08,2025-08-11,2025-08-14,,Damaged Product,Inspection,Customer Support,Escalations Team,2214.38,5,,0,1
+RT000415,OR002925,2025-03-02,2025-03-04,2025-03-09,,Missing Parts,Pickup Scheduled,Website,Returns Team B,31796.39,5,,0,1
+RT000416,OR002928,2025-09-01,2025-09-03,2025-09-05,,Wrong Item Delivered,Refund Processing,App,Escalations Team,26651.41,5,,0,1
+RT000417,OR002938,2025-05-29,2025-05-31,2025-06-02,,Missing Parts,Refund Processing,Website,Escalations Team,5686.38,5,,0,1
+RT000418,OR002939,2025-03-24,2025-03-26,2025-03-31,,Wrong Item Delivered,Refund Processing,Website,Returns Team A,29353.51,5,,0,1
+RT000419,OR002943,2025-12-13,2025-12-15,2025-12-18,2025-12-17,Size/Fit Issue,Closed,Customer Support,Escalations Team,25934.06,5,4,1,0
+RT000420,OR002950,2025-06-27,2025-06-30,2025-06-30,,Size/Fit Issue,Refund Processing,App,Returns Team A,31040.41,5,,0,1
+RT000421,OR002954,2025-02-27,2025-02-28,2025-03-03,,Missing Parts,Inspection,Website,Returns Team B,15036.92,5,,0,1
+RT000422,OR002973,2025-09-05,2025-09-08,2025-09-10,2025-09-17,Missing Parts,Closed,App,Returns Team A,37933.48,5,12,0,0
+RT000423,OR002992,2025-11-17,2025-11-18,2025-11-24,,Missing Parts,In Transit,Website,Returns Team A,23584.58,5,,0,1
+RT000424,OR003000,2025-06-19,2025-06-20,2025-06-23,2025-06-21,Size/Fit Issue,Closed,Customer Support,Returns Team C,17828.49,5,2,1,0
+RT000425,OR003003,2025-02-15,2025-02-17,2025-02-20,2025-02-23,Late Delivery,Closed,Customer Support,Returns Team B,31045.64,5,8,0,0
+RT000426,OR003004,2025-12-30,2026-01-02,2026-01-04,2026-01-04,Size/Fit Issue,Closed,Customer Support,Returns Team A,17690.13,5,5,1,0
+RT000427,OR003006,2025-02-26,2025-03-01,2025-03-02,,Damaged Product,In Transit,App,Returns Team C,22036.82,5,,0,1
+RT000428,OR003029,2025-12-25,2025-12-27,2025-12-28,,Changed Mind,Refund Processing,App,Escalations Team,10170.27,5,,0,1
+RT000429,OR003032,2025-06-10,2025-06-11,2025-06-13,2025-06-13,Late Delivery,Closed,Website,Returns Team C,26513.31,5,3,1,0
+RT000430,OR003042,2025-12-25,2025-12-26,2025-12-30,2026-01-05,Missing Parts,Closed,App,Escalations Team,8830.54,5,11,0,0
+RT000431,OR003046,2025-04-26,2025-04-28,2025-05-01,,Late Delivery,Received,Website,Returns Team C,16011.21,5,,0,1
+RT000432,OR003054,2025-10-31,2025-11-01,2025-11-06,2025-11-01,Changed Mind,Closed,App,Returns Team C,11388.18,5,1,1,0
+RT000433,OR003061,2025-08-25,2025-08-27,2025-08-29,2025-08-31,Damaged Product,Closed,Website,Escalations Team,4718.33,5,6,0,0
+RT000434,OR003066,2025-08-28,2025-08-29,2025-09-03,2025-08-30,Damaged Product,Closed,Customer Support,Returns Team B,7721.1,5,2,1,0
+RT000435,OR003075,2025-10-17,2025-10-20,2025-10-23,2025-10-27,Size/Fit Issue,Closed,Website,Returns Team C,9815.47,5,10,0,0
+RT000436,OR003081,2025-03-24,2025-03-25,2025-03-31,,Late Delivery,In Transit,Website,Returns Team B,14139.02,5,,0,1
+RT000437,OR003091,2025-08-11,2025-08-14,2025-08-17,,Late Delivery,Requested,App,Returns Team A,26748.97,5,,0,1
+RT000438,OR003104,2025-03-14,2025-03-16,2025-03-21,,Wrong Item Delivered,Inspection,App,Returns Team B,27483.08,5,,0,1
+RT000439,OR003120,2025-12-08,2025-12-10,2025-12-13,2025-12-14,Wrong Item Delivered,Closed,Customer Support,Escalations Team,22321.76,5,6,0,0
+RT000440,OR003141,2025-03-18,2025-03-19,2025-03-23,,Late Delivery,Pickup Scheduled,App,Returns Team A,15393.9,5,,0,1
+RT000441,OR003147,2025-10-25,2025-10-27,2025-11-01,,Late Delivery,Refund Processing,Customer Support,Returns Team A,35301.75,5,,0,1
+RT000442,OR003151,2025-05-29,2025-06-01,2025-06-05,,Late Delivery,Inspection,Customer Support,Returns Team B,1684.07,5,,0,1
+RT000443,OR003161,2025-04-27,2025-04-30,2025-05-04,,Late Delivery,Requested,App,Returns Team C,8765.71,5,,0,1
+RT000444,OR003190,2025-06-21,2025-06-24,2025-06-28,,Damaged Product,Refund Processing,App,Returns Team A,2367.02,5,,0,1
+RT000445,OR003201,2025-04-22,2025-04-23,2025-04-26,2025-05-04,Wrong Item Delivered,Closed,Customer Support,Escalations Team,9357.38,5,12,0,0
+RT000446,OR003202,2025-04-10,2025-04-12,2025-04-14,2025-04-11,Wrong Item Delivered,Rejected,Customer Support,Escalations Team,7448.9,5,1,1,0
+RT000447,OR003205,2025-09-07,2025-09-10,2025-09-12,,Late Delivery,Received,App,Returns Team B,13315.42,5,,0,1
+RT000448,OR003231,2025-03-19,2025-03-22,2025-03-26,,Size/Fit Issue,In Transit,Customer Support,Escalations Team,22191.28,5,,0,1
+RT000449,OR003240,2025-09-24,2025-09-25,2025-09-30,2025-10-02,Changed Mind,Closed,App,Escalations Team,3637.89,5,8,0,0
+RT000450,OR003246,2025-02-17,2025-02-18,2025-02-24,2025-02-19,Wrong Item Delivered,Closed,Customer Support,Returns Team C,12867.38,5,2,1,0
+RT000451,OR003254,2025-10-28,2025-10-29,2025-11-04,,Late Delivery,Refund Processing,Website,Escalations Team,1284.65,5,,0,1
+RT000452,OR003255,2025-04-12,2025-04-13,2025-04-16,,Changed Mind,In Transit,Website,Escalations Team,9675.29,5,,0,1
+RT000453,OR003259,2025-11-14,2025-11-15,2025-11-18,2025-11-22,Size/Fit Issue,Rejected,Website,Returns Team B,19515.34,5,8,0,0
+RT000454,OR003263,2025-09-17,2025-09-18,2025-09-23,2025-09-19,Changed Mind,Closed,App,Returns Team B,30689.58,5,2,1,0
+RT000455,OR003277,2025-03-04,2025-03-06,2025-03-08,2025-03-09,Missing Parts,Closed,Customer Support,Returns Team A,5871.35,5,5,1,0
+RT000456,OR003278,2025-06-24,2025-06-25,2025-06-27,2025-06-27,Product Not as Described,Closed,Website,Returns Team C,1855.63,5,3,1,0
+RT000457,OR003279,2025-10-09,2025-10-10,2025-10-12,,Missing Parts,Inspection,App,Returns Team C,3336.19,5,,0,1
+RT000458,OR003280,2025-07-15,2025-07-17,2025-07-20,2025-07-18,Changed Mind,Closed,Customer Support,Escalations Team,32736.48,5,3,1,0
+RT000459,OR003292,2025-04-28,2025-04-30,2025-05-05,2025-05-06,Product Not as Described,Closed,Customer Support,Returns Team C,10785.85,5,8,0,0
+RT000460,OR003320,2025-05-05,2025-05-08,2025-05-10,2025-05-14,Product Not as Described,Closed,Website,Returns Team A,14234.95,5,9,0,0
+RT000461,OR003322,2025-11-05,2025-11-08,2025-11-09,,Wrong Item Delivered,Pickup Scheduled,Website,Escalations Team,24080.28,5,,0,1
+RT000462,OR003331,2025-03-26,2025-03-27,2025-03-31,,Damaged Product,Refund Processing,App,Returns Team C,27930.85,5,,0,1
+RT000463,OR003333,2025-05-31,2025-06-03,2025-06-05,2025-06-04,Missing Parts,Closed,Customer Support,Returns Team B,701.03,5,4,1,0
+RT000464,OR003334,2025-07-21,2025-07-24,2025-07-24,2025-07-24,Damaged Product,Closed,Website,Returns Team B,13687.43,5,3,1,0
+RT000465,OR003344,2025-01-09,2025-01-12,2025-01-14,,Wrong Item Delivered,Pickup Scheduled,Customer Support,Returns Team C,17670.88,5,,0,1
+RT000466,OR003346,2025-03-14,2025-03-15,2025-03-17,,Changed Mind,Inspection,Customer Support,Returns Team A,8332.44,5,,0,1
+RT000467,OR003349,2025-04-03,2025-04-06,2025-04-08,,Size/Fit Issue,Inspection,Website,Returns Team B,3933.74,5,,0,1
+RT000468,OR003350,2025-03-07,2025-03-09,2025-03-12,,Changed Mind,Requested,Customer Support,Returns Team B,18021.67,5,,0,1
+RT000469,OR003351,2025-04-12,2025-04-15,2025-04-17,,Changed Mind,Inspection,Customer Support,Returns Team C,31788.44,5,,0,1
+RT000470,OR003355,2025-02-24,2025-02-27,2025-03-03,,Product Not as Described,Pickup Scheduled,App,Returns Team C,1855.17,5,,0,1
+RT000471,OR003360,2025-12-03,2025-12-04,2025-12-06,2025-12-09,Late Delivery,Rejected,Customer Support,Escalations Team,18278.93,5,6,0,0
+RT000472,OR003367,2025-06-15,2025-06-18,2025-06-22,,Damaged Product,Received,Website,Escalations Team,30118.21,5,,0,1
+RT000473,OR003368,2025-10-17,2025-10-18,2025-10-21,,Damaged Product,Refund Processing,Customer Support,Returns Team A,10477.91,5,,0,1
+RT000474,OR003379,2025-04-09,2025-04-11,2025-04-13,2025-04-19,Size/Fit Issue,Closed,App,Returns Team B,19889.96,5,10,0,0
+RT000475,OR003380,2025-10-15,2025-10-16,2025-10-22,2025-10-19,Wrong Item Delivered,Closed,Customer Support,Escalations Team,41828.4,5,4,1,0
+RT000476,OR003389,2025-12-18,2025-12-20,2025-12-25,2025-12-25,Wrong Item Delivered,Closed,Website,Returns Team C,1627.13,5,7,0,0
+RT000477,OR003392,2025-08-04,2025-08-06,2025-08-10,2025-08-11,Damaged Product,Closed,Customer Support,Returns Team C,2037.07,5,7,0,0
+RT000478,OR003395,2025-09-03,2025-09-04,2025-09-07,2025-09-05,Changed Mind,Closed,Website,Returns Team C,6750.35,5,2,1,0
+RT000479,OR003406,2025-11-26,2025-11-29,2025-12-03,2025-12-08,Changed Mind,Closed,App,Returns Team C,21176.75,5,12,0,0
+RT000480,OR003421,2025-02-25,2025-02-27,2025-03-04,2025-03-01,Missing Parts,Closed,Website,Returns Team B,4774.59,5,4,1,0
+RT000481,OR003427,2025-10-18,2025-10-21,2025-10-22,,Damaged Product,Refund Processing,App,Escalations Team,36448.59,5,,0,1
+RT000482,OR003460,2025-02-01,2025-02-04,2025-02-07,2025-02-08,Wrong Item Delivered,Closed,Customer Support,Returns Team C,283.02,5,7,0,0
+RT000483,OR003469,2025-10-21,2025-10-24,2025-10-24,2025-10-29,Product Not as Described,Closed,Website,Escalations Team,1634.88,5,8,0,0
+RT000484,OR003481,2025-06-29,2025-07-02,2025-07-06,2025-07-05,Wrong Item Delivered,Closed,Customer Support,Returns Team C,28712.79,5,6,0,0
+RT000485,OR003482,2025-12-25,2025-12-26,2025-12-31,2026-01-05,Missing Parts,Closed,Website,Returns Team A,17354.45,5,11,0,0
+RT000486,OR003485,2025-10-26,2025-10-29,2025-10-31,,Missing Parts,Received,App,Escalations Team,21568.29,5,,0,1
+RT000487,OR003490,2025-11-26,2025-11-27,2025-11-30,2025-12-04,Size/Fit Issue,Closed,Customer Support,Returns Team B,849.21,5,8,0,0
+RT000488,OR003496,2026-01-01,2026-01-03,2026-01-07,,Late Delivery,Refund Processing,Website,Escalations Team,3283.37,5,,0,1
+RT000489,OR003523,2025-07-01,2025-07-02,2025-07-04,2025-07-09,Late Delivery,Closed,Customer Support,Returns Team A,31606.5,5,8,0,0
+RT000490,OR003555,2025-07-01,2025-07-02,2025-07-05,,Size/Fit Issue,Received,Website,Returns Team A,26425.59,5,,0,1
+RT000491,OR003573,2025-08-24,2025-08-26,2025-08-31,,Damaged Product,Received,App,Returns Team B,5132.87,5,,0,1
+RT000492,OR003576,2025-03-17,2025-03-19,2025-03-22,,Wrong Item Delivered,Inspection,Website,Returns Team A,30602.61,5,,0,1
+RT000493,OR003580,2025-04-04,2025-04-06,2025-04-08,,Missing Parts,Refund Processing,Website,Returns Team B,31412.89,5,,0,1
+RT000494,OR003590,2025-07-01,2025-07-04,2025-07-06,,Damaged Product,Received,Customer Support,Returns Team A,868.07,5,,0,1
+RT000495,OR003592,2025-09-29,2025-10-01,2025-10-04,2025-10-05,Wrong Item Delivered,Closed,Customer Support,Returns Team B,13685.29,5,6,0,0
+RT000496,OR003593,2025-11-14,2025-11-17,2025-11-21,,Product Not as Described,In Transit,Customer Support,Escalations Team,20403.85,5,,0,1
+RT000497,OR003600,2025-05-12,2025-05-14,2025-05-17,,Wrong Item Delivered,In Transit,Customer Support,Escalations Team,34383.03,5,,0,1
+RT000498,OR003604,2025-01-25,2025-01-27,2025-01-30,2025-01-31,Wrong Item Delivered,Closed,Customer Support,Returns Team C,21191.63,5,6,0,0
+RT000499,OR003616,2025-02-19,2025-02-20,2025-02-22,,Product Not as Described,In Transit,Website,Escalations Team,11670.13,5,,0,1
+RT000500,OR003627,2025-08-27,2025-08-28,2025-09-02,2025-09-05,Changed Mind,Closed,Customer Support,Escalations Team,34202.77,5,9,0,0
+RT000501,OR003629,2025-08-19,2025-08-21,2025-08-23,2025-08-21,Size/Fit Issue,Closed,Website,Returns Team C,24258.25,5,2,1,0
+RT000502,OR003630,2025-08-03,2025-08-05,2025-08-08,2025-08-07,Missing Parts,Closed,Website,Returns Team C,4644.17,5,4,1,0
+RT000503,OR003634,2025-10-09,2025-10-12,2025-10-12,,Missing Parts,Inspection,App,Returns Team C,3566.92,5,,0,1
+RT000504,OR003643,2025-04-25,2025-04-27,2025-05-02,2025-04-28,Late Delivery,Closed,Customer Support,Escalations Team,25169.28,5,3,1,0
+RT000505,OR003647,2025-07-14,2025-07-17,2025-07-18,2025-07-20,Missing Parts,Closed,Customer Support,Returns Team B,7093.76,5,6,0,0
+RT000506,OR003651,2025-05-25,2025-05-26,2025-05-28,2025-05-26,Changed Mind,Closed,Website,Escalations Team,30593.98,5,1,1,0
+RT000507,OR003663,2025-06-20,2025-06-21,2025-06-26,2025-07-01,Size/Fit Issue,Closed,Customer Support,Returns Team B,24549.17,5,11,0,0
+RT000508,OR003667,2025-04-29,2025-05-02,2025-05-05,2025-05-05,Size/Fit Issue,Closed,App,Returns Team C,29530.02,5,6,0,0
+RT000509,OR003668,2025-11-08,2025-11-11,2025-11-14,2025-11-18,Damaged Product,Closed,Customer Support,Returns Team B,37106.84,5,10,0,0
+RT000510,OR003671,2025-09-15,2025-09-17,2025-09-22,,Size/Fit Issue,Refund Processing,Website,Returns Team B,18165.2,5,,0,1
+RT000511,OR003674,2025-12-30,2026-01-02,2026-01-04,2026-01-02,Size/Fit Issue,Closed,Customer Support,Returns Team B,19407.51,5,3,1,0
+RT000512,OR003720,2025-09-21,2025-09-24,2025-09-28,,Size/Fit Issue,Received,App,Returns Team C,6096.02,5,,0,1
+RT000513,OR003722,2025-11-10,2025-11-13,2025-11-16,,Damaged Product,In Transit,Customer Support,Escalations Team,28913.38,5,,0,1
+RT000514,OR003725,2025-12-13,2025-12-16,2025-12-16,,Product Not as Described,Refund Processing,Website,Returns Team B,26338.34,5,,0,1
+RT000515,OR003729,2025-11-24,2025-11-25,2025-11-30,,Product Not as Described,Refund Processing,Website,Returns Team A,41104.64,5,,0,1
+RT000516,OR003733,2025-09-04,2025-09-06,2025-09-11,2025-09-09,Wrong Item Delivered,Closed,Website,Returns Team C,22422.53,5,5,1,0
+RT000517,OR003738,2025-02-23,2025-02-25,2025-02-27,2025-03-01,Late Delivery,Closed,Website,Escalations Team,34040.66,5,6,0,0
+RT000518,OR003742,2025-10-04,2025-10-05,2025-10-08,2025-10-16,Damaged Product,Closed,Website,Escalations Team,2153.76,5,12,0,0
+RT000519,OR003764,2025-12-20,2025-12-21,2025-12-23,,Missing Parts,In Transit,App,Returns Team B,33311.65,5,,0,1
+RT000520,OR003774,2025-09-25,2025-09-26,2025-09-30,,Changed Mind,Received,Customer Support,Returns Team C,761.31,5,,0,1
+RT000521,OR003776,2025-05-30,2025-06-01,2025-06-05,2025-06-10,Wrong Item Delivered,Closed,Customer Support,Escalations Team,16284.79,5,11,0,0
+RT000522,OR003796,2025-02-19,2025-02-21,2025-02-26,,Wrong Item Delivered,Refund Processing,Website,Escalations Team,41063.37,5,,0,1
+RT000523,OR003811,2025-05-12,2025-05-14,2025-05-19,,Product Not as Described,Pickup Scheduled,App,Escalations Team,7125.62,5,,0,1
+RT000524,OR003813,2025-10-06,2025-10-07,2025-10-13,2025-10-10,Late Delivery,Closed,App,Returns Team B,36666.73,5,4,1,0
+RT000525,OR003816,2025-06-01,2025-06-03,2025-06-04,,Size/Fit Issue,Requested,Customer Support,Escalations Team,9505.27,5,,0,1
+RT000526,OR003818,2025-07-17,2025-07-20,2025-07-20,,Wrong Item Delivered,Inspection,Customer Support,Returns Team C,4933.23,5,,0,1
+RT000527,OR003828,2025-03-19,2025-03-20,2025-03-26,2025-03-25,Late Delivery,Closed,Customer Support,Escalations Team,445.06,5,6,0,0
+RT000528,OR003848,2025-09-06,2025-09-07,2025-09-09,,Changed Mind,Received,App,Returns Team C,4020.99,5,,0,1
+RT000529,OR003850,2025-03-15,2025-03-16,2025-03-21,2025-03-21,Missing Parts,Closed,App,Escalations Team,6987.07,5,6,0,0
+RT000530,OR003855,2025-06-24,2025-06-27,2025-06-30,,Product Not as Described,Received,App,Returns Team C,21798.35,5,,0,1
+RT000531,OR003856,2025-01-24,2025-01-25,2025-01-31,,Missing Parts,Received,Website,Returns Team B,33525.15,5,,0,1
+RT000532,OR003860,2025-06-24,2025-06-27,2025-06-29,,Late Delivery,Requested,Customer Support,Escalations Team,16697.02,5,,0,1
+RT000533,OR003881,2025-09-07,2025-09-10,2025-09-10,,Late Delivery,Received,Customer Support,Returns Team B,9107.85,5,,0,1
+RT000534,OR003882,2025-06-13,2025-06-14,2025-06-17,2025-06-25,Missing Parts,Rejected,App,Escalations Team,11602.23,5,12,0,0
+RT000535,OR003886,2025-08-24,2025-08-25,2025-08-28,,Late Delivery,Requested,Customer Support,Returns Team A,3892.45,5,,0,1
+RT000536,OR003895,2025-10-23,2025-10-25,2025-10-27,2025-10-24,Size/Fit Issue,Rejected,App,Escalations Team,22126.82,5,1,1,0
+RT000537,OR003896,2025-06-14,2025-06-15,2025-06-19,,Damaged Product,Requested,App,Returns Team A,20715.01,5,,0,1
+RT000538,OR003914,2025-03-14,2025-03-15,2025-03-18,,Damaged Product,Received,Website,Returns Team B,35748.52,5,,0,1
+RT000539,OR003929,2025-01-15,2025-01-18,2025-01-21,,Late Delivery,Received,Customer Support,Escalations Team,34198.11,5,,0,1
+RT000540,OR003940,2025-07-08,2025-07-10,2025-07-14,2025-07-11,Size/Fit Issue,Closed,App,Returns Team C,8269.15,5,3,1,0
+RT000541,OR003943,2025-09-28,2025-09-29,2025-10-03,,Product Not as Described,Inspection,App,Escalations Team,911.28,5,,0,1
+RT000542,OR003957,2025-10-05,2025-10-06,2025-10-12,,Late Delivery,Pickup Scheduled,Website,Returns Team A,6204.8,5,,0,1
+RT000543,OR003964,2025-05-05,2025-05-06,2025-05-10,2025-05-10,Wrong Item Delivered,Rejected,Website,Returns Team A,475.99,5,5,1,0
+RT000544,OR003967,2025-11-07,2025-11-09,2025-11-12,,Late Delivery,Inspection,App,Returns Team C,36761.29,5,,0,1
+RT000545,OR003973,2025-08-29,2025-08-31,2025-09-02,,Damaged Product,In Transit,App,Returns Team C,28665.0,5,,0,1
+RT000546,OR003983,2025-12-24,2025-12-26,2025-12-28,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team C,19292.45,5,,0,1
+RT000547,OR003991,2025-05-14,2025-05-17,2025-05-17,,Late Delivery,Inspection,App,Returns Team B,20049.6,5,,0,1
+RT000548,OR003993,2025-11-21,2025-11-23,2025-11-28,2025-11-26,Size/Fit Issue,Closed,Website,Escalations Team,36283.77,5,5,1,0
+RT000549,OR004019,2025-06-23,2025-06-26,2025-06-28,2025-07-02,Changed Mind,Closed,Customer Support,Returns Team B,22872.18,5,9,0,0
+RT000550,OR004027,2025-11-15,2025-11-17,2025-11-19,2025-11-21,Late Delivery,Closed,Customer Support,Escalations Team,38605.1,5,6,0,0
+RT000551,OR004033,2025-05-03,2025-05-04,2025-05-08,,Size/Fit Issue,Inspection,App,Returns Team B,15248.97,5,,0,1
+RT000552,OR004038,2025-07-11,2025-07-13,2025-07-15,,Changed Mind,Refund Processing,App,Escalations Team,20190.66,5,,0,1
+RT000553,OR004051,2025-11-18,2025-11-20,2025-11-23,2025-11-24,Missing Parts,Closed,App,Returns Team B,17919.12,5,6,0,0
+RT000554,OR004055,2025-06-04,2025-06-06,2025-06-08,,Product Not as Described,Received,App,Escalations Team,20016.89,5,,0,1
+RT000555,OR004056,2025-07-26,2025-07-27,2025-08-02,,Wrong Item Delivered,Received,Website,Returns Team B,10380.17,5,,0,1
+RT000556,OR004059,2025-02-27,2025-03-01,2025-03-06,,Size/Fit Issue,Received,Customer Support,Returns Team B,23946.02,5,,0,1
+RT000557,OR004061,2025-03-06,2025-03-07,2025-03-09,,Wrong Item Delivered,Received,Website,Returns Team A,8737.24,5,,0,1
+RT000558,OR004081,2025-11-28,2025-11-29,2025-12-03,2025-12-08,Size/Fit Issue,Closed,App,Escalations Team,11918.26,5,10,0,0
+RT000559,OR004086,2025-04-26,2025-04-27,2025-05-01,,Changed Mind,Pickup Scheduled,Website,Returns Team C,3262.5,5,,0,1
+RT000560,OR004098,2025-07-22,2025-07-25,2025-07-25,,Product Not as Described,Inspection,Website,Returns Team C,7638.81,5,,0,1
+RT000561,OR004109,2025-12-31,2026-01-01,2026-01-04,2026-01-03,Changed Mind,Closed,Website,Returns Team A,12395.3,5,3,1,0
+RT000562,OR004110,2025-12-27,2025-12-29,2026-01-02,2025-12-28,Size/Fit Issue,Rejected,Customer Support,Returns Team C,22045.4,5,1,1,0
+RT000563,OR004114,2026-01-02,2026-01-05,2026-01-05,2026-01-09,Missing Parts,Closed,App,Returns Team A,30017.43,5,7,0,0
+RT000564,OR004126,2025-08-09,2025-08-12,2025-08-16,2025-08-21,Late Delivery,Closed,Website,Returns Team C,34387.26,5,12,0,0
+RT000565,OR004139,2025-08-04,2025-08-05,2025-08-09,,Late Delivery,Pickup Scheduled,App,Returns Team A,23436.58,5,,0,1
+RT000566,OR004143,2025-07-08,2025-07-11,2025-07-12,2025-07-20,Missing Parts,Closed,App,Returns Team B,42796.09,5,12,0,0
+RT000567,OR004144,2025-03-19,2025-03-21,2025-03-26,,Missing Parts,Requested,App,Returns Team A,1729.91,5,,0,1
+RT000568,OR004148,2025-03-05,2025-03-06,2025-03-09,2025-03-15,Changed Mind,Closed,Customer Support,Escalations Team,33460.47,5,10,0,0
+RT000569,OR004150,2025-03-22,2025-03-25,2025-03-28,2025-03-31,Changed Mind,Closed,Website,Returns Team B,2940.29,5,9,0,0
+RT000570,OR004161,2025-09-25,2025-09-28,2025-10-02,2025-09-26,Size/Fit Issue,Closed,App,Returns Team B,19425.41,5,1,1,0
+RT000571,OR004170,2025-05-17,2025-05-18,2025-05-20,2025-05-24,Wrong Item Delivered,Closed,Customer Support,Escalations Team,24854.06,5,7,0,0
+RT000572,OR004172,2025-05-27,2025-05-29,2025-05-30,,Wrong Item Delivered,Received,Website,Escalations Team,611.04,5,,0,1
+RT000573,OR004177,2025-10-01,2025-10-02,2025-10-06,,Size/Fit Issue,In Transit,App,Escalations Team,40246.35,5,,0,1
+RT000574,OR004185,2025-05-01,2025-05-04,2025-05-04,2025-05-03,Damaged Product,Rejected,Customer Support,Returns Team C,2215.82,5,2,1,0
+RT000575,OR004186,2025-03-07,2025-03-08,2025-03-12,,Changed Mind,Received,Website,Returns Team A,30358.69,5,,0,1
+RT000576,OR004191,2025-07-26,2025-07-29,2025-07-31,,Missing Parts,Requested,App,Returns Team A,13712.22,5,,0,1
+RT000577,OR004195,2025-05-16,2025-05-19,2025-05-21,,Damaged Product,Pickup Scheduled,Website,Escalations Team,10058.24,5,,0,1
+RT000578,OR004196,2025-11-17,2025-11-20,2025-11-23,2025-11-23,Wrong Item Delivered,Closed,Customer Support,Returns Team B,18922.12,5,6,0,0
+RT000579,OR004198,2025-06-08,2025-06-11,2025-06-13,2025-06-16,Changed Mind,Closed,Customer Support,Returns Team C,11263.0,5,8,0,0
+RT000580,OR004204,2025-09-04,2025-09-07,2025-09-11,,Missing Parts,Inspection,App,Returns Team A,3336.92,5,,0,1
+RT000581,OR004219,2025-02-17,2025-02-19,2025-02-21,2025-02-18,Product Not as Described,Closed,Website,Returns Team C,31659.08,5,1,1,0
+RT000582,OR004222,2025-06-09,2025-06-10,2025-06-12,,Changed Mind,Requested,Website,Escalations Team,32489.43,5,,0,1
+RT000583,OR004231,2025-03-02,2025-03-04,2025-03-07,,Late Delivery,Refund Processing,Website,Returns Team B,24648.54,5,,0,1
+RT000584,OR004234,2025-02-01,2025-02-03,2025-02-07,2025-02-04,Product Not as Described,Closed,Customer Support,Returns Team C,26933.52,5,3,1,0
+RT000585,OR004252,2025-03-16,2025-03-17,2025-03-22,2025-03-27,Missing Parts,Closed,App,Returns Team A,1842.33,5,11,0,0
+RT000586,OR004257,2025-09-13,2025-09-15,2025-09-20,,Wrong Item Delivered,Received,App,Escalations Team,34282.37,5,,0,1
+RT000587,OR004274,2025-10-05,2025-10-06,2025-10-08,,Damaged Product,Requested,Customer Support,Returns Team C,4387.28,5,,0,1
+RT000588,OR004280,2025-09-15,2025-09-18,2025-09-21,,Changed Mind,Requested,Website,Escalations Team,13613.53,5,,0,1
+RT000589,OR004281,2025-06-20,2025-06-22,2025-06-24,2025-06-23,Size/Fit Issue,Closed,App,Returns Team B,7792.8,5,3,1,0
+RT000590,OR004287,2025-06-08,2025-06-10,2025-06-15,2025-06-10,Wrong Item Delivered,Closed,Website,Returns Team C,41054.09,5,2,1,0
+RT000591,OR004296,2025-08-04,2025-08-05,2025-08-11,,Late Delivery,Received,App,Returns Team A,5343.36,5,,0,1
+RT000592,OR004300,2025-04-18,2025-04-21,2025-04-25,,Size/Fit Issue,Received,Customer Support,Returns Team C,3551.16,5,,0,1
+RT000593,OR004302,2025-02-16,2025-02-19,2025-02-23,2025-02-21,Size/Fit Issue,Closed,Website,Returns Team B,24616.2,5,5,1,0
+RT000594,OR004310,2025-05-14,2025-05-16,2025-05-20,,Product Not as Described,Refund Processing,Customer Support,Returns Team C,13917.38,5,,0,1
+RT000595,OR004317,2025-01-30,2025-02-01,2025-02-05,,Changed Mind,In Transit,App,Returns Team C,34324.91,5,,0,1
+RT000596,OR004324,2025-05-26,2025-05-27,2025-05-30,2025-06-06,Wrong Item Delivered,Closed,App,Returns Team C,17909.99,5,11,0,0
+RT000597,OR004330,2025-08-12,2025-08-13,2025-08-19,,Late Delivery,Received,Customer Support,Returns Team B,15039.0,5,,0,1
+RT000598,OR004335,2025-06-15,2025-06-17,2025-06-19,,Wrong Item Delivered,Inspection,Website,Returns Team B,1745.77,5,,0,1
+RT000599,OR004337,2025-11-26,2025-11-28,2025-12-03,,Late Delivery,Received,Customer Support,Returns Team A,36392.77,5,,0,1
+RT000600,OR004340,2025-07-16,2025-07-17,2025-07-23,2025-07-21,Damaged Product,Closed,Customer Support,Returns Team B,6350.52,5,5,1,0
+RT000601,OR004346,2025-03-26,2025-03-29,2025-04-01,,Damaged Product,Refund Processing,Customer Support,Escalations Team,9661.26,5,,0,1
+RT000602,OR004354,2025-10-26,2025-10-27,2025-11-01,,Late Delivery,Inspection,App,Escalations Team,11073.12,5,,0,1
+RT000603,OR004357,2025-07-17,2025-07-19,2025-07-22,,Wrong Item Delivered,In Transit,Website,Returns Team B,22824.82,5,,0,1
+RT000604,OR004362,2025-09-28,2025-09-29,2025-10-04,,Wrong Item Delivered,Pickup Scheduled,App,Returns Team A,28610.14,5,,0,1
+RT000605,OR004364,2025-04-21,2025-04-22,2025-04-28,,Late Delivery,Received,Customer Support,Returns Team C,12734.22,5,,0,1
+RT000606,OR004366,2025-07-17,2025-07-19,2025-07-24,2025-07-27,Late Delivery,Rejected,Customer Support,Returns Team B,17084.71,5,10,0,0
+RT000607,OR004367,2025-09-06,2025-09-07,2025-09-12,,Size/Fit Issue,In Transit,Website,Returns Team C,3766.81,5,,0,1
+RT000608,OR004372,2025-05-14,2025-05-15,2025-05-18,,Size/Fit Issue,Received,Website,Escalations Team,32623.6,5,,0,1
+RT000609,OR004374,2025-03-18,2025-03-20,2025-03-25,2025-03-19,Damaged Product,Closed,Customer Support,Escalations Team,37059.35,5,1,1,0
+RT000610,OR004376,2025-02-21,2025-02-22,2025-02-28,,Late Delivery,Received,App,Returns Team C,34563.34,5,,0,1
+RT000611,OR004379,2025-06-16,2025-06-18,2025-06-21,2025-06-28,Changed Mind,Closed,App,Returns Team C,5291.35,5,12,0,0
+RT000612,OR004380,2025-05-06,2025-05-08,2025-05-13,,Damaged Product,Refund Processing,Website,Returns Team C,30677.9,5,,0,1
+RT000613,OR004398,2025-12-13,2025-12-14,2025-12-19,,Missing Parts,Inspection,Website,Returns Team B,30153.65,5,,0,1
+RT000614,OR004411,2025-04-28,2025-04-29,2025-05-05,2025-05-06,Damaged Product,Rejected,App,Returns Team B,43008.61,5,8,0,0
+RT000615,OR004413,2025-10-18,2025-10-19,2025-10-22,,Wrong Item Delivered,Pickup Scheduled,App,Returns Team A,13013.43,5,,0,1
+RT000616,OR004415,2025-07-10,2025-07-12,2025-07-13,,Damaged Product,Received,Website,Returns Team A,2218.43,5,,0,1
+RT000617,OR004421,2025-10-19,2025-10-20,2025-10-22,,Changed Mind,Refund Processing,Customer Support,Returns Team C,1100.78,5,,0,1
+RT000618,OR004440,2025-02-12,2025-02-15,2025-02-16,,Late Delivery,Pickup Scheduled,Customer Support,Returns Team B,30669.04,5,,0,1
+RT000619,OR004448,2025-12-25,2025-12-28,2025-12-31,2025-12-28,Wrong Item Delivered,Closed,App,Escalations Team,26243.54,5,3,1,0
+RT000620,OR004449,2025-08-27,2025-08-30,2025-09-01,2025-08-29,Changed Mind,Rejected,Website,Returns Team C,14578.68,5,2,1,0
+RT000621,OR004453,2025-06-12,2025-06-13,2025-06-17,,Missing Parts,In Transit,Website,Returns Team A,13022.64,5,,0,1
+RT000622,OR004455,2025-06-22,2025-06-25,2025-06-25,,Product Not as Described,In Transit,Website,Returns Team C,35466.3,5,,0,1
+RT000623,OR004456,2025-10-05,2025-10-07,2025-10-08,,Late Delivery,Pickup Scheduled,App,Returns Team A,2129.45,5,,0,1
+RT000624,OR004469,2025-05-23,2025-05-26,2025-05-29,2025-06-02,Damaged Product,Closed,Website,Returns Team A,1238.68,5,10,0,0
+RT000625,OR004471,2025-07-15,2025-07-17,2025-07-18,,Missing Parts,Requested,App,Returns Team C,21808.14,5,,0,1
+RT000626,OR004477,2025-02-04,2025-02-06,2025-02-09,,Product Not as Described,Inspection,Website,Returns Team C,11481.63,5,,0,1
+RT000627,OR004482,2025-12-23,2025-12-24,2025-12-30,2025-12-28,Wrong Item Delivered,Closed,App,Returns Team A,43991.92,5,5,1,0
+RT000628,OR004483,2025-06-02,2025-06-04,2025-06-07,,Damaged Product,Inspection,Customer Support,Escalations Team,10598.63,5,,0,1
+RT000629,OR004486,2025-10-29,2025-11-01,2025-11-04,2025-11-01,Size/Fit Issue,Closed,App,Escalations Team,935.92,5,3,1,0
+RT000630,OR004507,2025-09-18,2025-09-19,2025-09-24,2025-09-20,Missing Parts,Closed,Website,Returns Team C,31088.87,5,2,1,0
+RT000631,OR004512,2025-11-09,2025-11-10,2025-11-14,2025-11-19,Wrong Item Delivered,Closed,App,Returns Team C,14996.89,5,10,0,0
+RT000632,OR004525,2025-07-06,2025-07-08,2025-07-12,2025-07-14,Missing Parts,Closed,Website,Escalations Team,20302.92,5,8,0,0
+RT000633,OR004556,2025-12-23,2025-12-26,2025-12-30,2025-12-27,Size/Fit Issue,Rejected,Customer Support,Returns Team B,32209.11,5,4,1,0
+RT000634,OR004557,2025-09-25,2025-09-27,2025-09-29,,Wrong Item Delivered,In Transit,App,Escalations Team,18777.52,5,,0,1
+RT000635,OR004559,2025-09-04,2025-09-05,2025-09-08,,Product Not as Described,Inspection,Website,Returns Team A,12474.6,5,,0,1
+RT000636,OR004571,2025-06-06,2025-06-07,2025-06-12,2025-06-12,Damaged Product,Closed,Customer Support,Returns Team A,31244.37,5,6,0,0
+RT000637,OR004590,2025-06-05,2025-06-08,2025-06-11,,Missing Parts,Received,App,Returns Team A,28716.34,5,,0,1
+RT000638,OR004591,2025-10-04,2025-10-07,2025-10-07,2025-10-11,Changed Mind,Closed,Customer Support,Returns Team A,16785.08,5,7,0,0
+RT000639,OR004594,2025-08-25,2025-08-26,2025-08-29,,Product Not as Described,Inspection,App,Returns Team A,27668.4,5,,0,1
+RT000640,OR004596,2025-10-03,2025-10-05,2025-10-06,2025-10-15,Changed Mind,Closed,Website,Escalations Team,33041.87,5,12,0,0
+RT000641,OR004606,2025-07-28,2025-07-31,2025-08-02,,Late Delivery,Requested,App,Returns Team C,3271.01,5,,0,1
+RT000642,OR004618,2025-03-28,2025-03-31,2025-04-02,2025-03-30,Damaged Product,Rejected,Customer Support,Returns Team B,33616.38,5,2,1,0
+RT000643,OR004621,2025-11-28,2025-12-01,2025-12-02,2025-12-10,Changed Mind,Closed,App,Returns Team B,17491.8,5,12,0,0
+RT000644,OR004628,2025-09-16,2025-09-17,2025-09-21,,Damaged Product,Inspection,Customer Support,Returns Team A,11292.43,5,,0,1
+RT000645,OR004630,2025-08-28,2025-08-31,2025-09-02,,Damaged Product,In Transit,Website,Returns Team B,27056.96,5,,0,1
+RT000646,OR004634,2025-05-23,2025-05-24,2025-05-30,2025-06-02,Damaged Product,Closed,Customer Support,Returns Team B,35759.06,5,10,0,0
+RT000647,OR004647,2025-03-02,2025-03-05,2025-03-07,2025-03-05,Wrong Item Delivered,Closed,Website,Escalations Team,9586.93,5,3,1,0
+RT000648,OR004651,2025-06-24,2025-06-26,2025-06-28,2025-06-25,Wrong Item Delivered,Closed,Customer Support,Returns Team B,12871.92,5,1,1,0
+RT000649,OR004652,2025-06-13,2025-06-15,2025-06-20,2025-06-14,Changed Mind,Closed,Customer Support,Returns Team A,18660.12,5,1,1,0
+RT000650,OR004668,2025-07-16,2025-07-19,2025-07-21,2025-07-18,Damaged Product,Closed,Customer Support,Escalations Team,20442.38,5,2,1,0
+RT000651,OR004671,2025-03-11,2025-03-12,2025-03-15,,Size/Fit Issue,In Transit,App,Returns Team C,33576.59,5,,0,1
+RT000652,OR004672,2025-06-25,2025-06-27,2025-07-02,,Wrong Item Delivered,Refund Processing,Customer Support,Returns Team B,29734.02,5,,0,1
+RT000653,OR004697,2025-10-17,2025-10-19,2025-10-20,2025-10-28,Changed Mind,Closed,Customer Support,Escalations Team,42307.14,5,11,0,0
+RT000654,OR004706,2025-01-22,2025-01-23,2025-01-25,,Product Not as Described,Received,Website,Returns Team B,12310.0,5,,0,1
+RT000655,OR004707,2025-08-25,2025-08-27,2025-08-28,2025-08-30,Damaged Product,Closed,Customer Support,Escalations Team,20866.95,5,5,1,0
+RT000656,OR004710,2025-05-13,2025-05-14,2025-05-18,,Damaged Product,Pickup Scheduled,App,Returns Team A,12880.18,5,,0,1
+RT000657,OR004711,2025-11-19,2025-11-22,2025-11-26,,Product Not as Described,Refund Processing,App,Escalations Team,4550.48,5,,0,1
+RT000658,OR004712,2025-05-10,2025-05-11,2025-05-14,,Changed Mind,Refund Processing,Customer Support,Returns Team A,8352.54,5,,0,1
+RT000659,OR004714,2025-11-27,2025-11-28,2025-12-03,2025-12-01,Size/Fit Issue,Closed,Customer Support,Returns Team B,19982.47,5,4,1,0
+RT000660,OR004719,2025-06-25,2025-06-28,2025-06-28,,Missing Parts,Refund Processing,Website,Returns Team A,11047.85,5,,0,1
+RT000661,OR004725,2025-04-30,2025-05-02,2025-05-05,,Changed Mind,Inspection,App,Returns Team A,14028.43,5,,0,1
+RT000662,OR004743,2025-02-20,2025-02-21,2025-02-26,,Late Delivery,Pickup Scheduled,Website,Escalations Team,15244.1,5,,0,1
+RT000663,OR004745,2025-12-21,2025-12-23,2025-12-27,2026-01-01,Product Not as Described,Rejected,App,Returns Team C,35723.37,5,11,0,0
+RT000664,OR004755,2025-02-23,2025-02-24,2025-03-01,,Size/Fit Issue,Refund Processing,App,Returns Team C,28253.75,5,,0,1
+RT000665,OR004760,2025-10-13,2025-10-14,2025-10-18,,Damaged Product,Refund Processing,App,Escalations Team,674.54,5,,0,1
+RT000666,OR004768,2025-06-12,2025-06-15,2025-06-17,2025-06-15,Wrong Item Delivered,Rejected,Website,Escalations Team,17762.48,5,3,1,0
+RT000667,OR004771,2025-01-18,2025-01-19,2025-01-22,2025-01-22,Product Not as Described,Rejected,App,Returns Team C,13744.37,5,4,1,0
+RT000668,OR004774,2025-02-06,2025-02-07,2025-02-11,2025-02-18,Size/Fit Issue,Closed,Customer Support,Returns Team C,16873.18,5,12,0,0
+RT000669,OR004775,2025-10-21,2025-10-22,2025-10-28,2025-10-31,Missing Parts,Rejected,App,Returns Team A,21724.44,5,10,0,0
+RT000670,OR004785,2025-07-12,2025-07-13,2025-07-18,,Late Delivery,Pickup Scheduled,App,Escalations Team,3691.7,5,,0,1
+RT000671,OR004789,2025-08-26,2025-08-27,2025-09-01,2025-09-07,Size/Fit Issue,Closed,Website,Returns Team C,34687.65,5,12,0,0
+RT000672,OR004800,2025-07-03,2025-07-04,2025-07-07,2025-07-14,Product Not as Described,Closed,App,Returns Team A,24036.52,5,11,0,0
+RT000673,OR004818,2025-03-04,2025-03-07,2025-03-08,2025-03-07,Late Delivery,Closed,Customer Support,Escalations Team,31642.99,5,3,1,0
+RT000674,OR004829,2025-04-17,2025-04-20,2025-04-22,2025-04-27,Changed Mind,Closed,Customer Support,Returns Team B,4403.88,5,10,0,0
+RT000675,OR004831,2025-10-14,2025-10-17,2025-10-21,,Damaged Product,In Transit,App,Escalations Team,1511.92,5,,0,1
+RT000676,OR004836,2025-02-17,2025-02-19,2025-02-21,,Product Not as Described,Requested,Website,Returns Team C,2201.49,5,,0,1
+RT000677,OR004837,2026-01-14,2026-01-16,2026-01-18,2026-01-19,Product Not as Described,Closed,Website,Returns Team A,6242.89,5,5,1,0
+RT000678,OR004847,2026-01-03,2026-01-06,2026-01-10,2026-01-04,Wrong Item Delivered,Closed,Website,Returns Team B,3071.23,5,1,1,0
+RT000679,OR004849,2025-08-01,2025-08-04,2025-08-04,2025-08-03,Damaged Product,Closed,Website,Escalations Team,29151.78,5,2,1,0
+RT000680,OR004850,2025-09-01,2025-09-03,2025-09-08,,Wrong Item Delivered,Received,Customer Support,Returns Team A,21020.42,5,,0,1
+RT000681,OR004851,2025-09-07,2025-09-10,2025-09-13,,Product Not as Described,Refund Processing,Customer Support,Returns Team B,32092.49,5,,0,1
+RT000682,OR004853,2025-01-23,2025-01-24,2025-01-29,2025-01-28,Damaged Product,Closed,Website,Returns Team C,354.31,5,5,1,0
+RT000683,OR004867,2025-05-04,2025-05-05,2025-05-09,,Changed Mind,In Transit,Customer Support,Returns Team B,15264.01,5,,0,1
+RT000684,OR004877,2025-03-13,2025-03-15,2025-03-18,,Missing Parts,Refund Processing,App,Returns Team C,37498.48,5,,0,1
+RT000685,OR004879,2025-05-15,2025-05-18,2025-05-21,2025-05-27,Product Not as Described,Closed,Customer Support,Returns Team C,15084.51,5,12,0,0
+RT000686,OR004887,2025-04-11,2025-04-14,2025-04-16,2025-04-23,Damaged Product,Closed,Customer Support,Returns Team A,41172.73,5,12,0,0
+RT000687,OR004911,2025-02-18,2025-02-20,2025-02-23,2025-02-26,Changed Mind,Closed,App,Escalations Team,34071.86,5,8,0,0
+RT000688,OR004920,2025-04-06,2025-04-07,2025-04-12,,Size/Fit Issue,Refund Processing,Customer Support,Escalations Team,16189.75,5,,0,1
+RT000689,OR004922,2025-11-27,2025-11-28,2025-12-02,2025-12-03,Missing Parts,Closed,Website,Returns Team C,8317.6,5,6,0,0
+RT000690,OR004923,2025-09-25,2025-09-26,2025-09-29,,Size/Fit Issue,Refund Processing,App,Returns Team B,31325.65,5,,0,1
+RT000691,OR004939,2025-08-06,2025-08-09,2025-08-10,,Product Not as Described,Refund Processing,Customer Support,Escalations Team,9911.1,5,,0,1
+RT000692,OR004950,2025-02-09,2025-02-11,2025-02-15,2025-02-17,Wrong Item Delivered,Closed,App,Escalations Team,20057.37,5,8,0,0
+RT000693,OR004957,2025-10-27,2025-10-30,2025-10-31,,Changed Mind,Inspection,App,Returns Team C,32491.24,5,,0,1
+RT000694,OR004962,2025-01-18,2025-01-20,2025-01-23,,Missing Parts,Refund Processing,App,Escalations Team,13276.06,5,,0,1
+RT000695,OR004966,2025-01-21,2025-01-22,2025-01-25,2025-01-26,Size/Fit Issue,Closed,Customer Support,Returns Team B,24109.41,5,5,1,0
+RT000696,OR004980,2025-08-25,2025-08-26,2025-08-28,2025-08-26,Damaged Product,Closed,App,Returns Team A,28173.26,5,1,1,0
+RT000697,OR004984,2026-01-02,2026-01-03,2026-01-08,2026-01-14,Damaged Product,Closed,Customer Support,Returns Team C,7719.51,5,12,0,0
+RT000698,OR004986,2025-08-05,2025-08-06,2025-08-10,2025-08-12,Missing Parts,Closed,App,Returns Team A,32847.52,5,7,0,0
+RT000699,OR004997,2025-07-28,2025-07-29,2025-08-04,,Size/Fit Issue,Received,App,Returns Team A,8769.91,5,,0,1
+RT000700,OR005000,2025-02-13,2025-02-14,2025-02-20,,Product Not as Described,Received,App,Returns Team B,25831.25,5,,0,1
+RT000701,OR005002,2025-06-13,2025-06-14,2025-06-20,2025-06-21,Missing Parts,Closed,Customer Support,Returns Team A,23572.76,5,8,0,0
+RT000702,OR005005,2025-08-02,2025-08-04,2025-08-07,,Damaged Product,In Transit,Website,Returns Team B,7962.3,5,,0,1
+RT000703,OR005013,2025-11-27,2025-11-30,2025-12-01,2025-12-03,Damaged Product,Closed,App,Returns Team C,32889.85,5,6,0,0
+RT000704,OR005029,2025-12-25,2025-12-28,2026-01-01,2025-12-27,Changed Mind,Closed,Customer Support,Returns Team B,4910.88,5,2,1,0
+RT000705,OR005033,2025-01-18,2025-01-21,2025-01-23,2025-01-20,Damaged Product,Closed,Website,Returns Team C,11600.31,5,2,1,0
+RT000706,OR005038,2025-08-04,2025-08-05,2025-08-07,,Missing Parts,Refund Processing,Website,Escalations Team,28042.75,5,,0,1
+RT000707,OR005046,2025-01-24,2025-01-26,2025-01-29,2025-01-27,Late Delivery,Closed,Website,Returns Team B,33501.78,5,3,1,0
+RT000708,OR005048,2025-02-22,2025-02-25,2025-03-01,2025-03-01,Changed Mind,Closed,Website,Escalations Team,4327.44,5,7,0,0
+RT000709,OR005050,2025-04-18,2025-04-21,2025-04-21,2025-04-19,Missing Parts,Closed,Website,Escalations Team,31548.17,5,1,1,0
+RT000710,OR005066,2025-09-01,2025-09-02,2025-09-05,,Size/Fit Issue,In Transit,Customer Support,Returns Team C,16944.8,5,,0,1
+RT000711,OR005081,2025-11-09,2025-11-11,2025-11-14,2025-11-11,Missing Parts,Closed,App,Returns Team B,31530.26,5,2,1,0
+RT000712,OR005098,2026-01-08,2026-01-10,2026-01-12,2026-01-18,Late Delivery,Closed,Website,Returns Team B,14225.14,5,10,0,0
+RT000713,OR005099,2025-07-22,2025-07-23,2025-07-29,,Changed Mind,Received,App,Escalations Team,6941.75,5,,0,1
+RT000714,OR005104,2025-12-21,2025-12-24,2025-12-28,2026-01-01,Product Not as Described,Closed,Customer Support,Returns Team C,22811.92,5,11,0,0
+RT000715,OR005134,2025-10-19,2025-10-20,2025-10-22,,Size/Fit Issue,Received,Website,Returns Team A,8091.38,5,,0,1
+RT000716,OR005144,2025-09-20,2025-09-22,2025-09-25,,Product Not as Described,Received,Website,Returns Team C,8462.99,5,,0,1
+RT000717,OR005158,2025-12-09,2025-12-11,2025-12-13,2025-12-13,Wrong Item Delivered,Closed,Website,Returns Team B,32869.62,5,4,1,0
+RT000718,OR005161,2025-02-17,2025-02-18,2025-02-24,2025-02-20,Wrong Item Delivered,Closed,Customer Support,Returns Team B,15185.72,5,3,1,0
+RT000719,OR005164,2025-12-26,2025-12-27,2025-12-30,2025-12-31,Damaged Product,Rejected,Website,Escalations Team,4771.29,5,5,1,0
+RT000720,OR005179,2025-02-09,2025-02-10,2025-02-15,,Product Not as Described,In Transit,Website,Returns Team A,16710.99,5,,0,1
+RT000721,OR005197,2025-08-05,2025-08-08,2025-08-09,,Wrong Item Delivered,Requested,Customer Support,Returns Team A,3260.16,5,,0,1
+RT000722,OR005198,2025-12-27,2025-12-29,2026-01-01,,Wrong Item Delivered,Requested,Website,Returns Team A,26335.95,5,,0,1
+RT000723,OR005200,2025-08-18,2025-08-20,2025-08-22,,Product Not as Described,Received,Customer Support,Returns Team B,29475.06,5,,0,1
+RT000724,OR005201,2025-09-02,2025-09-05,2025-09-07,,Product Not as Described,Refund Processing,Customer Support,Returns Team B,7590.44,5,,0,1
+RT000725,OR005234,2025-05-27,2025-05-30,2025-05-31,2025-06-05,Damaged Product,Closed,App,Returns Team C,14778.02,5,9,0,0
+RT000726,OR005240,2025-05-18,2025-05-20,2025-05-24,,Wrong Item Delivered,Received,Website,Returns Team B,1326.52,5,,0,1
+RT000727,OR005259,2025-05-01,2025-05-03,2025-05-04,,Changed Mind,In Transit,App,Returns Team B,14034.93,5,,0,1
+RT000728,OR005268,2025-04-30,2025-05-01,2025-05-04,2025-05-02,Product Not as Described,Closed,App,Escalations Team,15250.36,5,2,1,0
+RT000729,OR005269,2025-11-17,2025-11-18,2025-11-23,,Damaged Product,Pickup Scheduled,App,Escalations Team,34445.78,5,,0,1
+RT000730,OR005277,2025-09-08,2025-09-10,2025-09-12,,Damaged Product,Refund Processing,App,Returns Team A,27391.05,5,,0,1
+RT000731,OR005278,2025-09-28,2025-09-30,2025-10-02,2025-09-29,Late Delivery,Closed,App,Returns Team A,26583.44,5,1,1,0
+RT000732,OR005290,2025-11-18,2025-11-19,2025-11-23,,Damaged Product,Received,Website,Returns Team B,18061.01,5,,0,1
+RT000733,OR005293,2025-09-27,2025-09-30,2025-10-03,2025-10-07,Damaged Product,Closed,Website,Escalations Team,9165.68,5,10,0,0
+RT000734,OR005295,2025-11-27,2025-11-29,2025-12-01,,Product Not as Described,Received,App,Returns Team A,10144.83,5,,0,1
+RT000735,OR005298,2025-05-27,2025-05-28,2025-06-01,,Missing Parts,Received,Customer Support,Returns Team B,13426.5,5,,0,1
+RT000736,OR005311,2025-10-30,2025-10-31,2025-11-06,,Missing Parts,Pickup Scheduled,App,Returns Team C,39701.6,5,,0,1
+RT000737,OR005313,2025-04-02,2025-04-03,2025-04-08,,Damaged Product,Inspection,App,Returns Team A,23456.85,5,,0,1
+RT000738,OR005328,2025-02-28,2025-03-03,2025-03-06,,Late Delivery,Requested,Customer Support,Returns Team A,2823.37,5,,0,1
+RT000739,OR005336,2025-03-05,2025-03-08,2025-03-12,,Late Delivery,Requested,Customer Support,Returns Team C,32252.13,5,,0,1
+RT000740,OR005349,2025-05-15,2025-05-17,2025-05-21,2025-05-25,Product Not as Described,Closed,App,Returns Team A,21018.54,5,10,0,0
+RT000741,OR005350,2025-06-20,2025-06-21,2025-06-24,,Changed Mind,Pickup Scheduled,Website,Returns Team A,11889.69,5,,0,1
+RT000742,OR005356,2025-03-30,2025-04-01,2025-04-04,2025-04-08,Wrong Item Delivered,Closed,App,Returns Team A,30406.5,5,9,0,0
+RT000743,OR005357,2025-01-21,2025-01-22,2025-01-25,,Late Delivery,In Transit,Customer Support,Escalations Team,25610.43,5,,0,1
+RT000744,OR005360,2025-05-13,2025-05-16,2025-05-17,,Size/Fit Issue,Received,Website,Returns Team C,6582.69,5,,0,1
+RT000745,OR005383,2025-07-13,2025-07-14,2025-07-19,2025-07-22,Damaged Product,Closed,Website,Returns Team A,4503.7,5,9,0,0
+RT000746,OR005385,2025-10-18,2025-10-19,2025-10-21,,Size/Fit Issue,Received,Customer Support,Escalations Team,21732.19,5,,0,1
+RT000747,OR005389,2025-06-21,2025-06-23,2025-06-24,,Missing Parts,Received,Website,Returns Team A,25636.08,5,,0,1
+RT000748,OR005394,2025-08-19,2025-08-22,2025-08-24,2025-08-22,Changed Mind,Closed,Customer Support,Returns Team A,37500.12,5,3,1,0
+RT000749,OR005396,2025-08-05,2025-08-08,2025-08-08,2025-08-13,Missing Parts,Closed,Customer Support,Returns Team A,30134.47,5,8,0,0
+RT000750,OR005401,2025-07-24,2025-07-25,2025-07-27,2025-08-03,Late Delivery,Closed,Customer Support,Returns Team C,20804.05,5,10,0,0
+RT000751,OR005420,2025-04-27,2025-04-29,2025-05-03,2025-05-09,Damaged Product,Closed,App,Escalations Team,30063.49,5,12,0,0
+RT000752,OR005435,2025-06-23,2025-06-26,2025-06-27,2025-07-01,Missing Parts,Closed,Customer Support,Returns Team B,23034.22,5,8,0,0
+RT000753,OR005439,2025-07-21,2025-07-23,2025-07-28,2025-07-25,Missing Parts,Closed,Website,Returns Team C,28871.48,5,4,1,0
+RT000754,OR005444,2025-02-16,2025-02-18,2025-02-21,,Damaged Product,Inspection,App,Returns Team A,13414.41,5,,0,1
+RT000755,OR005447,2025-03-24,2025-03-26,2025-03-29,,Wrong Item Delivered,Received,App,Returns Team C,22920.74,5,,0,1
+RT000756,OR005454,2025-02-02,2025-02-03,2025-02-06,,Changed Mind,Inspection,Website,Returns Team A,21433.15,5,,0,1
+RT000757,OR005455,2025-02-22,2025-02-24,2025-02-26,,Wrong Item Delivered,In Transit,App,Escalations Team,6372.04,5,,0,1
+RT000758,OR005458,2025-02-03,2025-02-05,2025-02-09,,Damaged Product,Pickup Scheduled,Customer Support,Returns Team B,42491.32,5,,0,1
+RT000759,OR005462,2025-11-28,2025-11-29,2025-12-02,2025-12-10,Missing Parts,Rejected,App,Returns Team B,23190.14,5,12,0,0
+RT000760,OR005476,2026-01-04,2026-01-05,2026-01-07,,Wrong Item Delivered,Pickup Scheduled,Website,Returns Team C,8389.87,5,,0,1
+RT000761,OR005478,2025-11-10,2025-11-12,2025-11-17,2025-11-11,Product Not as Described,Closed,Website,Returns Team C,20546.53,5,1,1,0
+RT000762,OR005480,2025-01-21,2025-01-24,2025-01-25,2025-02-01,Missing Parts,Closed,Customer Support,Returns Team B,21350.9,5,11,0,0
+RT000763,OR005496,2025-05-28,2025-05-31,2025-06-01,2025-05-29,Product Not as Described,Closed,Customer Support,Returns Team B,27841.8,5,1,1,0
+RT000764,OR005497,2025-11-12,2025-11-15,2025-11-19,,Late Delivery,In Transit,Customer Support,Escalations Team,1735.33,5,,0,1
+RT000765,OR005503,2025-09-02,2025-09-03,2025-09-05,,Changed Mind,Refund Processing,Website,Returns Team B,29430.49,5,,0,1
+RT000766,OR005505,2025-12-05,2025-12-07,2025-12-08,,Product Not as Described,In Transit,App,Returns Team C,18562.74,5,,0,1
+RT000767,OR005510,2025-03-26,2025-03-27,2025-04-01,2025-04-05,Wrong Item Delivered,Closed,Customer Support,Returns Team C,4491.61,5,10,0,0
+RT000768,OR005513,2025-12-14,2025-12-15,2025-12-20,,Wrong Item Delivered,Inspection,App,Returns Team B,20253.18,5,,0,1
+RT000769,OR005514,2025-09-30,2025-10-03,2025-10-05,,Product Not as Described,Pickup Scheduled,App,Returns Team C,30899.63,5,,0,1
+RT000770,OR005532,2025-03-02,2025-03-04,2025-03-06,2025-03-11,Product Not as Described,Rejected,Website,Returns Team A,27091.75,5,9,0,0
+RT000771,OR005540,2025-11-09,2025-11-12,2025-11-14,2025-11-13,Late Delivery,Closed,Website,Returns Team B,14946.02,5,4,1,0
+RT000772,OR005541,2025-09-29,2025-10-01,2025-10-02,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team B,15813.44,5,,0,1
+RT000773,OR005542,2025-03-27,2025-03-30,2025-03-31,2025-04-02,Product Not as Described,Closed,App,Returns Team B,32605.96,5,6,0,0
+RT000774,OR005546,2025-03-06,2025-03-07,2025-03-10,2025-03-09,Size/Fit Issue,Closed,App,Escalations Team,8067.11,5,3,1,0
+RT000775,OR005555,2026-01-01,2026-01-02,2026-01-06,2026-01-09,Missing Parts,Rejected,Customer Support,Returns Team C,10355.42,5,8,0,0
+RT000776,OR005556,2026-01-02,2026-01-04,2026-01-05,2026-01-06,Late Delivery,Rejected,Website,Returns Team B,6462.25,5,4,1,0
+RT000777,OR005561,2025-02-15,2025-02-18,2025-02-19,,Wrong Item Delivered,Inspection,Customer Support,Escalations Team,24116.95,5,,0,1
+RT000778,OR005564,2025-04-11,2025-04-12,2025-04-17,2025-04-23,Damaged Product,Closed,Website,Returns Team A,28308.66,5,12,0,0
+RT000779,OR005574,2025-07-14,2025-07-16,2025-07-20,2025-07-16,Missing Parts,Closed,Website,Returns Team C,17516.57,5,2,1,0
+RT000780,OR005576,2025-07-11,2025-07-12,2025-07-18,2025-07-19,Size/Fit Issue,Closed,App,Returns Team B,37947.25,5,8,0,0
+RT000781,OR005580,2025-12-09,2025-12-11,2025-12-15,2025-12-20,Damaged Product,Closed,App,Escalations Team,18557.16,5,11,0,0
+RT000782,OR005582,2025-12-25,2025-12-28,2025-12-29,2025-12-27,Product Not as Described,Closed,Customer Support,Returns Team B,6003.07,5,2,1,0
+RT000783,OR005583,2025-12-04,2025-12-06,2025-12-10,2025-12-10,Damaged Product,Closed,App,Escalations Team,9736.81,5,6,0,0
+RT000784,OR005588,2025-09-30,2025-10-01,2025-10-05,2025-10-11,Damaged Product,Closed,Customer Support,Escalations Team,26832.39,5,11,0,0
+RT000785,OR005594,2025-06-04,2025-06-06,2025-06-08,2025-06-08,Missing Parts,Closed,Customer Support,Returns Team A,1800.55,5,4,1,0
+RT000786,OR005600,2025-06-17,2025-06-20,2025-06-20,2025-06-22,Size/Fit Issue,Rejected,Website,Returns Team C,36112.92,5,5,1,0
+RT000787,OR005601,2025-01-27,2025-01-29,2025-02-03,,Damaged Product,Inspection,Website,Returns Team B,22546.14,5,,0,1
+RT000788,OR005603,2025-12-03,2025-12-06,2025-12-10,,Product Not as Described,Received,Customer Support,Returns Team C,7993.96,5,,0,1
+RT000789,OR005608,2025-06-04,2025-06-06,2025-06-07,,Missing Parts,Refund Processing,Website,Returns Team C,5611.41,5,,0,1
+RT000790,OR005620,2025-11-20,2025-11-22,2025-11-26,,Size/Fit Issue,Refund Processing,App,Returns Team C,1120.73,5,,0,1
+RT000791,OR005631,2025-03-08,2025-03-10,2025-03-14,2025-03-12,Missing Parts,Closed,Customer Support,Returns Team A,15988.74,5,4,1,0
+RT000792,OR005632,2025-07-04,2025-07-05,2025-07-07,2025-07-13,Damaged Product,Closed,App,Escalations Team,39309.1,5,9,0,0
+RT000793,OR005635,2025-03-29,2025-03-31,2025-04-02,,Size/Fit Issue,In Transit,Customer Support,Returns Team C,11366.11,5,,0,1
+RT000794,OR005644,2025-08-09,2025-08-11,2025-08-13,,Size/Fit Issue,Received,Customer Support,Returns Team C,5081.01,5,,0,1
+RT000795,OR005648,2025-02-09,2025-02-10,2025-02-12,2025-02-12,Size/Fit Issue,Closed,Website,Returns Team A,36561.2,5,3,1,0
+RT000796,OR005652,2025-07-02,2025-07-05,2025-07-06,2025-07-04,Product Not as Described,Closed,App,Returns Team C,36996.77,5,2,1,0
+RT000797,OR005657,2025-02-23,2025-02-24,2025-03-01,2025-03-06,Damaged Product,Closed,App,Returns Team A,38144.73,5,11,0,0
+RT000798,OR005659,2025-09-18,2025-09-19,2025-09-24,2025-09-21,Size/Fit Issue,Closed,Website,Returns Team B,1131.11,5,3,1,0
+RT000799,OR005691,2025-03-02,2025-03-04,2025-03-09,2025-03-08,Damaged Product,Closed,App,Escalations Team,19784.5,5,6,0,0
+RT000800,OR005710,2025-11-14,2025-11-15,2025-11-18,2025-11-21,Missing Parts,Closed,Customer Support,Returns Team A,13159.62,5,7,0,0
+RT000801,OR005722,2025-03-14,2025-03-17,2025-03-18,,Late Delivery,Received,App,Returns Team C,11671.03,5,,0,1
+RT000802,OR005749,2025-12-18,2025-12-21,2025-12-24,,Missing Parts,Received,App,Returns Team B,21040.36,5,,0,1
+RT000803,OR005750,2025-03-09,2025-03-11,2025-03-12,2025-03-12,Missing Parts,Rejected,Website,Returns Team B,16695.99,5,3,1,0
+RT000804,OR005760,2026-01-03,2026-01-06,2026-01-07,2026-01-08,Size/Fit Issue,Closed,App,Returns Team C,13207.11,5,5,1,0
+RT000805,OR005765,2025-11-28,2025-12-01,2025-12-02,2025-12-04,Damaged Product,Closed,Customer Support,Escalations Team,21813.38,5,6,0,0
+RT000806,OR005769,2025-09-11,2025-09-12,2025-09-16,,Changed Mind,Pickup Scheduled,Customer Support,Returns Team B,4054.75,5,,0,1
+RT000807,OR005773,2025-08-27,2025-08-29,2025-09-03,2025-09-07,Late Delivery,Closed,App,Escalations Team,13686.98,5,11,0,0
+RT000808,OR005776,2026-01-10,2026-01-12,2026-01-16,,Size/Fit Issue,In Transit,App,Escalations Team,34970.33,5,,0,1
+RT000809,OR005782,2025-11-14,2025-11-17,2025-11-19,2025-11-18,Missing Parts,Rejected,App,Escalations Team,32514.96,5,4,1,0
+RT000810,OR005787,2025-06-07,2025-06-08,2025-06-14,2025-06-19,Missing Parts,Closed,Customer Support,Escalations Team,15882.44,5,12,0,0
+RT000811,OR005788,2025-09-21,2025-09-23,2025-09-26,,Late Delivery,Received,Website,Escalations Team,3923.29,5,,0,1
+RT000812,OR005789,2025-07-06,2025-07-07,2025-07-10,2025-07-11,Product Not as Described,Closed,Website,Returns Team B,27362.03,5,5,1,0
+RT000813,OR005802,2025-01-26,2025-01-27,2025-02-01,2025-02-07,Changed Mind,Closed,Customer Support,Returns Team A,23060.98,5,12,0,0
+RT000814,OR005803,2025-07-28,2025-07-29,2025-08-03,,Missing Parts,Pickup Scheduled,Website,Returns Team C,6424.12,5,,0,1
+RT000815,OR005811,2025-12-16,2025-12-18,2025-12-19,,Size/Fit Issue,In Transit,App,Returns Team C,32839.56,5,,0,1
+RT000816,OR005812,2025-12-12,2025-12-14,2025-12-15,,Damaged Product,In Transit,Customer Support,Returns Team C,1546.43,5,,0,1
+RT000817,OR005813,2025-05-06,2025-05-09,2025-05-13,2025-05-11,Late Delivery,Closed,Website,Escalations Team,11545.87,5,5,1,0
+RT000818,OR005823,2025-09-20,2025-09-23,2025-09-26,,Late Delivery,In Transit,Website,Escalations Team,6200.38,5,,0,1
+RT000819,OR005830,2025-08-11,2025-08-12,2025-08-14,,Damaged Product,Received,Website,Returns Team A,44156.82,5,,0,1
+RT000820,OR005831,2025-06-26,2025-06-29,2025-06-29,,Late Delivery,Received,Website,Escalations Team,34095.74,5,,0,1
+RT000821,OR005836,2025-12-29,2025-12-31,2026-01-02,2026-01-06,Damaged Product,Closed,Website,Returns Team A,5173.75,5,8,0,0
+RT000822,OR005840,2025-10-16,2025-10-19,2025-10-23,,Damaged Product,Refund Processing,Website,Returns Team A,16269.95,5,,0,1
+RT000823,OR005873,2025-07-26,2025-07-27,2025-08-02,,Damaged Product,Requested,App,Returns Team A,21598.35,5,,0,1
+RT000824,OR005874,2026-01-04,2026-01-07,2026-01-11,2026-01-16,Product Not as Described,Closed,Customer Support,Returns Team A,4060.48,5,12,0,0
+RT000825,OR005879,2025-04-24,2025-04-27,2025-05-01,2025-04-29,Late Delivery,Closed,Customer Support,Returns Team C,21114.57,5,5,1,0
+RT000826,OR005901,2025-11-20,2025-11-21,2025-11-26,2025-12-02,Size/Fit Issue,Closed,Customer Support,Returns Team A,3577.92,5,12,0,0
+RT000827,OR005909,2025-10-31,2025-11-01,2025-11-07,2025-11-09,Missing Parts,Closed,Customer Support,Escalations Team,21553.56,5,9,0,0
+RT000828,OR005918,2025-09-10,2025-09-13,2025-09-14,,Wrong Item Delivered,Inspection,Customer Support,Returns Team B,9477.07,5,,0,1
+RT000829,OR005919,2025-12-04,2025-12-05,2025-12-08,2025-12-12,Product Not as Described,Closed,App,Returns Team A,10454.62,5,8,0,0
+RT000830,OR005930,2025-10-24,2025-10-27,2025-10-31,,Damaged Product,Pickup Scheduled,App,Returns Team A,7337.08,5,,0,1
+RT000831,OR005936,2025-09-21,2025-09-23,2025-09-26,2025-09-28,Wrong Item Delivered,Rejected,Customer Support,Returns Team C,8372.42,5,7,0,0
+RT000832,OR005938,2025-03-16,2025-03-19,2025-03-23,,Late Delivery,Received,Customer Support,Returns Team A,23157.86,5,,0,1
+RT000833,OR005939,2025-03-28,2025-03-30,2025-04-04,2025-04-07,Product Not as Described,Closed,Website,Returns Team A,21152.26,5,10,0,0
+RT000834,OR005941,2025-02-13,2025-02-14,2025-02-18,2025-02-20,Changed Mind,Closed,App,Returns Team C,6650.55,5,7,0,0
+RT000835,OR005944,2025-03-06,2025-03-09,2025-03-13,2025-03-09,Late Delivery,Closed,Website,Returns Team A,20916.87,5,3,1,0
+RT000836,OR005951,2025-02-19,2025-02-20,2025-02-26,,Changed Mind,Requested,Website,Returns Team C,16854.58,5,,0,1
+RT000837,OR005954,2025-04-13,2025-04-15,2025-04-19,,Late Delivery,Inspection,App,Escalations Team,30666.5,5,,0,1
+RT000838,OR005967,2025-12-21,2025-12-22,2025-12-28,2025-12-23,Changed Mind,Closed,App,Returns Team C,30058.48,5,2,1,0
+RT000839,OR005975,2025-06-02,2025-06-03,2025-06-08,2025-06-03,Changed Mind,Closed,Customer Support,Returns Team C,4040.29,5,1,1,0
+RT000840,OR005979,2025-12-01,2025-12-02,2025-12-07,,Product Not as Described,Received,App,Returns Team A,12662.14,5,,0,1
+RT000841,OR005981,2025-11-11,2025-11-12,2025-11-15,2025-11-18,Size/Fit Issue,Closed,Website,Returns Team B,20769.43,5,7,0,0
+RT000842,OR005989,2025-01-09,2025-01-10,2025-01-12,2025-01-19,Changed Mind,Closed,Customer Support,Escalations Team,14497.21,5,10,0,0
+RT000843,OR005993,2025-07-27,2025-07-30,2025-07-30,,Missing Parts,Received,App,Returns Team A,30430.43,5,,0,1
+RT000844,OR005996,2025-06-20,2025-06-22,2025-06-27,,Missing Parts,Received,App,Returns Team B,42499.02,5,,0,1
+RT000845,OR005999,2025-09-20,2025-09-23,2025-09-24,2025-10-01,Wrong Item Delivered,Closed,Website,Returns Team C,8399.4,5,11,0,0
+RT000846,OR006006,2025-05-18,2025-05-21,2025-05-22,,Missing Parts,Received,Customer Support,Returns Team B,20044.01,5,,0,1
+RT000847,OR006013,2025-06-15,2025-06-16,2025-06-18,,Damaged Product,Refund Processing,Customer Support,Returns Team A,2576.97,5,,0,1
+RT000848,OR006030,2025-03-16,2025-03-17,2025-03-23,,Wrong Item Delivered,Inspection,Website,Returns Team A,4887.86,5,,0,1
+RT000849,OR006037,2025-07-03,2025-07-05,2025-07-06,2025-07-06,Wrong Item Delivered,Closed,Website,Escalations Team,14551.31,5,3,1,0
+RT000850,OR006071,2025-04-03,2025-04-06,2025-04-09,,Wrong Item Delivered,Refund Processing,Customer Support,Returns Team C,12429.31,5,,0,1
+RT000851,OR006073,2025-12-12,2025-12-13,2025-12-19,,Missing Parts,Pickup Scheduled,Customer Support,Returns Team C,22084.42,5,,0,1
+RT000852,OR006097,2025-06-09,2025-06-12,2025-06-12,2025-06-14,Product Not as Described,Closed,Website,Returns Team A,25403.79,5,5,1,0
+RT000853,OR006107,2025-01-16,2025-01-19,2025-01-19,,Wrong Item Delivered,Received,App,Returns Team A,10048.18,5,,0,1
+RT000854,OR006125,2025-04-18,2025-04-20,2025-04-23,,Product Not as Described,Requested,Website,Returns Team B,31871.92,5,,0,1
+RT000855,OR006126,2025-08-07,2025-08-08,2025-08-10,,Damaged Product,Refund Processing,Website,Escalations Team,11928.88,5,,0,1
+RT000856,OR006130,2025-01-30,2025-02-02,2025-02-02,2025-02-06,Size/Fit Issue,Closed,App,Returns Team A,12179.95,5,7,0,0
+RT000857,OR006133,2025-02-27,2025-02-28,2025-03-04,2025-03-04,Wrong Item Delivered,Closed,Website,Returns Team B,22373.92,5,5,1,0
+RT000858,OR006136,2025-10-21,2025-10-23,2025-10-25,,Product Not as Described,In Transit,Website,Escalations Team,33770.77,5,,0,1
+RT000859,OR006157,2025-05-27,2025-05-29,2025-06-01,2025-06-02,Product Not as Described,Closed,Website,Returns Team B,3869.57,5,6,0,0
+RT000860,OR006168,2025-05-09,2025-05-11,2025-05-14,,Missing Parts,Requested,Website,Returns Team A,24056.08,5,,0,1
+RT000861,OR006195,2025-03-07,2025-03-10,2025-03-14,,Product Not as Described,In Transit,App,Returns Team C,9420.75,5,,0,1
+RT000862,OR006205,2025-05-18,2025-05-19,2025-05-23,2025-05-28,Late Delivery,Closed,Website,Returns Team C,13481.97,5,10,0,0
+RT000863,OR006214,2025-09-09,2025-09-12,2025-09-15,,Changed Mind,Inspection,Website,Returns Team C,17918.53,5,,0,1
+RT000864,OR006215,2025-10-27,2025-10-30,2025-10-30,2025-11-07,Wrong Item Delivered,Closed,App,Returns Team A,18344.02,5,11,0,0
+RT000865,OR006219,2025-10-24,2025-10-26,2025-10-29,,Wrong Item Delivered,Inspection,Customer Support,Returns Team C,25166.86,5,,0,1
+RT000866,OR006223,2025-03-15,2025-03-17,2025-03-21,,Missing Parts,Requested,Customer Support,Returns Team B,19977.16,5,,0,1
+RT000867,OR006227,2025-03-25,2025-03-28,2025-03-29,,Changed Mind,Refund Processing,Website,Escalations Team,1289.41,5,,0,1
+RT000868,OR006246,2025-07-14,2025-07-17,2025-07-17,,Missing Parts,Pickup Scheduled,App,Escalations Team,39335.23,5,,0,1
+RT000869,OR006272,2025-10-21,2025-10-23,2025-10-25,2025-10-24,Late Delivery,Closed,App,Returns Team B,23066.5,5,3,1,0
+RT000870,OR006273,2025-03-03,2025-03-04,2025-03-06,,Late Delivery,Inspection,Website,Returns Team B,24699.61,5,,0,1
+RT000871,OR006279,2025-01-28,2025-01-29,2025-01-31,,Changed Mind,Received,Customer Support,Returns Team C,7538.53,5,,0,1
+RT000872,OR006282,2025-06-22,2025-06-23,2025-06-29,,Changed Mind,Refund Processing,Website,Returns Team A,1303.26,5,,0,1
+RT000873,OR006286,2025-02-16,2025-02-17,2025-02-22,,Wrong Item Delivered,In Transit,Customer Support,Returns Team C,28549.77,5,,0,1
+RT000874,OR006288,2025-10-18,2025-10-21,2025-10-25,2025-10-23,Missing Parts,Closed,Customer Support,Returns Team B,25072.72,5,5,1,0
+RT000875,OR006296,2025-03-20,2025-03-22,2025-03-24,2025-03-26,Size/Fit Issue,Rejected,Website,Escalations Team,29290.94,5,6,0,0
+RT000876,OR006309,2025-09-24,2025-09-26,2025-09-27,2025-10-06,Product Not as Described,Closed,App,Returns Team C,36265.99,5,12,0,0
+RT000877,OR006317,2025-02-03,2025-02-05,2025-02-08,2025-02-09,Wrong Item Delivered,Rejected,Customer Support,Returns Team B,26016.87,5,6,0,0
+RT000878,OR006321,2025-03-22,2025-03-25,2025-03-26,2025-03-24,Missing Parts,Closed,Website,Returns Team A,35205.31,5,2,1,0
+RT000879,OR006323,2025-03-16,2025-03-17,2025-03-22,,Missing Parts,Inspection,Customer Support,Returns Team B,25098.94,5,,0,1
+RT000880,OR006338,2025-11-28,2025-12-01,2025-12-05,,Late Delivery,Requested,App,Returns Team B,708.05,5,,0,1
+RT000881,OR006354,2025-11-26,2025-11-29,2025-12-03,2025-12-08,Damaged Product,Closed,Customer Support,Returns Team C,12045.57,5,12,0,0
+RT000882,OR006365,2025-11-22,2025-11-24,2025-11-28,,Missing Parts,In Transit,Customer Support,Escalations Team,7839.15,5,,0,1
+RT000883,OR006375,2025-02-10,2025-02-12,2025-02-15,2025-02-18,Missing Parts,Closed,App,Returns Team B,34496.11,5,8,0,0
+RT000884,OR006377,2025-08-08,2025-08-10,2025-08-11,,Wrong Item Delivered,Inspection,Customer Support,Returns Team A,20802.74,5,,0,1
+RT000885,OR006386,2025-11-21,2025-11-23,2025-11-25,,Changed Mind,Requested,App,Returns Team C,8614.67,5,,0,1
+RT000886,OR006388,2025-03-11,2025-03-12,2025-03-17,,Damaged Product,Inspection,App,Returns Team A,37953.02,5,,0,1
+RT000887,OR006393,2025-01-15,2025-01-17,2025-01-18,,Wrong Item Delivered,Refund Processing,App,Returns Team A,17014.31,5,,0,1
+RT000888,OR006394,2025-12-30,2026-01-01,2026-01-05,,Product Not as Described,Refund Processing,App,Returns Team B,11788.5,5,,0,1
+RT000889,OR006397,2025-01-17,2025-01-20,2025-01-22,,Missing Parts,Requested,Website,Escalations Team,28806.4,5,,0,1
+RT000890,OR006399,2025-04-24,2025-04-27,2025-04-30,2025-04-26,Damaged Product,Closed,Customer Support,Returns Team C,2140.18,5,2,1,0
+RT000891,OR006400,2025-08-23,2025-08-26,2025-08-30,2025-09-02,Size/Fit Issue,Closed,App,Returns Team A,35710.6,5,10,0,0
+RT000892,OR006401,2025-09-21,2025-09-24,2025-09-24,2025-09-28,Late Delivery,Closed,Website,Escalations Team,24188.46,5,7,0,0
+RT000893,OR006404,2025-08-23,2025-08-25,2025-08-28,,Changed Mind,Pickup Scheduled,Website,Returns Team C,29947.75,5,,0,1
+RT000894,OR006415,2025-12-27,2025-12-30,2025-12-30,,Missing Parts,In Transit,App,Returns Team A,23373.22,5,,0,1
+RT000895,OR006425,2025-02-07,2025-02-10,2025-02-11,2025-02-12,Product Not as Described,Closed,Website,Returns Team C,24961.33,5,5,1,0
+RT000896,OR006446,2025-05-28,2025-05-30,2025-06-01,2025-06-06,Size/Fit Issue,Closed,Customer Support,Returns Team C,21356.67,5,9,0,0
+RT000897,OR006447,2025-08-17,2025-08-18,2025-08-23,,Missing Parts,Refund Processing,App,Returns Team C,3522.51,5,,0,1
+RT000898,OR006450,2025-04-25,2025-04-26,2025-04-28,2025-04-30,Product Not as Described,Closed,App,Returns Team A,9018.79,5,5,1,0
+RT000899,OR006459,2025-08-20,2025-08-21,2025-08-23,,Product Not as Described,Pickup Scheduled,Website,Escalations Team,37161.66,5,,0,1
+RT000900,OR006471,2026-01-05,2026-01-06,2026-01-10,2026-01-06,Product Not as Described,Closed,App,Returns Team B,26996.26,5,1,1,0
+RT000901,OR006478,2025-03-06,2025-03-09,2025-03-11,,Missing Parts,Inspection,Customer Support,Escalations Team,11914.7,5,,0,1
+RT000902,OR006481,2025-02-12,2025-02-13,2025-02-19,2025-02-17,Product Not as Described,Closed,App,Returns Team B,3709.48,5,5,1,0
+RT000903,OR006484,2025-02-23,2025-02-26,2025-03-02,2025-03-07,Product Not as Described,Closed,App,Escalations Team,5098.31,5,12,0,0
+RT000904,OR006493,2025-08-28,2025-08-29,2025-09-03,,Wrong Item Delivered,Pickup Scheduled,App,Returns Team C,7369.11,5,,0,1
+RT000905,OR006495,2025-03-14,2025-03-17,2025-03-19,2025-03-20,Damaged Product,Closed,Website,Returns Team C,3136.17,5,6,0,0
+RT000906,OR006497,2025-04-18,2025-04-21,2025-04-23,,Missing Parts,Pickup Scheduled,Customer Support,Returns Team A,13940.28,5,,0,1
+RT000907,OR006515,2025-09-17,2025-09-20,2025-09-20,,Product Not as Described,Received,App,Escalations Team,31227.93,5,,0,1
+RT000908,OR006517,2025-12-01,2025-12-03,2025-12-08,,Late Delivery,Received,Website,Returns Team C,27216.33,5,,0,1
+RT000909,OR006527,2025-12-20,2025-12-21,2025-12-23,,Damaged Product,Refund Processing,App,Escalations Team,37005.54,5,,0,1
+RT000910,OR006542,2025-11-03,2025-11-06,2025-11-10,,Late Delivery,Requested,Customer Support,Returns Team C,1043.14,5,,0,1
+RT000911,OR006544,2025-12-28,2025-12-31,2026-01-03,2025-12-31,Missing Parts,Closed,App,Returns Team C,32464.37,5,3,1,0
+RT000912,OR006548,2025-09-12,2025-09-13,2025-09-17,,Damaged Product,Pickup Scheduled,App,Returns Team A,20464.38,5,,0,1
+RT000913,OR006551,2025-01-19,2025-01-20,2025-01-23,,Changed Mind,Inspection,Customer Support,Escalations Team,34816.14,5,,0,1
+RT000914,OR006554,2025-03-21,2025-03-22,2025-03-24,,Damaged Product,Requested,Website,Returns Team A,38187.69,5,,0,1
+RT000915,OR006564,2025-01-19,2025-01-20,2025-01-24,,Damaged Product,Received,Website,Returns Team C,30054.95,5,,0,1
+RT000916,OR006579,2025-09-03,2025-09-05,2025-09-09,2025-09-11,Changed Mind,Closed,Customer Support,Escalations Team,14185.57,5,8,0,0
+RT000917,OR006587,2025-09-19,2025-09-22,2025-09-26,2025-10-01,Changed Mind,Closed,Customer Support,Returns Team B,25003.68,5,12,0,0
+RT000918,OR006589,2025-08-25,2025-08-27,2025-08-30,,Missing Parts,Refund Processing,Customer Support,Returns Team B,20697.0,5,,0,1
+RT000919,OR006602,2025-05-01,2025-05-02,2025-05-04,,Late Delivery,In Transit,Customer Support,Returns Team A,31234.45,5,,0,1
+RT000920,OR006604,2025-11-19,2025-11-20,2025-11-24,,Damaged Product,Refund Processing,Customer Support,Returns Team B,5180.94,5,,0,1
+RT000921,OR006610,2025-04-04,2025-04-06,2025-04-10,2025-04-05,Late Delivery,Closed,Website,Returns Team B,2102.13,5,1,1,0
+RT000922,OR006614,2025-03-31,2025-04-01,2025-04-07,,Product Not as Described,Inspection,App,Returns Team A,1475.66,5,,0,1
+RT000923,OR006625,2025-08-14,2025-08-16,2025-08-18,,Missing Parts,Refund Processing,App,Returns Team C,14813.58,5,,0,1
+RT000924,OR006627,2025-05-10,2025-05-13,2025-05-16,,Size/Fit Issue,Refund Processing,App,Escalations Team,6422.9,5,,0,1
+RT000925,OR006629,2025-04-30,2025-05-03,2025-05-06,2025-05-01,Product Not as Described,Closed,Website,Returns Team A,3985.16,5,1,1,0
+RT000926,OR006630,2025-08-30,2025-09-01,2025-09-03,2025-09-02,Damaged Product,Closed,App,Returns Team B,28356.78,5,3,1,0
+RT000927,OR006634,2025-11-30,2025-12-02,2025-12-06,2025-12-04,Late Delivery,Closed,Website,Returns Team A,24017.74,5,4,1,0
+RT000928,OR006638,2025-02-07,2025-02-08,2025-02-13,,Wrong Item Delivered,Received,App,Returns Team C,26822.84,5,,0,1
+RT000929,OR006651,2025-01-27,2025-01-28,2025-02-02,2025-02-04,Wrong Item Delivered,Closed,App,Returns Team A,20928.41,5,8,0,0
+RT000930,OR006653,2025-12-28,2025-12-31,2026-01-04,2026-01-04,Changed Mind,Closed,Website,Returns Team B,6936.06,5,7,0,0
+RT000931,OR006658,2025-07-11,2025-07-12,2025-07-15,2025-07-17,Late Delivery,Closed,Website,Returns Team C,9237.17,5,6,0,0
+RT000932,OR006678,2025-02-21,2025-02-22,2025-02-24,2025-02-25,Wrong Item Delivered,Rejected,Customer Support,Escalations Team,5676.05,5,4,1,0
+RT000933,OR006690,2025-10-22,2025-10-24,2025-10-27,,Missing Parts,In Transit,Customer Support,Returns Team B,1299.08,5,,0,1
+RT000934,OR006714,2025-02-14,2025-02-17,2025-02-18,2025-02-16,Product Not as Described,Rejected,Customer Support,Returns Team B,13743.24,5,2,1,0
+RT000935,OR006725,2025-08-18,2025-08-21,2025-08-22,,Damaged Product,Requested,Customer Support,Returns Team C,13892.54,5,,0,1
+RT000936,OR006734,2025-10-21,2025-10-22,2025-10-27,2025-10-27,Changed Mind,Rejected,Customer Support,Returns Team C,6143.57,5,6,0,0
+RT000937,OR006735,2025-05-24,2025-05-27,2025-05-28,2025-05-29,Size/Fit Issue,Closed,App,Returns Team C,21624.35,5,5,1,0
+RT000938,OR006738,2025-12-27,2025-12-29,2025-12-30,,Product Not as Described,Requested,App,Escalations Team,6558.94,5,,0,1
+RT000939,OR006744,2025-09-30,2025-10-03,2025-10-03,2025-10-07,Changed Mind,Rejected,Website,Returns Team B,22972.14,5,7,0,0
+RT000940,OR006759,2025-02-20,2025-02-23,2025-02-23,2025-02-25,Wrong Item Delivered,Closed,Customer Support,Escalations Team,7794.34,5,5,1,0
+RT000941,OR006775,2025-02-12,2025-02-14,2025-02-17,2025-02-16,Missing Parts,Closed,Customer Support,Returns Team B,8674.98,5,4,1,0
+RT000942,OR006792,2025-05-29,2025-05-31,2025-06-04,,Damaged Product,Requested,Customer Support,Returns Team A,30077.85,5,,0,1
+RT000943,OR006806,2025-06-09,2025-06-11,2025-06-14,,Late Delivery,Requested,Website,Returns Team A,31828.66,5,,0,1
+RT000944,OR006808,2025-01-28,2025-01-31,2025-02-02,2025-02-03,Wrong Item Delivered,Rejected,App,Returns Team B,30842.07,5,6,0,0
+RT000945,OR006818,2025-04-23,2025-04-25,2025-04-27,2025-04-25,Damaged Product,Closed,App,Escalations Team,39422.6,5,2,1,0
+RT000946,OR006822,2025-12-17,2025-12-20,2025-12-22,,Damaged Product,Inspection,App,Returns Team C,13494.32,5,,0,1
+RT000947,OR006832,2025-05-03,2025-05-05,2025-05-09,2025-05-07,Damaged Product,Closed,Customer Support,Returns Team A,27191.8,5,4,1,0
+RT000948,OR006835,2025-09-28,2025-10-01,2025-10-04,2025-10-10,Wrong Item Delivered,Closed,Customer Support,Returns Team A,22182.23,5,12,0,0
+RT000949,OR006837,2025-08-08,2025-08-09,2025-08-14,,Missing Parts,In Transit,App,Escalations Team,4698.73,5,,0,1
+RT000950,OR006840,2025-02-28,2025-03-02,2025-03-03,2025-03-04,Size/Fit Issue,Closed,App,Returns Team B,25772.39,5,4,1,0
+RT000951,OR006841,2025-10-22,2025-10-23,2025-10-26,,Damaged Product,Inspection,App,Escalations Team,8152.34,5,,0,1
+RT000952,OR006853,2025-02-25,2025-02-27,2025-03-03,2025-03-03,Wrong Item Delivered,Closed,Website,Returns Team A,606.96,5,6,0,0
+RT000953,OR006863,2025-07-21,2025-07-24,2025-07-27,2025-07-27,Wrong Item Delivered,Closed,Website,Returns Team B,36454.14,5,6,0,0
+RT000954,OR006866,2025-10-25,2025-10-28,2025-10-30,,Late Delivery,Inspection,Website,Escalations Team,36981.9,5,,0,1
+RT000955,OR006867,2025-09-12,2025-09-13,2025-09-16,,Damaged Product,Inspection,Website,Returns Team C,15735.3,5,,0,1
+RT000956,OR006875,2025-05-03,2025-05-05,2025-05-10,,Wrong Item Delivered,Pickup Scheduled,Website,Returns Team A,14215.87,5,,0,1
+RT000957,OR006880,2025-03-04,2025-03-07,2025-03-10,,Damaged Product,Refund Processing,App,Escalations Team,17669.53,5,,0,1
+RT000958,OR006889,2025-07-09,2025-07-10,2025-07-16,2025-07-15,Late Delivery,Closed,Customer Support,Returns Team C,20219.69,5,6,0,0
+RT000959,OR006895,2025-07-28,2025-07-29,2025-07-31,2025-08-04,Product Not as Described,Closed,Website,Returns Team C,4953.92,5,7,0,0
+RT000960,OR006899,2025-02-15,2025-02-17,2025-02-22,2025-02-24,Wrong Item Delivered,Closed,App,Escalations Team,3238.37,5,9,0,0
+RT000961,OR006906,2025-10-22,2025-10-24,2025-10-28,2025-10-25,Damaged Product,Closed,Website,Escalations Team,26270.54,5,3,1,0
+RT000962,OR006908,2026-01-02,2026-01-05,2026-01-05,2026-01-10,Late Delivery,Closed,Website,Returns Team C,10421.72,5,8,0,0
+RT000963,OR006928,2025-12-23,2025-12-24,2025-12-28,2025-12-28,Damaged Product,Closed,App,Returns Team C,28702.36,5,5,1,0
+RT000964,OR006949,2025-03-06,2025-03-09,2025-03-09,,Damaged Product,Inspection,Website,Returns Team A,4430.74,5,,0,1
+RT000965,OR006951,2025-07-01,2025-07-04,2025-07-06,,Product Not as Described,Pickup Scheduled,Website,Returns Team B,19175.42,5,,0,1
+RT000966,OR006959,2025-10-31,2025-11-01,2025-11-07,,Late Delivery,Received,Customer Support,Escalations Team,28180.86,5,,0,1
+RT000967,OR006961,2025-09-05,2025-09-06,2025-09-09,2025-09-17,Damaged Product,Rejected,Customer Support,Returns Team B,9572.77,5,12,0,0
+RT000968,OR006988,2025-02-08,2025-02-11,2025-02-14,2025-02-17,Changed Mind,Closed,App,Escalations Team,12241.99,5,9,0,0
+RT000969,OR006993,2025-04-24,2025-04-27,2025-04-29,2025-05-05,Wrong Item Delivered,Closed,Website,Returns Team B,24909.88,5,11,0,0
+RT000970,OR006994,2025-03-26,2025-03-28,2025-03-31,,Damaged Product,Refund Processing,App,Returns Team B,27743.45,5,,0,1
+RT000971,OR006995,2025-04-02,2025-04-03,2025-04-07,,Product Not as Described,Inspection,App,Returns Team C,40447.25,5,,0,1
+RT000972,OR007001,2025-01-18,2025-01-21,2025-01-21,,Product Not as Described,Pickup Scheduled,Website,Escalations Team,28248.16,5,,0,1
+RT000973,OR007029,2025-05-31,2025-06-02,2025-06-06,2025-06-02,Damaged Product,Closed,App,Escalations Team,31320.31,5,2,1,0
+RT000974,OR007032,2025-10-10,2025-10-11,2025-10-15,2025-10-13,Product Not as Described,Rejected,App,Returns Team B,18865.9,5,3,1,0
+RT000975,OR007038,2026-01-11,2026-01-12,2026-01-15,,Late Delivery,Refund Processing,Customer Support,Returns Team C,13922.99,5,,0,1
+RT000976,OR007044,2025-01-19,2025-01-21,2025-01-22,,Changed Mind,Refund Processing,Customer Support,Escalations Team,31020.25,5,,0,1
+RT000977,OR007045,2025-03-02,2025-03-04,2025-03-07,,Damaged Product,Refund Processing,Customer Support,Escalations Team,19513.6,5,,0,1
+RT000978,OR007047,2025-10-11,2025-10-14,2025-10-18,,Changed Mind,Received,Customer Support,Returns Team A,25809.45,5,,0,1
+RT000979,OR007050,2025-06-25,2025-06-28,2025-07-01,,Changed Mind,Pickup Scheduled,Customer Support,Returns Team C,5312.57,5,,0,1
+RT000980,OR007062,2025-08-19,2025-08-22,2025-08-26,,Wrong Item Delivered,Pickup Scheduled,Website,Escalations Team,18695.66,5,,0,1
+RT000981,OR007075,2025-11-18,2025-11-19,2025-11-22,,Product Not as Described,Received,Customer Support,Escalations Team,34000.05,5,,0,1
+RT000982,OR007086,2025-07-22,2025-07-25,2025-07-25,2025-07-29,Wrong Item Delivered,Closed,Customer Support,Escalations Team,7423.17,5,7,0,0
+RT000983,OR007094,2025-09-01,2025-09-04,2025-09-08,2025-09-11,Late Delivery,Closed,Website,Returns Team C,31452.71,5,10,0,0
+RT000984,OR007096,2025-10-20,2025-10-23,2025-10-24,,Changed Mind,Requested,Customer Support,Returns Team A,27459.84,5,,0,1
+RT000985,OR007101,2025-05-25,2025-05-28,2025-05-28,,Late Delivery,Inspection,Website,Returns Team B,29734.03,5,,0,1
+RT000986,OR007102,2025-08-08,2025-08-09,2025-08-14,2025-08-17,Product Not as Described,Closed,App,Escalations Team,19278.97,5,9,0,0
+RT000987,OR007120,2025-12-02,2025-12-05,2025-12-05,2025-12-08,Changed Mind,Rejected,Customer Support,Escalations Team,12486.09,5,6,0,0
+RT000988,OR007121,2025-09-20,2025-09-23,2025-09-27,,Damaged Product,Pickup Scheduled,Customer Support,Returns Team A,19646.61,5,,0,1
+RT000989,OR007124,2025-01-07,2025-01-10,2025-01-12,,Missing Parts,Received,Customer Support,Returns Team A,14282.2,5,,0,1
+RT000990,OR007130,2025-02-12,2025-02-13,2025-02-18,2025-02-23,Damaged Product,Closed,Website,Returns Team C,23584.1,5,11,0,0
+RT000991,OR007141,2025-09-13,2025-09-15,2025-09-18,,Wrong Item Delivered,Refund Processing,Website,Returns Team A,33066.7,5,,0,1
+RT000992,OR007158,2025-10-17,2025-10-18,2025-10-20,2025-10-28,Late Delivery,Closed,Customer Support,Returns Team B,22969.27,5,11,0,0
+RT000993,OR007159,2025-02-27,2025-02-28,2025-03-03,2025-03-07,Size/Fit Issue,Closed,App,Escalations Team,5874.21,5,8,0,0
+RT000994,OR007161,2025-05-22,2025-05-25,2025-05-25,,Product Not as Described,Refund Processing,App,Returns Team B,3236.06,5,,0,1
+RT000995,OR007171,2025-08-01,2025-08-03,2025-08-06,2025-08-08,Damaged Product,Closed,Customer Support,Escalations Team,34631.96,5,7,0,0
+RT000996,OR007181,2025-07-02,2025-07-04,2025-07-06,,Wrong Item Delivered,Received,App,Returns Team C,20285.95,5,,0,1
+RT000997,OR007185,2025-08-03,2025-08-06,2025-08-10,2025-08-11,Late Delivery,Closed,Customer Support,Returns Team B,23693.48,5,8,0,0
+RT000998,OR007191,2025-02-27,2025-02-28,2025-03-05,,Missing Parts,Pickup Scheduled,Website,Returns Team B,21845.73,5,,0,1
+RT000999,OR007220,2025-07-15,2025-07-16,2025-07-18,,Product Not as Described,Refund Processing,Website,Returns Team A,10856.84,5,,0,1
+RT001000,OR007229,2025-01-31,2025-02-01,2025-02-05,,Product Not as Described,Refund Processing,Website,Returns Team C,15476.79,5,,0,1
+RT001001,OR007239,2025-10-10,2025-10-11,2025-10-14,,Wrong Item Delivered,Received,Website,Returns Team C,25739.82,5,,0,1
+RT001002,OR007243,2025-12-02,2025-12-05,2025-12-05,,Wrong Item Delivered,Refund Processing,Website,Returns Team A,9677.06,5,,0,1
+RT001003,OR007247,2025-08-04,2025-08-06,2025-08-07,2025-08-13,Size/Fit Issue,Rejected,Customer Support,Returns Team B,10845.37,5,9,0,0
+RT001004,OR007250,2025-10-17,2025-10-19,2025-10-21,2025-10-27,Missing Parts,Closed,Website,Escalations Team,18694.68,5,10,0,0
+RT001005,OR007254,2025-02-27,2025-03-01,2025-03-05,,Size/Fit Issue,Requested,Customer Support,Returns Team C,24301.69,5,,0,1
+RT001006,OR007255,2025-08-17,2025-08-18,2025-08-23,2025-08-23,Changed Mind,Closed,Website,Escalations Team,12520.85,5,6,0,0
+RT001007,OR007256,2025-08-26,2025-08-27,2025-08-30,,Changed Mind,Received,App,Returns Team B,474.59,5,,0,1
+RT001008,OR007272,2025-10-01,2025-10-03,2025-10-04,2025-10-03,Damaged Product,Closed,Customer Support,Escalations Team,26926.87,5,2,1,0
+RT001009,OR007274,2025-04-21,2025-04-23,2025-04-27,,Missing Parts,Requested,Customer Support,Returns Team B,41948.34,5,,0,1
+RT001010,OR007277,2025-07-31,2025-08-02,2025-08-03,2025-08-07,Wrong Item Delivered,Closed,App,Returns Team A,749.35,5,7,0,0
+RT001011,OR007281,2025-11-10,2025-11-13,2025-11-14,,Product Not as Described,Refund Processing,Customer Support,Escalations Team,11014.09,5,,0,1
+RT001012,OR007282,2025-08-31,2025-09-01,2025-09-07,,Missing Parts,Pickup Scheduled,Website,Returns Team C,18146.61,5,,0,1
+RT001013,OR007284,2025-03-24,2025-03-25,2025-03-31,,Changed Mind,Inspection,Website,Returns Team C,23065.73,5,,0,1
+RT001014,OR007287,2025-02-12,2025-02-13,2025-02-16,,Late Delivery,Pickup Scheduled,App,Returns Team B,17790.66,5,,0,1
+RT001015,OR007288,2025-03-27,2025-03-28,2025-04-02,2025-04-06,Product Not as Described,Closed,Customer Support,Returns Team B,35968.53,5,10,0,0
+RT001016,OR007303,2025-08-01,2025-08-02,2025-08-08,2025-08-07,Size/Fit Issue,Closed,Customer Support,Returns Team A,20755.56,5,6,0,0
+RT001017,OR007310,2025-06-11,2025-06-12,2025-06-15,2025-06-17,Wrong Item Delivered,Closed,App,Returns Team A,9626.28,5,6,0,0
+RT001018,OR007311,2025-02-22,2025-02-25,2025-03-01,2025-02-25,Wrong Item Delivered,Closed,Customer Support,Returns Team B,22812.53,5,3,1,0
+RT001019,OR007326,2025-05-24,2025-05-26,2025-05-28,2025-05-29,Wrong Item Delivered,Closed,Customer Support,Escalations Team,22195.95,5,5,1,0
+RT001020,OR007327,2025-10-19,2025-10-20,2025-10-26,2025-10-20,Product Not as Described,Closed,App,Returns Team C,20376.38,5,1,1,0
+RT001021,OR007346,2025-08-30,2025-09-01,2025-09-04,,Damaged Product,Inspection,Website,Returns Team A,26113.19,5,,0,1
+RT001022,OR007356,2025-07-22,2025-07-23,2025-07-26,,Product Not as Described,Received,App,Returns Team A,8235.48,5,,0,1
+RT001023,OR007357,2025-12-04,2025-12-05,2025-12-07,2025-12-09,Changed Mind,Closed,App,Escalations Team,26875.45,5,5,1,0
+RT001024,OR007360,2025-12-10,2025-12-11,2025-12-16,,Late Delivery,Inspection,Customer Support,Returns Team A,25402.03,5,,0,1
+RT001025,OR007362,2025-12-31,2026-01-01,2026-01-03,,Product Not as Described,Received,Website,Returns Team B,34498.7,5,,0,1
+RT001026,OR007363,2025-03-12,2025-03-14,2025-03-16,,Changed Mind,Pickup Scheduled,Customer Support,Escalations Team,10361.24,5,,0,1
+RT001027,OR007365,2025-10-05,2025-10-08,2025-10-11,2025-10-15,Missing Parts,Closed,Customer Support,Returns Team C,20842.07,5,10,0,0
+RT001028,OR007366,2025-03-31,2025-04-01,2025-04-06,,Damaged Product,Refund Processing,App,Returns Team A,38764.07,5,,0,1
+RT001029,OR007368,2025-10-10,2025-10-11,2025-10-15,,Missing Parts,Pickup Scheduled,Customer Support,Returns Team C,19617.18,5,,0,1
+RT001030,OR007372,2025-08-29,2025-08-30,2025-09-04,,Product Not as Described,Received,App,Escalations Team,37563.01,5,,0,1
+RT001031,OR007374,2025-05-30,2025-06-01,2025-06-05,,Damaged Product,Inspection,Website,Returns Team C,31966.93,5,,0,1
+RT001032,OR007379,2025-07-01,2025-07-03,2025-07-07,2025-07-12,Late Delivery,Closed,Website,Returns Team B,14720.94,5,11,0,0
+RT001033,OR007391,2025-12-24,2025-12-26,2025-12-27,2025-12-28,Missing Parts,Closed,Customer Support,Returns Team A,11986.45,5,4,1,0
+RT001034,OR007399,2025-09-26,2025-09-27,2025-09-30,2025-09-27,Size/Fit Issue,Closed,App,Returns Team B,3724.37,5,1,1,0
+RT001035,OR007403,2025-08-27,2025-08-28,2025-09-03,2025-09-07,Size/Fit Issue,Closed,Customer Support,Returns Team A,29944.2,5,11,0,0
+RT001036,OR007414,2025-09-01,2025-09-04,2025-09-05,2025-09-10,Wrong Item Delivered,Closed,App,Returns Team A,31618.9,5,9,0,0
+RT001037,OR007431,2025-01-15,2025-01-17,2025-01-18,,Missing Parts,In Transit,Website,Escalations Team,9770.53,5,,0,1
+RT001038,OR007432,2025-11-12,2025-11-15,2025-11-16,2025-11-17,Wrong Item Delivered,Closed,Website,Escalations Team,19448.54,5,5,1,0
+RT001039,OR007453,2025-01-09,2025-01-11,2025-01-14,2025-01-17,Late Delivery,Closed,App,Returns Team B,21423.28,5,8,0,0
+RT001040,OR007459,2025-06-17,2025-06-19,2025-06-22,2025-06-20,Size/Fit Issue,Closed,App,Returns Team A,4619.95,5,3,1,0
+RT001041,OR007468,2026-01-04,2026-01-06,2026-01-07,2026-01-11,Size/Fit Issue,Rejected,App,Escalations Team,29134.65,5,7,0,0
+RT001042,OR007469,2025-02-03,2025-02-05,2025-02-06,2025-02-05,Wrong Item Delivered,Closed,App,Escalations Team,27946.42,5,2,1,0
+RT001043,OR007478,2025-10-11,2025-10-12,2025-10-18,,Size/Fit Issue,Pickup Scheduled,App,Escalations Team,19562.78,5,,0,1
+RT001044,OR007481,2025-08-21,2025-08-22,2025-08-28,,Product Not as Described,Requested,Customer Support,Returns Team A,39113.85,5,,0,1
+RT001045,OR007493,2025-09-25,2025-09-28,2025-09-29,2025-10-06,Wrong Item Delivered,Closed,Website,Returns Team C,11522.19,5,11,0,0
+RT001046,OR007496,2025-11-08,2025-11-09,2025-11-15,2025-11-18,Missing Parts,Closed,Website,Returns Team B,28337.22,5,10,0,0
+RT001047,OR007510,2025-09-21,2025-09-24,2025-09-24,2025-09-24,Late Delivery,Closed,App,Escalations Team,34274.19,5,3,1,0
+RT001048,OR007511,2025-12-09,2025-12-12,2025-12-15,,Missing Parts,Pickup Scheduled,App,Escalations Team,34914.41,5,,0,1
+RT001049,OR007512,2025-10-12,2025-10-13,2025-10-18,,Late Delivery,In Transit,Customer Support,Returns Team A,1683.49,5,,0,1
+RT001050,OR007514,2025-03-23,2025-03-25,2025-03-29,2025-03-26,Product Not as Described,Closed,Website,Returns Team A,37563.85,5,3,1,0
+RT001051,OR007527,2025-01-14,2025-01-15,2025-01-20,,Product Not as Described,Refund Processing,Website,Returns Team C,22874.35,5,,0,1
+RT001052,OR007535,2025-02-16,2025-02-17,2025-02-20,2025-02-20,Product Not as Described,Closed,Website,Returns Team A,26012.92,5,4,1,0
+RT001053,OR007541,2025-10-13,2025-10-16,2025-10-20,2025-10-25,Product Not as Described,Closed,App,Returns Team A,8425.75,5,12,0,0
+RT001054,OR007543,2025-08-19,2025-08-22,2025-08-24,,Product Not as Described,Received,Customer Support,Escalations Team,1498.07,5,,0,1
+RT001055,OR007546,2025-07-03,2025-07-05,2025-07-08,,Changed Mind,Refund Processing,Website,Returns Team A,7724.71,5,,0,1
+RT001056,OR007551,2025-10-11,2025-10-13,2025-10-18,2025-10-23,Missing Parts,Closed,App,Returns Team B,18370.74,5,12,0,0
+RT001057,OR007553,2025-01-18,2025-01-21,2025-01-21,,Product Not as Described,Refund Processing,Website,Returns Team C,37022.18,5,,0,1
+RT001058,OR007558,2025-10-22,2025-10-24,2025-10-29,2025-10-29,Wrong Item Delivered,Closed,App,Returns Team B,35613.97,5,7,0,0
+RT001059,OR007560,2025-08-09,2025-08-12,2025-08-16,2025-08-13,Product Not as Described,Closed,Customer Support,Returns Team B,21429.26,5,4,1,0
+RT001060,OR007563,2025-09-16,2025-09-17,2025-09-22,,Missing Parts,Received,Customer Support,Returns Team C,20448.63,5,,0,1
+RT001061,OR007588,2025-07-17,2025-07-18,2025-07-20,,Late Delivery,Pickup Scheduled,Customer Support,Returns Team A,14979.31,5,,0,1
+RT001062,OR007589,2026-01-03,2026-01-04,2026-01-08,2026-01-14,Damaged Product,Closed,App,Returns Team A,13313.16,5,11,0,0
+RT001063,OR007590,2025-11-22,2025-11-25,2025-11-27,,Changed Mind,Refund Processing,Customer Support,Returns Team C,37775.36,5,,0,1
+RT001064,OR007595,2025-10-19,2025-10-21,2025-10-23,,Changed Mind,Refund Processing,Customer Support,Returns Team B,16156.44,5,,0,1
+RT001065,OR007611,2025-11-11,2025-11-13,2025-11-15,,Product Not as Described,Pickup Scheduled,Customer Support,Escalations Team,20746.71,5,,0,1
+RT001066,OR007620,2025-11-27,2025-11-29,2025-11-30,2025-12-06,Product Not as Described,Closed,Customer Support,Escalations Team,30903.98,5,9,0,0
+RT001067,OR007626,2025-11-02,2025-11-03,2025-11-07,,Changed Mind,Pickup Scheduled,Website,Returns Team A,4780.09,5,,0,1
+RT001068,OR007632,2025-04-30,2025-05-02,2025-05-03,2025-05-03,Changed Mind,Rejected,Customer Support,Returns Team C,8303.41,5,3,1,0
+RT001069,OR007636,2025-12-16,2025-12-17,2025-12-20,2025-12-19,Changed Mind,Closed,Customer Support,Escalations Team,4629.76,5,3,1,0
+RT001070,OR007641,2025-01-03,2025-01-04,2025-01-06,2025-01-10,Late Delivery,Rejected,Customer Support,Returns Team A,10385.9,5,7,0,0
+RT001071,OR007657,2025-06-27,2025-06-29,2025-07-04,2025-06-28,Late Delivery,Closed,App,Returns Team A,6904.58,5,1,1,0
+RT001072,OR007664,2025-07-11,2025-07-14,2025-07-18,,Size/Fit Issue,Received,Website,Returns Team B,18775.87,5,,0,1
+RT001073,OR007666,2025-05-01,2025-05-04,2025-05-07,,Late Delivery,Inspection,App,Returns Team B,7741.91,5,,0,1
+RT001074,OR007668,2025-02-20,2025-02-23,2025-02-26,,Late Delivery,Received,Website,Returns Team C,3468.8,5,,0,1
+RT001075,OR007670,2025-07-15,2025-07-17,2025-07-19,2025-07-24,Changed Mind,Closed,Website,Returns Team A,32882.24,5,9,0,0
+RT001076,OR007684,2025-09-12,2025-09-15,2025-09-18,,Size/Fit Issue,Refund Processing,App,Returns Team B,1497.39,5,,0,1
+RT001077,OR007687,2025-06-01,2025-06-02,2025-06-06,,Wrong Item Delivered,Refund Processing,App,Returns Team C,3404.83,5,,0,1
+RT001078,OR007694,2025-04-25,2025-04-28,2025-04-28,2025-05-03,Product Not as Described,Closed,App,Escalations Team,4054.35,5,8,0,0
+RT001079,OR007697,2025-02-16,2025-02-19,2025-02-20,2025-02-26,Missing Parts,Closed,Website,Returns Team C,8727.37,5,10,0,0
+RT001080,OR007707,2025-07-18,2025-07-19,2025-07-23,2025-07-27,Late Delivery,Closed,Website,Returns Team A,13152.24,5,9,0,0
+RT001081,OR007718,2025-03-28,2025-03-31,2025-04-04,2025-03-30,Product Not as Described,Closed,App,Escalations Team,14165.99,5,2,1,0
+RT001082,OR007726,2025-05-12,2025-05-13,2025-05-19,2025-05-18,Late Delivery,Closed,Website,Returns Team C,16275.29,5,6,0,0
+RT001083,OR007733,2025-11-18,2025-11-20,2025-11-25,2025-11-22,Product Not as Described,Rejected,App,Returns Team C,6303.55,5,4,1,0
+RT001084,OR007746,2025-09-30,2025-10-03,2025-10-07,,Damaged Product,Refund Processing,App,Returns Team A,13920.83,5,,0,1
+RT001085,OR007747,2025-06-26,2025-06-28,2025-07-03,2025-06-30,Missing Parts,Closed,App,Returns Team B,15977.63,5,4,1,0
+RT001086,OR007767,2025-04-07,2025-04-09,2025-04-10,,Product Not as Described,Received,App,Returns Team B,25808.15,5,,0,1
+RT001087,OR007784,2025-12-08,2025-12-09,2025-12-12,2025-12-09,Product Not as Described,Closed,Customer Support,Escalations Team,937.04,5,1,1,0
+RT001088,OR007789,2025-01-20,2025-01-23,2025-01-27,,Product Not as Described,Pickup Scheduled,Website,Returns Team C,30867.67,5,,0,1
+RT001089,OR007790,2025-01-29,2025-02-01,2025-02-03,,Wrong Item Delivered,In Transit,App,Returns Team C,25561.57,5,,0,1
+RT001090,OR007796,2025-12-24,2025-12-25,2025-12-28,2026-01-04,Size/Fit Issue,Closed,Website,Returns Team A,39371.0,5,11,0,0
+RT001091,OR007808,2025-11-20,2025-11-21,2025-11-24,,Late Delivery,Refund Processing,Website,Returns Team A,28055.9,5,,0,1
+RT001092,OR007823,2025-04-06,2025-04-07,2025-04-12,2025-04-18,Late Delivery,Closed,Customer Support,Returns Team B,1969.79,5,12,0,0
+RT001093,OR007824,2025-09-19,2025-09-20,2025-09-25,2025-09-27,Damaged Product,Rejected,Customer Support,Returns Team A,23210.91,5,8,0,0
+RT001094,OR007852,2025-02-23,2025-02-25,2025-03-01,2025-02-28,Missing Parts,Closed,Website,Escalations Team,34544.86,5,5,1,0
+RT001095,OR007857,2025-10-22,2025-10-23,2025-10-27,2025-10-26,Missing Parts,Closed,Customer Support,Escalations Team,22088.88,5,4,1,0
+RT001096,OR007868,2025-07-12,2025-07-15,2025-07-16,2025-07-14,Late Delivery,Closed,App,Returns Team C,571.88,5,2,1,0
+RT001097,OR007883,2025-08-08,2025-08-11,2025-08-13,,Missing Parts,In Transit,Website,Returns Team A,23451.37,5,,0,1
+RT001098,OR007886,2025-12-12,2025-12-13,2025-12-16,2025-12-15,Damaged Product,Closed,Website,Returns Team C,28996.91,5,3,1,0
+RT001099,OR007887,2026-01-06,2026-01-09,2026-01-12,,Size/Fit Issue,Pickup Scheduled,App,Returns Team A,34462.73,5,,0,1
+RT001100,OR007892,2025-06-25,2025-06-28,2025-07-01,2025-07-05,Changed Mind,Closed,Website,Returns Team A,13934.86,5,10,0,0
+RT001101,OR007897,2025-08-12,2025-08-14,2025-08-17,2025-08-19,Missing Parts,Closed,Customer Support,Returns Team B,30232.66,5,7,0,0
+RT001102,OR007904,2025-10-18,2025-10-19,2025-10-22,2025-10-21,Missing Parts,Closed,Customer Support,Returns Team B,16968.51,5,3,1,0
+RT001103,OR007908,2025-04-02,2025-04-03,2025-04-07,2025-04-12,Changed Mind,Closed,Customer Support,Returns Team A,19601.75,5,10,0,0
+RT001104,OR007910,2025-11-23,2025-11-26,2025-11-30,2025-11-26,Product Not as Described,Closed,Customer Support,Returns Team C,11410.09,5,3,1,0
+RT001105,OR007933,2025-03-03,2025-03-04,2025-03-10,2025-03-13,Late Delivery,Closed,Customer Support,Returns Team B,41794.17,5,10,0,0
+RT001106,OR007943,2025-09-22,2025-09-25,2025-09-27,,Damaged Product,In Transit,Customer Support,Escalations Team,21498.29,5,,0,1
+RT001107,OR007949,2025-01-18,2025-01-19,2025-01-23,2025-01-29,Missing Parts,Closed,Customer Support,Returns Team B,745.64,5,11,0,0
+RT001108,OR007965,2025-11-17,2025-11-19,2025-11-22,2025-11-23,Late Delivery,Closed,Website,Returns Team B,38763.59,5,6,0,0
+RT001109,OR007973,2025-10-09,2025-10-11,2025-10-12,,Changed Mind,Refund Processing,Website,Escalations Team,12753.55,5,,0,1
+RT001110,OR007995,2025-09-16,2025-09-18,2025-09-23,,Damaged Product,Refund Processing,App,Returns Team B,8621.9,5,,0,1
+RT001111,OR008005,2025-12-29,2025-12-30,2026-01-03,,Late Delivery,In Transit,Website,Escalations Team,6967.77,5,,0,1
+RT001112,OR008011,2025-09-04,2025-09-05,2025-09-09,,Missing Parts,Pickup Scheduled,App,Returns Team A,1029.6,5,,0,1
+RT001113,OR008015,2025-02-16,2025-02-17,2025-02-22,2025-02-24,Missing Parts,Closed,App,Escalations Team,25173.22,5,8,0,0
+RT001114,OR008020,2025-09-15,2025-09-17,2025-09-22,,Late Delivery,Requested,Website,Returns Team B,32861.29,5,,0,1
+RT001115,OR008026,2025-05-18,2025-05-19,2025-05-22,,Size/Fit Issue,Pickup Scheduled,App,Escalations Team,28288.94,5,,0,1
+RT001116,OR008030,2025-08-30,2025-08-31,2025-09-02,,Missing Parts,Refund Processing,Website,Returns Team B,14980.01,5,,0,1
+RT001117,OR008037,2025-02-16,2025-02-17,2025-02-19,,Damaged Product,Pickup Scheduled,App,Escalations Team,23049.75,5,,0,1
+RT001118,OR008045,2025-12-20,2025-12-22,2025-12-27,,Product Not as Described,Refund Processing,App,Escalations Team,14154.77,5,,0,1
+RT001119,OR008049,2025-04-10,2025-04-11,2025-04-16,2025-04-12,Changed Mind,Closed,Website,Returns Team B,32626.64,5,2,1,0
+RT001120,OR008051,2025-08-27,2025-08-29,2025-09-02,,Missing Parts,Received,Website,Escalations Team,40669.69,5,,0,1
+RT001121,OR008054,2025-07-23,2025-07-26,2025-07-27,2025-08-01,Late Delivery,Closed,Website,Returns Team A,28165.5,5,9,0,0
+RT001122,OR008057,2025-06-14,2025-06-16,2025-06-18,,Missing Parts,Inspection,Website,Escalations Team,32885.44,5,,0,1
+RT001123,OR008068,2025-05-05,2025-05-08,2025-05-10,,Missing Parts,In Transit,Website,Escalations Team,30620.24,5,,0,1
+RT001124,OR008073,2025-08-09,2025-08-11,2025-08-12,2025-08-16,Damaged Product,Closed,Website,Returns Team A,25654.54,5,7,0,0
+RT001125,OR008079,2025-02-20,2025-02-23,2025-02-23,,Wrong Item Delivered,Refund Processing,Customer Support,Returns Team B,21722.53,5,,0,1
+RT001126,OR008087,2025-05-12,2025-05-15,2025-05-15,2025-05-16,Size/Fit Issue,Closed,App,Escalations Team,41295.38,5,4,1,0
+RT001127,OR008096,2025-07-24,2025-07-27,2025-07-30,,Damaged Product,Inspection,App,Returns Team A,24950.82,5,,0,1
+RT001128,OR008102,2025-03-13,2025-03-14,2025-03-17,,Changed Mind,Received,Customer Support,Returns Team C,16198.74,5,,0,1
+RT001129,OR008113,2025-02-06,2025-02-09,2025-02-11,,Product Not as Described,Requested,Website,Escalations Team,13818.85,5,,0,1
+RT001130,OR008114,2025-06-09,2025-06-11,2025-06-16,2025-06-10,Missing Parts,Rejected,App,Returns Team A,32006.46,5,1,1,0
+RT001131,OR008115,2025-05-04,2025-05-07,2025-05-09,,Size/Fit Issue,Received,App,Escalations Team,28396.16,5,,0,1
+RT001132,OR008118,2025-01-19,2025-01-21,2025-01-23,,Late Delivery,Pickup Scheduled,Customer Support,Returns Team B,23405.93,5,,0,1
+RT001133,OR008125,2025-04-17,2025-04-18,2025-04-22,2025-04-19,Damaged Product,Closed,Website,Returns Team B,24488.06,5,2,1,0
+RT001134,OR008128,2025-10-24,2025-10-26,2025-10-30,,Size/Fit Issue,Refund Processing,Customer Support,Escalations Team,22032.86,5,,0,1
+RT001135,OR008130,2025-06-10,2025-06-13,2025-06-14,2025-06-22,Missing Parts,Closed,App,Escalations Team,1166.67,5,12,0,0
+RT001136,OR008154,2025-03-14,2025-03-15,2025-03-17,,Size/Fit Issue,Refund Processing,Customer Support,Returns Team B,15791.64,5,,0,1
+RT001137,OR008161,2025-02-17,2025-02-20,2025-02-24,2025-02-28,Missing Parts,Closed,Customer Support,Returns Team C,14102.99,5,11,0,0
+RT001138,OR008168,2025-03-27,2025-03-29,2025-03-30,,Damaged Product,Requested,App,Returns Team A,34443.56,5,,0,1
+RT001139,OR008169,2025-05-30,2025-06-01,2025-06-05,,Size/Fit Issue,Requested,App,Returns Team C,11366.3,5,,0,1
+RT001140,OR008170,2025-01-19,2025-01-20,2025-01-26,,Missing Parts,Inspection,Customer Support,Returns Team A,19019.71,5,,0,1
+RT001141,OR008179,2025-06-24,2025-06-26,2025-06-27,2025-07-01,Product Not as Described,Closed,App,Escalations Team,20010.08,5,7,0,0
+RT001142,OR008181,2025-01-15,2025-01-17,2025-01-22,,Changed Mind,Pickup Scheduled,Customer Support,Escalations Team,35724.81,5,,0,1
+RT001143,OR008185,2025-09-14,2025-09-17,2025-09-21,,Late Delivery,Refund Processing,Customer Support,Returns Team A,21901.46,5,,0,1
+RT001144,OR008191,2025-12-08,2025-12-11,2025-12-15,,Late Delivery,Received,App,Escalations Team,38380.5,5,,0,1
+RT001145,OR008194,2025-05-30,2025-05-31,2025-06-03,2025-06-07,Damaged Product,Closed,Customer Support,Returns Team C,25691.75,5,8,0,0
+RT001146,OR008200,2025-11-02,2025-11-04,2025-11-05,2025-11-07,Late Delivery,Closed,Customer Support,Returns Team B,32962.33,5,5,1,0
+RT001147,OR008211,2025-08-15,2025-08-17,2025-08-22,,Product Not as Described,In Transit,App,Returns Team C,19974.38,5,,0,1
+RT001148,OR008217,2025-04-02,2025-04-03,2025-04-05,,Wrong Item Delivered,Refund Processing,Website,Returns Team C,31365.79,5,,0,1
+RT001149,OR008221,2025-06-12,2025-06-13,2025-06-16,,Missing Parts,Received,Customer Support,Returns Team A,9041.43,5,,0,1
+RT001150,OR008226,2025-11-26,2025-11-29,2025-11-29,,Size/Fit Issue,Inspection,Customer Support,Escalations Team,32689.4,5,,0,1
+RT001151,OR008241,2025-09-26,2025-09-29,2025-09-29,,Wrong Item Delivered,Requested,App,Returns Team C,6160.69,5,,0,1
+RT001152,OR008253,2025-02-03,2025-02-04,2025-02-06,2025-02-04,Changed Mind,Closed,App,Returns Team B,565.57,5,1,1,0
+RT001153,OR008264,2025-06-03,2025-06-05,2025-06-09,,Wrong Item Delivered,Received,Customer Support,Returns Team B,13762.37,5,,0,1
+RT001154,OR008269,2025-08-01,2025-08-02,2025-08-08,2025-08-06,Wrong Item Delivered,Closed,App,Returns Team C,31988.15,5,5,1,0
+RT001155,OR008271,2025-07-05,2025-07-06,2025-07-09,2025-07-12,Product Not as Described,Closed,Website,Returns Team A,37476.58,5,7,0,0
+RT001156,OR008272,2025-02-15,2025-02-16,2025-02-18,2025-02-24,Size/Fit Issue,Closed,Customer Support,Returns Team B,12684.99,5,9,0,0
+RT001157,OR008278,2025-12-14,2025-12-16,2025-12-21,2025-12-16,Size/Fit Issue,Closed,App,Returns Team C,9921.96,5,2,1,0
+RT001158,OR008288,2025-07-18,2025-07-20,2025-07-21,2025-07-21,Changed Mind,Closed,Website,Returns Team A,29217.7,5,3,1,0
+RT001159,OR008292,2025-04-17,2025-04-18,2025-04-20,,Missing Parts,In Transit,Customer Support,Returns Team A,25177.97,5,,0,1
+RT001160,OR008301,2025-06-22,2025-06-23,2025-06-25,2025-06-28,Wrong Item Delivered,Closed,Website,Returns Team B,18030.3,5,6,0,0
+RT001161,OR008308,2025-08-11,2025-08-13,2025-08-18,,Size/Fit Issue,Received,App,Returns Team A,19516.59,5,,0,1
+RT001162,OR008316,2025-09-01,2025-09-04,2025-09-08,,Missing Parts,Refund Processing,Customer Support,Returns Team B,17995.4,5,,0,1
+RT001163,OR008323,2025-03-12,2025-03-13,2025-03-19,,Size/Fit Issue,Received,App,Returns Team B,11579.96,5,,0,1
+RT001164,OR008326,2025-11-03,2025-11-05,2025-11-10,,Changed Mind,Requested,Customer Support,Returns Team B,23026.55,5,,0,1
+RT001165,OR008327,2025-11-01,2025-11-02,2025-11-04,,Missing Parts,Requested,Customer Support,Returns Team B,28856.11,5,,0,1
+RT001166,OR008330,2025-09-06,2025-09-09,2025-09-12,,Wrong Item Delivered,Received,Website,Returns Team B,24408.63,5,,0,1
+RT001167,OR008331,2025-06-05,2025-06-07,2025-06-08,,Late Delivery,Received,App,Returns Team A,22624.97,5,,0,1
+RT001168,OR008335,2025-04-22,2025-04-23,2025-04-28,2025-04-26,Wrong Item Delivered,Closed,Website,Escalations Team,20993.89,5,4,1,0
+RT001169,OR008337,2025-05-07,2025-05-09,2025-05-12,,Product Not as Described,In Transit,App,Returns Team B,12932.91,5,,0,1
+RT001170,OR008340,2025-12-05,2025-12-07,2025-12-11,2025-12-13,Damaged Product,Closed,Customer Support,Returns Team A,25985.69,5,8,0,0
+RT001171,OR008341,2025-01-28,2025-01-29,2025-02-03,,Missing Parts,Inspection,Customer Support,Returns Team C,5271.62,5,,0,1
+RT001172,OR008346,2025-02-15,2025-02-16,2025-02-20,2025-02-24,Damaged Product,Closed,Customer Support,Returns Team B,19480.08,5,9,0,0
+RT001173,OR008347,2025-12-31,2026-01-03,2026-01-03,2026-01-10,Damaged Product,Closed,Customer Support,Returns Team A,2225.35,5,10,0,0
+RT001174,OR008353,2025-05-23,2025-05-24,2025-05-29,,Product Not as Described,Inspection,Customer Support,Escalations Team,32586.01,5,,0,1
+RT001175,OR008357,2025-05-01,2025-05-04,2025-05-04,,Wrong Item Delivered,In Transit,App,Returns Team B,21189.93,5,,0,1
+RT001176,OR008358,2025-12-09,2025-12-12,2025-12-12,,Wrong Item Delivered,Inspection,Website,Returns Team C,446.17,5,,0,1
+RT001177,OR008362,2025-02-25,2025-02-28,2025-03-04,2025-03-05,Damaged Product,Closed,Customer Support,Escalations Team,5770.06,5,8,0,0
+RT001178,OR008372,2025-11-09,2025-11-12,2025-11-16,,Size/Fit Issue,Inspection,Customer Support,Returns Team A,1543.48,5,,0,1
+RT001179,OR008383,2025-07-13,2025-07-14,2025-07-18,,Wrong Item Delivered,Requested,Customer Support,Escalations Team,2312.48,5,,0,1
+RT001180,OR008384,2025-10-13,2025-10-14,2025-10-18,,Damaged Product,Pickup Scheduled,Website,Returns Team C,19116.63,5,,0,1
+RT001181,OR008386,2025-05-26,2025-05-28,2025-05-30,,Missing Parts,In Transit,App,Returns Team C,16094.51,5,,0,1
+RT001182,OR008391,2025-01-17,2025-01-18,2025-01-24,,Missing Parts,Received,App,Returns Team B,21918.17,5,,0,1
+RT001183,OR008392,2025-03-19,2025-03-20,2025-03-24,2025-03-23,Product Not as Described,Closed,Customer Support,Escalations Team,11247.3,5,4,1,0
+RT001184,OR008396,2025-04-11,2025-04-12,2025-04-17,2025-04-17,Missing Parts,Closed,App,Returns Team C,2581.46,5,6,0,0
+RT001185,OR008399,2025-10-25,2025-10-27,2025-10-31,,Missing Parts,Refund Processing,Customer Support,Returns Team B,27869.26,5,,0,1
+RT001186,OR008406,2025-10-23,2025-10-24,2025-10-26,,Product Not as Described,Received,App,Returns Team C,2640.13,5,,0,1
+RT001187,OR008411,2025-07-10,2025-07-12,2025-07-13,,Product Not as Described,Inspection,App,Returns Team B,12528.38,5,,0,1
+RT001188,OR008418,2025-05-16,2025-05-18,2025-05-21,,Wrong Item Delivered,Requested,Website,Returns Team A,7396.2,5,,0,1
+RT001189,OR008424,2025-04-04,2025-04-06,2025-04-09,,Late Delivery,Refund Processing,Website,Returns Team C,11672.23,5,,0,1
+RT001190,OR008425,2025-07-04,2025-07-07,2025-07-09,,Size/Fit Issue,In Transit,Website,Returns Team A,29385.89,5,,0,1
+RT001191,OR008445,2025-01-17,2025-01-20,2025-01-24,,Missing Parts,Refund Processing,Website,Returns Team B,29322.08,5,,0,1
+RT001192,OR008473,2025-03-15,2025-03-17,2025-03-21,,Late Delivery,Received,Website,Returns Team C,18015.41,5,,0,1
+RT001193,OR008520,2025-02-06,2025-02-09,2025-02-13,2025-02-14,Wrong Item Delivered,Closed,App,Returns Team C,35610.19,5,8,0,0
+RT001194,OR008543,2025-08-01,2025-08-03,2025-08-08,2025-08-10,Wrong Item Delivered,Closed,Website,Escalations Team,24910.92,5,9,0,0
+RT001195,OR008550,2025-12-25,2025-12-27,2026-01-01,2026-01-03,Missing Parts,Closed,App,Returns Team A,24278.57,5,9,0,0
+RT001196,OR008551,2025-06-23,2025-06-24,2025-06-29,,Damaged Product,Received,Customer Support,Returns Team B,22872.18,5,,0,1
+RT001197,OR008555,2025-06-19,2025-06-21,2025-06-22,,Damaged Product,Received,Website,Escalations Team,1377.21,5,,0,1
+RT001198,OR008566,2025-06-01,2025-06-03,2025-06-05,,Product Not as Described,Inspection,Website,Returns Team C,28885.43,5,,0,1
+RT001199,OR008578,2025-02-15,2025-02-17,2025-02-22,2025-02-25,Product Not as Described,Closed,App,Returns Team C,11010.13,5,10,0,0
+RT001200,OR008582,2025-03-05,2025-03-07,2025-03-09,2025-03-08,Missing Parts,Closed,Website,Returns Team B,17897.59,5,3,1,0
+RT001201,OR008595,2025-06-24,2025-06-27,2025-06-30,2025-06-25,Product Not as Described,Closed,App,Returns Team C,26397.55,5,1,1,0
+RT001202,OR008599,2025-07-04,2025-07-06,2025-07-08,2025-07-16,Late Delivery,Closed,Customer Support,Returns Team A,1020.62,5,12,0,0
+RT001203,OR008601,2025-02-13,2025-02-16,2025-02-16,2025-02-15,Size/Fit Issue,Closed,Website,Returns Team A,43411.96,5,2,1,0
+RT001204,OR008613,2025-12-04,2025-12-06,2025-12-11,,Product Not as Described,Pickup Scheduled,Website,Returns Team C,31388.61,5,,0,1
+RT001205,OR008619,2025-06-28,2025-06-29,2025-07-04,2025-07-04,Product Not as Described,Rejected,Website,Returns Team A,2721.83,5,6,0,0
+RT001206,OR008626,2025-02-03,2025-02-04,2025-02-10,2025-02-12,Damaged Product,Rejected,Website,Returns Team A,13997.21,5,9,0,0
+RT001207,OR008636,2025-03-24,2025-03-25,2025-03-27,,Late Delivery,Received,Customer Support,Escalations Team,26679.34,5,,0,1
+RT001208,OR008639,2025-10-07,2025-10-08,2025-10-11,2025-10-10,Size/Fit Issue,Closed,Customer Support,Returns Team B,7969.17,5,3,1,0
+RT001209,OR008658,2026-01-08,2026-01-09,2026-01-13,,Wrong Item Delivered,Refund Processing,App,Escalations Team,20280.23,5,,0,1
+RT001210,OR008669,2026-01-06,2026-01-09,2026-01-11,,Late Delivery,Refund Processing,Customer Support,Returns Team C,35504.24,5,,0,1
+RT001211,OR008670,2025-06-16,2025-06-17,2025-06-21,2025-06-19,Product Not as Described,Closed,Website,Returns Team A,9566.1,5,3,1,0
+RT001212,OR008685,2026-01-02,2026-01-05,2026-01-05,,Late Delivery,Inspection,Website,Returns Team C,35107.62,5,,0,1
+RT001213,OR008700,2025-10-01,2025-10-02,2025-10-04,,Missing Parts,Requested,App,Returns Team C,2339.56,5,,0,1
+RT001214,OR008713,2025-06-17,2025-06-18,2025-06-24,,Late Delivery,Pickup Scheduled,App,Escalations Team,9090.84,5,,0,1
+RT001215,OR008740,2025-09-14,2025-09-17,2025-09-21,2025-09-18,Late Delivery,Rejected,App,Returns Team B,22601.57,5,4,1,0
+RT001216,OR008751,2025-04-12,2025-04-15,2025-04-19,,Product Not as Described,In Transit,Website,Returns Team A,22298.23,5,,0,1
+RT001217,OR008756,2025-02-05,2025-02-08,2025-02-10,2025-02-16,Product Not as Described,Closed,Website,Returns Team C,16349.31,5,11,0,0
+RT001218,OR008757,2025-10-08,2025-10-09,2025-10-14,2025-10-09,Missing Parts,Closed,Customer Support,Returns Team B,26137.03,5,1,1,0
+RT001219,OR008763,2025-05-08,2025-05-11,2025-05-15,2025-05-18,Wrong Item Delivered,Closed,App,Escalations Team,35964.49,5,10,0,0
+RT001220,OR008769,2025-06-02,2025-06-05,2025-06-07,,Late Delivery,Inspection,Website,Escalations Team,30983.15,5,,0,1
+RT001221,OR008788,2025-04-10,2025-04-12,2025-04-16,,Missing Parts,In Transit,App,Returns Team A,27362.29,5,,0,1
+RT001222,OR008790,2025-06-01,2025-06-03,2025-06-04,2025-06-11,Wrong Item Delivered,Closed,Customer Support,Returns Team B,3536.66,5,10,0,0
+RT001223,OR008798,2025-08-04,2025-08-06,2025-08-10,2025-08-08,Changed Mind,Rejected,Website,Escalations Team,16306.55,5,4,1,0
+RT001224,OR008813,2025-12-04,2025-12-06,2025-12-07,,Size/Fit Issue,Inspection,Customer Support,Escalations Team,22662.96,5,,0,1
+RT001225,OR008814,2025-11-18,2025-11-20,2025-11-22,2025-11-26,Product Not as Described,Closed,App,Returns Team C,8540.03,5,8,0,0
+RT001226,OR008828,2025-06-27,2025-06-29,2025-07-03,,Late Delivery,Refund Processing,Website,Returns Team B,11922.94,5,,0,1
+RT001227,OR008837,2025-01-31,2025-02-01,2025-02-04,,Product Not as Described,Refund Processing,Website,Returns Team C,10424.14,5,,0,1
+RT001228,OR008838,2025-06-13,2025-06-15,2025-06-20,,Late Delivery,Pickup Scheduled,App,Escalations Team,8480.26,5,,0,1
+RT001229,OR008846,2025-09-06,2025-09-08,2025-09-13,2025-09-10,Changed Mind,Closed,App,Returns Team A,13985.49,5,4,1,0
+RT001230,OR008847,2025-11-11,2025-11-12,2025-11-14,2025-11-16,Wrong Item Delivered,Closed,Website,Returns Team A,40828.46,5,5,1,0
+RT001231,OR008849,2025-10-31,2025-11-01,2025-11-05,2025-11-03,Late Delivery,Closed,Website,Returns Team B,4711.04,5,3,1,0
+RT001232,OR008877,2025-12-09,2025-12-10,2025-12-13,,Product Not as Described,Requested,App,Escalations Team,36310.87,5,,0,1
+RT001233,OR008893,2025-11-09,2025-11-12,2025-11-16,2025-11-20,Product Not as Described,Closed,Website,Returns Team C,8581.55,5,11,0,0
+RT001234,OR008897,2025-11-29,2025-12-01,2025-12-03,,Changed Mind,Requested,Customer Support,Escalations Team,5804.77,5,,0,1
+RT001235,OR008913,2025-05-22,2025-05-25,2025-05-26,,Missing Parts,Refund Processing,Website,Escalations Team,23843.46,5,,0,1
+RT001236,OR008921,2025-07-30,2025-07-31,2025-08-03,,Size/Fit Issue,Refund Processing,App,Escalations Team,28085.65,5,,0,1
+RT001237,OR008930,2025-12-25,2025-12-28,2026-01-01,,Missing Parts,Refund Processing,Customer Support,Returns Team C,39249.64,5,,0,1
+RT001238,OR008933,2025-08-15,2025-08-18,2025-08-20,2025-08-27,Size/Fit Issue,Closed,Customer Support,Returns Team C,19686.17,5,12,0,0
+RT001239,OR008936,2025-09-26,2025-09-27,2025-09-29,,Wrong Item Delivered,Refund Processing,Customer Support,Returns Team A,1670.67,5,,0,1
+RT001240,OR008937,2025-06-19,2025-06-21,2025-06-25,,Changed Mind,Received,App,Returns Team B,31357.24,5,,0,1
+RT001241,OR008951,2025-07-31,2025-08-01,2025-08-06,,Size/Fit Issue,Pickup Scheduled,App,Returns Team C,25168.69,5,,0,1
+RT001242,OR008960,2025-11-06,2025-11-08,2025-11-09,2025-11-14,Late Delivery,Closed,App,Escalations Team,3897.48,5,8,0,0
+RT001243,OR008963,2025-05-13,2025-05-15,2025-05-17,,Changed Mind,Received,App,Escalations Team,28238.82,5,,0,1
+RT001244,OR008973,2025-12-15,2025-12-16,2025-12-19,2025-12-21,Product Not as Described,Closed,Customer Support,Escalations Team,29240.51,5,6,0,0
+RT001245,OR008982,2025-01-28,2025-01-31,2025-02-02,,Product Not as Described,Inspection,Website,Returns Team C,18993.58,5,,0,1
+RT001246,OR008990,2025-12-08,2025-12-09,2025-12-14,,Late Delivery,Received,Customer Support,Returns Team C,10747.96,5,,0,1
+RT001247,OR008993,2026-01-02,2026-01-03,2026-01-09,,Changed Mind,In Transit,App,Returns Team C,26958.62,5,,0,1
+RT001248,OR008994,2025-05-28,2025-05-29,2025-06-04,2025-06-03,Missing Parts,Closed,Customer Support,Escalations Team,9024.48,5,6,0,0
+RT001249,OR008996,2025-12-01,2025-12-04,2025-12-08,,Changed Mind,Received,App,Returns Team B,1563.57,5,,0,1
+RT001250,OR008998,2025-07-22,2025-07-25,2025-07-25,2025-07-31,Missing Parts,Rejected,Website,Returns Team B,4866.25,5,9,0,0
+RT001251,OR009001,2025-11-15,2025-11-17,2025-11-18,2025-11-22,Size/Fit Issue,Closed,Customer Support,Returns Team A,7924.48,5,7,0,0
+RT001252,OR009003,2025-06-08,2025-06-10,2025-06-12,2025-06-20,Product Not as Described,Closed,App,Escalations Team,33976.83,5,12,0,0
+RT001253,OR009012,2025-01-31,2025-02-02,2025-02-07,,Damaged Product,Received,Website,Returns Team C,5195.73,5,,0,1
+RT001254,OR009017,2025-09-06,2025-09-09,2025-09-11,2025-09-13,Damaged Product,Rejected,Customer Support,Returns Team C,12574.85,5,7,0,0
+RT001255,OR009039,2025-10-27,2025-10-28,2025-10-31,,Changed Mind,Received,Website,Returns Team A,16828.44,5,,0,1
+RT001256,OR009045,2025-09-20,2025-09-21,2025-09-23,2025-09-23,Size/Fit Issue,Closed,Website,Returns Team C,584.21,5,3,1,0
+RT001257,OR009047,2025-12-19,2025-12-21,2025-12-26,2025-12-20,Size/Fit Issue,Closed,Website,Returns Team C,34531.72,5,1,1,0
+RT001258,OR009050,2025-01-20,2025-01-21,2025-01-23,2025-01-27,Changed Mind,Closed,App,Returns Team A,6223.9,5,7,0,0
+RT001259,OR009056,2025-11-26,2025-11-29,2025-12-03,,Product Not as Described,Refund Processing,App,Escalations Team,20552.96,5,,0,1
+RT001260,OR009061,2025-02-25,2025-02-26,2025-03-03,2025-02-26,Wrong Item Delivered,Closed,Customer Support,Returns Team B,19797.88,5,1,1,0
+RT001261,OR009063,2025-06-09,2025-06-11,2025-06-15,2025-06-14,Size/Fit Issue,Closed,App,Returns Team B,43486.12,5,5,1,0
+RT001262,OR009081,2025-07-08,2025-07-10,2025-07-15,2025-07-17,Changed Mind,Closed,App,Escalations Team,30752.9,5,9,0,0
+RT001263,OR009084,2025-10-08,2025-10-11,2025-10-14,2025-10-13,Changed Mind,Closed,Customer Support,Escalations Team,33764.04,5,5,1,0
+RT001264,OR009097,2025-11-14,2025-11-15,2025-11-18,2025-11-15,Late Delivery,Closed,App,Returns Team C,13785.6,5,1,1,0
+RT001265,OR009099,2025-10-14,2025-10-16,2025-10-20,2025-10-15,Missing Parts,Closed,Website,Returns Team A,7599.9,5,1,1,0
+RT001266,OR009103,2025-11-15,2025-11-16,2025-11-21,,Damaged Product,Received,App,Returns Team C,15902.36,5,,0,1
+RT001267,OR009109,2025-09-10,2025-09-11,2025-09-16,2025-09-13,Size/Fit Issue,Closed,Website,Returns Team C,19441.79,5,3,1,0
+RT001268,OR009121,2025-04-04,2025-04-05,2025-04-07,,Size/Fit Issue,Received,Customer Support,Returns Team A,11539.36,5,,0,1
+RT001269,OR009130,2025-10-26,2025-10-28,2025-11-01,,Missing Parts,Received,Website,Escalations Team,26147.7,5,,0,1
+RT001270,OR009135,2025-11-30,2025-12-01,2025-12-06,,Wrong Item Delivered,Inspection,App,Returns Team B,12710.75,5,,0,1
+RT001271,OR009145,2025-01-21,2025-01-24,2025-01-25,2025-02-02,Product Not as Described,Closed,Website,Returns Team C,287.19,5,12,0,0
+RT001272,OR009146,2025-03-08,2025-03-10,2025-03-11,,Product Not as Described,Inspection,Customer Support,Escalations Team,19287.96,5,,0,1
+RT001273,OR009153,2025-09-05,2025-09-07,2025-09-11,2025-09-14,Late Delivery,Closed,Customer Support,Returns Team B,33214.67,5,9,0,0
+RT001274,OR009156,2025-09-19,2025-09-22,2025-09-22,2025-09-26,Changed Mind,Closed,Customer Support,Escalations Team,19378.36,5,7,0,0
+RT001275,OR009158,2025-11-10,2025-11-12,2025-11-13,2025-11-20,Changed Mind,Closed,Website,Returns Team C,34877.61,5,10,0,0
+RT001276,OR009161,2025-02-17,2025-02-18,2025-02-24,,Size/Fit Issue,Pickup Scheduled,Customer Support,Escalations Team,31635.33,5,,0,1
+RT001277,OR009171,2025-06-14,2025-06-15,2025-06-18,2025-06-22,Size/Fit Issue,Closed,App,Returns Team B,1503.85,5,8,0,0
+RT001278,OR009173,2025-11-23,2025-11-24,2025-11-28,2025-11-25,Size/Fit Issue,Closed,Website,Returns Team C,11925.34,5,2,1,0
+RT001279,OR009176,2025-07-25,2025-07-26,2025-08-01,2025-08-01,Product Not as Described,Closed,App,Returns Team A,11975.72,5,7,0,0
+RT001280,OR009184,2025-12-25,2025-12-26,2026-01-01,2026-01-04,Late Delivery,Closed,Website,Returns Team B,17601.61,5,10,0,0
+RT001281,OR009196,2025-10-14,2025-10-15,2025-10-19,2025-10-19,Missing Parts,Closed,Customer Support,Escalations Team,11184.45,5,5,1,0
+RT001282,OR009198,2025-11-10,2025-11-11,2025-11-17,2025-11-22,Changed Mind,Closed,Customer Support,Returns Team B,32688.8,5,12,0,0
+RT001283,OR009205,2025-05-17,2025-05-19,2025-05-22,,Wrong Item Delivered,In Transit,Website,Returns Team A,22770.2,5,,0,1
+RT001284,OR009212,2025-06-20,2025-06-22,2025-06-24,,Wrong Item Delivered,Inspection,Website,Returns Team C,28588.59,5,,0,1
+RT001285,OR009222,2025-04-18,2025-04-20,2025-04-24,2025-04-25,Wrong Item Delivered,Closed,Website,Escalations Team,12052.58,5,7,0,0
+RT001286,OR009233,2025-11-14,2025-11-15,2025-11-20,,Size/Fit Issue,Pickup Scheduled,App,Escalations Team,16423.33,5,,0,1
+RT001287,OR009257,2025-08-24,2025-08-25,2025-08-27,,Wrong Item Delivered,In Transit,App,Returns Team A,11722.31,5,,0,1
+RT001288,OR009258,2025-09-29,2025-09-30,2025-10-04,,Missing Parts,Refund Processing,Customer Support,Escalations Team,5660.84,5,,0,1
+RT001289,OR009264,2025-01-15,2025-01-16,2025-01-19,,Size/Fit Issue,Requested,Website,Returns Team B,32620.58,5,,0,1
+RT001290,OR009271,2026-01-11,2026-01-13,2026-01-16,,Late Delivery,Pickup Scheduled,App,Returns Team C,15150.88,5,,0,1
+RT001291,OR009281,2025-04-23,2025-04-25,2025-04-27,2025-05-02,Size/Fit Issue,Closed,Website,Returns Team B,4122.56,5,9,0,0
+RT001292,OR009289,2025-10-08,2025-10-09,2025-10-15,2025-10-12,Size/Fit Issue,Rejected,Customer Support,Returns Team A,34170.08,5,4,1,0
+RT001293,OR009293,2025-02-14,2025-02-15,2025-02-20,2025-02-22,Damaged Product,Closed,Customer Support,Returns Team B,7091.61,5,8,0,0
+RT001294,OR009296,2025-06-13,2025-06-14,2025-06-19,2025-06-15,Size/Fit Issue,Closed,Customer Support,Returns Team A,6576.01,5,2,1,0
+RT001295,OR009303,2025-05-07,2025-05-08,2025-05-14,2025-05-19,Changed Mind,Closed,Website,Escalations Team,21809.22,5,12,0,0
+RT001296,OR009311,2025-07-03,2025-07-06,2025-07-06,2025-07-10,Missing Parts,Closed,Customer Support,Returns Team A,10118.57,5,7,0,0
+RT001297,OR009318,2025-02-25,2025-02-28,2025-03-01,2025-03-03,Late Delivery,Closed,Website,Returns Team C,32391.24,5,6,0,0
+RT001298,OR009327,2025-02-15,2025-02-18,2025-02-21,2025-02-19,Late Delivery,Closed,Website,Returns Team B,12461.12,5,4,1,0
+RT001299,OR009329,2025-01-29,2025-01-30,2025-02-02,2025-02-04,Changed Mind,Closed,App,Returns Team B,4517.05,5,6,0,0
+RT001300,OR009336,2025-10-30,2025-10-31,2025-11-02,,Missing Parts,In Transit,Website,Returns Team C,28948.73,5,,0,1
+RT001301,OR009347,2025-12-21,2025-12-23,2025-12-24,2025-12-30,Changed Mind,Closed,App,Returns Team A,10228.66,5,9,0,0
+RT001302,OR009350,2025-08-07,2025-08-09,2025-08-13,,Missing Parts,Inspection,Customer Support,Returns Team A,9922.6,5,,0,1
+RT001303,OR009367,2025-07-06,2025-07-08,2025-07-11,2025-07-13,Size/Fit Issue,Closed,Website,Returns Team B,22302.85,5,7,0,0
+RT001304,OR009369,2025-09-30,2025-10-03,2025-10-05,2025-10-03,Changed Mind,Closed,Website,Returns Team A,3651.89,5,3,1,0
+RT001305,OR009372,2025-06-15,2025-06-17,2025-06-19,,Late Delivery,Refund Processing,App,Returns Team B,37577.17,5,,0,1
+RT001306,OR009377,2025-11-25,2025-11-27,2025-11-29,2025-11-28,Wrong Item Delivered,Closed,Customer Support,Returns Team B,1859.52,5,3,1,0
+RT001307,OR009379,2025-09-14,2025-09-17,2025-09-21,,Product Not as Described,Inspection,App,Escalations Team,14249.39,5,,0,1
+RT001308,OR009383,2025-05-11,2025-05-13,2025-05-14,2025-05-19,Damaged Product,Closed,App,Escalations Team,10829.41,5,8,0,0
+RT001309,OR009384,2025-12-19,2025-12-20,2025-12-22,,Damaged Product,In Transit,Website,Escalations Team,17392.65,5,,0,1
+RT001310,OR009388,2025-07-23,2025-07-25,2025-07-27,,Damaged Product,Inspection,Website,Returns Team A,1516.26,5,,0,1
+RT001311,OR009392,2025-02-09,2025-02-12,2025-02-13,2025-02-14,Damaged Product,Rejected,App,Returns Team A,5604.16,5,5,1,0
+RT001312,OR009398,2025-04-23,2025-04-26,2025-04-30,,Changed Mind,Pickup Scheduled,Customer Support,Returns Team B,33996.08,5,,0,1
+RT001313,OR009400,2025-08-07,2025-08-09,2025-08-11,2025-08-18,Late Delivery,Closed,Customer Support,Escalations Team,3095.39,5,11,0,0
+RT001314,OR009402,2025-08-19,2025-08-20,2025-08-26,2025-08-23,Product Not as Described,Closed,App,Returns Team C,9554.53,5,4,1,0
+RT001315,OR009403,2025-12-04,2025-12-05,2025-12-07,2025-12-16,Missing Parts,Closed,Customer Support,Returns Team A,27468.34,5,12,0,0
+RT001316,OR009409,2025-11-20,2025-11-23,2025-11-24,2025-11-22,Changed Mind,Closed,Website,Returns Team C,28615.42,5,2,1,0
+RT001317,OR009412,2025-08-29,2025-08-30,2025-09-04,2025-09-04,Damaged Product,Closed,App,Escalations Team,13173.28,5,6,0,0
+RT001318,OR009420,2025-11-22,2025-11-23,2025-11-25,2025-11-30,Damaged Product,Closed,Customer Support,Escalations Team,8695.65,5,8,0,0
+RT001319,OR009425,2025-02-18,2025-02-19,2025-02-22,,Damaged Product,Inspection,App,Returns Team A,41738.3,5,,0,1
+RT001320,OR009443,2025-01-21,2025-01-23,2025-01-28,,Changed Mind,Received,Website,Returns Team B,22043.9,5,,0,1
+RT001321,OR009451,2025-09-06,2025-09-08,2025-09-13,2025-09-07,Wrong Item Delivered,Closed,Website,Escalations Team,31022.92,5,1,1,0
+RT001322,OR009490,2025-08-12,2025-08-14,2025-08-18,2025-08-15,Late Delivery,Closed,App,Returns Team C,38845.37,5,3,1,0
+RT001323,OR009495,2025-02-24,2025-02-26,2025-02-27,,Missing Parts,Refund Processing,App,Returns Team B,29188.23,5,,0,1
+RT001324,OR009496,2025-04-29,2025-05-02,2025-05-05,,Missing Parts,In Transit,App,Returns Team B,2784.87,5,,0,1
+RT001325,OR009497,2025-06-07,2025-06-10,2025-06-11,2025-06-18,Product Not as Described,Closed,App,Returns Team C,5510.7,5,11,0,0
+RT001326,OR009500,2025-03-12,2025-03-15,2025-03-19,,Product Not as Described,Refund Processing,App,Returns Team A,36798.39,5,,0,1
+RT001327,OR009501,2025-09-29,2025-09-30,2025-10-05,,Product Not as Described,Inspection,App,Returns Team A,12407.64,5,,0,1
+RT001328,OR009506,2025-05-22,2025-05-24,2025-05-28,2025-05-30,Changed Mind,Closed,App,Returns Team A,33585.09,5,8,0,0
+RT001329,OR009509,2025-11-14,2025-11-16,2025-11-19,,Damaged Product,In Transit,Customer Support,Returns Team A,9278.88,5,,0,1
+RT001330,OR009514,2025-09-11,2025-09-13,2025-09-18,,Missing Parts,Requested,Customer Support,Returns Team B,38287.28,5,,0,1
+RT001331,OR009515,2025-02-10,2025-02-13,2025-02-15,2025-02-14,Size/Fit Issue,Closed,Customer Support,Returns Team A,10943.49,5,4,1,0
+RT001332,OR009517,2025-04-29,2025-04-30,2025-05-04,2025-05-11,Changed Mind,Closed,Website,Returns Team B,2205.42,5,12,0,0
+RT001333,OR009518,2025-02-23,2025-02-26,2025-02-26,,Damaged Product,Pickup Scheduled,App,Returns Team B,9359.51,5,,0,1
+RT001334,OR009525,2025-01-11,2025-01-13,2025-01-17,2025-01-19,Missing Parts,Closed,Customer Support,Returns Team A,10837.38,5,8,0,0
+RT001335,OR009526,2025-03-28,2025-03-29,2025-04-01,,Damaged Product,Refund Processing,Website,Returns Team B,14160.75,5,,0,1
+RT001336,OR009527,2025-07-23,2025-07-26,2025-07-28,,Wrong Item Delivered,Requested,Website,Escalations Team,7607.04,5,,0,1
+RT001337,OR009534,2025-11-01,2025-11-04,2025-11-04,2025-11-11,Changed Mind,Closed,Website,Returns Team A,38503.51,5,10,0,0
+RT001338,OR009538,2025-08-08,2025-08-09,2025-08-14,,Missing Parts,Received,App,Returns Team C,18259.79,5,,0,1
+RT001339,OR009546,2025-05-19,2025-05-21,2025-05-23,,Damaged Product,Refund Processing,Website,Returns Team A,28812.8,5,,0,1
+RT001340,OR009549,2025-02-12,2025-02-14,2025-02-18,,Product Not as Described,Received,App,Returns Team A,10490.39,5,,0,1
+RT001341,OR009555,2025-04-24,2025-04-26,2025-04-29,2025-04-26,Size/Fit Issue,Closed,Website,Returns Team B,4789.67,5,2,1,0
+RT001342,OR009558,2025-04-12,2025-04-13,2025-04-16,2025-04-16,Missing Parts,Closed,App,Returns Team C,20620.02,5,4,1,0
+RT001343,OR009559,2026-01-09,2026-01-11,2026-01-12,,Changed Mind,Pickup Scheduled,App,Returns Team A,9986.84,5,,0,1
+RT001344,OR009573,2026-01-02,2026-01-05,2026-01-06,,Changed Mind,Inspection,App,Returns Team C,21617.53,5,,0,1
+RT001345,OR009577,2025-05-29,2025-05-31,2025-06-03,,Product Not as Described,Pickup Scheduled,App,Returns Team A,12426.74,5,,0,1
+RT001346,OR009587,2025-04-28,2025-04-29,2025-05-05,2025-05-03,Damaged Product,Closed,App,Returns Team A,26631.8,5,5,1,0
+RT001347,OR009600,2025-04-04,2025-04-07,2025-04-09,2025-04-15,Late Delivery,Closed,Customer Support,Returns Team C,3390.39,5,11,0,0
+RT001348,OR009611,2025-01-21,2025-01-22,2025-01-27,2025-01-23,Missing Parts,Closed,Customer Support,Returns Team B,1524.65,5,2,1,0
+RT001349,OR009615,2025-10-24,2025-10-26,2025-10-27,2025-11-01,Late Delivery,Closed,Website,Escalations Team,4483.75,5,8,0,0
+RT001350,OR009616,2025-12-09,2025-12-11,2025-12-13,,Late Delivery,Received,App,Returns Team A,18191.57,5,,0,1
+RT001351,OR009619,2025-06-21,2025-06-24,2025-06-26,2025-07-01,Damaged Product,Closed,App,Escalations Team,1119.49,5,10,0,0
+RT001352,OR009623,2025-07-25,2025-07-28,2025-07-29,2025-07-29,Missing Parts,Closed,Customer Support,Returns Team A,30343.19,5,4,1,0
+RT001353,OR009634,2025-09-17,2025-09-20,2025-09-24,2025-09-24,Size/Fit Issue,Closed,App,Returns Team B,860.34,5,7,0,0
+RT001354,OR009641,2025-02-24,2025-02-25,2025-03-02,,Changed Mind,Inspection,App,Returns Team A,34503.23,5,,0,1
+RT001355,OR009648,2025-08-30,2025-08-31,2025-09-05,2025-09-04,Size/Fit Issue,Closed,App,Escalations Team,24953.69,5,5,1,0
+RT001356,OR009654,2025-08-30,2025-08-31,2025-09-02,,Wrong Item Delivered,Pickup Scheduled,Customer Support,Returns Team B,13706.83,5,,0,1
+RT001357,OR009656,2025-12-29,2026-01-01,2026-01-04,,Late Delivery,In Transit,App,Returns Team A,21264.71,5,,0,1
+RT001358,OR009660,2025-09-19,2025-09-21,2025-09-23,,Late Delivery,Received,App,Returns Team C,4646.99,5,,0,1
+RT001359,OR009668,2025-05-26,2025-05-27,2025-06-01,2025-06-03,Size/Fit Issue,Closed,Customer Support,Returns Team B,29643.39,5,8,0,0
+RT001360,OR009674,2025-01-13,2025-01-14,2025-01-17,,Damaged Product,Requested,Customer Support,Returns Team B,9452.5,5,,0,1
+RT001361,OR009677,2025-06-07,2025-06-08,2025-06-11,2025-06-15,Wrong Item Delivered,Closed,Website,Returns Team C,5350.88,5,8,0,0
+RT001362,OR009691,2026-01-07,2026-01-10,2026-01-11,,Missing Parts,Inspection,Customer Support,Escalations Team,9727.42,5,,0,1
+RT001363,OR009692,2026-01-05,2026-01-06,2026-01-11,,Product Not as Described,Received,Customer Support,Returns Team B,25893.93,5,,0,1
+RT001364,OR009694,2025-07-28,2025-07-30,2025-08-02,2025-08-05,Size/Fit Issue,Closed,Website,Returns Team C,24927.72,5,8,0,0
+RT001365,OR009696,2025-09-13,2025-09-15,2025-09-16,2025-09-15,Damaged Product,Closed,Customer Support,Escalations Team,14287.71,5,2,1,0
+RT001366,OR009699,2025-06-29,2025-07-02,2025-07-06,,Missing Parts,In Transit,Website,Escalations Team,37193.13,5,,0,1
+RT001367,OR009703,2025-05-06,2025-05-08,2025-05-11,2025-05-13,Size/Fit Issue,Closed,App,Returns Team B,10095.69,5,7,0,0
+RT001368,OR009717,2025-08-23,2025-08-24,2025-08-30,,Damaged Product,In Transit,App,Returns Team A,31368.43,5,,0,1
+RT001369,OR009718,2025-03-23,2025-03-24,2025-03-29,,Product Not as Described,Refund Processing,Customer Support,Returns Team C,5455.66,5,,0,1
+RT001370,OR009720,2025-02-20,2025-02-21,2025-02-24,,Missing Parts,Inspection,Website,Returns Team C,24285.33,5,,0,1
+RT001371,OR009722,2025-07-04,2025-07-07,2025-07-07,,Missing Parts,Requested,Customer Support,Returns Team B,24843.7,5,,0,1
+RT001372,OR009735,2025-04-16,2025-04-18,2025-04-23,2025-04-22,Wrong Item Delivered,Rejected,Website,Escalations Team,27968.23,5,6,0,0
+RT001373,OR009736,2025-09-14,2025-09-15,2025-09-17,2025-09-17,Damaged Product,Closed,Customer Support,Returns Team C,812.14,5,3,1,0
+RT001374,OR009737,2025-11-02,2025-11-05,2025-11-05,,Missing Parts,Refund Processing,Website,Returns Team C,24871.07,5,,0,1
+RT001375,OR009738,2025-11-20,2025-11-22,2025-11-25,2025-11-30,Size/Fit Issue,Closed,App,Escalations Team,21781.74,5,10,0,0
+RT001376,OR009749,2025-06-29,2025-07-01,2025-07-06,2025-07-11,Changed Mind,Closed,Customer Support,Returns Team A,7372.82,5,12,0,0
+RT001377,OR009750,2025-10-21,2025-10-23,2025-10-26,2025-10-27,Changed Mind,Closed,Website,Escalations Team,26645.89,5,6,0,0
+RT001378,OR009759,2025-04-30,2025-05-01,2025-05-03,2025-05-04,Damaged Product,Closed,App,Returns Team B,8992.09,5,4,1,0
+RT001379,OR009763,2025-07-17,2025-07-18,2025-07-21,2025-07-23,Missing Parts,Rejected,Website,Escalations Team,1333.97,5,6,0,0
+RT001380,OR009766,2025-08-23,2025-08-24,2025-08-27,2025-08-29,Product Not as Described,Closed,App,Returns Team B,31901.38,5,6,0,0
+RT001381,OR009775,2025-06-16,2025-06-17,2025-06-23,2025-06-23,Missing Parts,Closed,Website,Returns Team B,28447.82,5,7,0,0
+RT001382,OR009777,2025-04-28,2025-05-01,2025-05-02,2025-05-09,Size/Fit Issue,Closed,Website,Returns Team A,6571.62,5,11,0,0
+RT001383,OR009791,2025-07-20,2025-07-23,2025-07-23,2025-07-27,Damaged Product,Closed,Customer Support,Returns Team C,33247.95,5,7,0,0
+RT001384,OR009801,2025-05-18,2025-05-19,2025-05-24,2025-05-24,Size/Fit Issue,Closed,Website,Returns Team B,23096.27,5,6,0,0
+RT001385,OR009802,2025-07-11,2025-07-12,2025-07-18,2025-07-20,Size/Fit Issue,Closed,App,Returns Team B,16292.64,5,9,0,0
+RT001386,OR009806,2025-08-18,2025-08-21,2025-08-25,2025-08-24,Missing Parts,Closed,Customer Support,Returns Team A,9200.86,5,6,0,0
+RT001387,OR009807,2025-06-10,2025-06-12,2025-06-16,2025-06-22,Changed Mind,Closed,App,Escalations Team,26537.79,5,12,0,0
+RT001388,OR009808,2025-01-26,2025-01-29,2025-01-31,,Damaged Product,Refund Processing,App,Escalations Team,26642.72,5,,0,1
+RT001389,OR009813,2025-11-18,2025-11-19,2025-11-21,2025-11-29,Wrong Item Delivered,Closed,App,Returns Team B,31164.5,5,11,0,0
+RT001390,OR009814,2025-01-07,2025-01-10,2025-01-14,,Damaged Product,Requested,Website,Escalations Team,16449.23,5,,0,1
+RT001391,OR009824,2025-04-02,2025-04-03,2025-04-07,2025-04-04,Product Not as Described,Closed,App,Escalations Team,25357.36,5,2,1,0
+RT001392,OR009829,2025-03-31,2025-04-02,2025-04-06,2025-04-02,Changed Mind,Rejected,App,Escalations Team,30458.16,5,2,1,0
+RT001393,OR009834,2025-06-19,2025-06-21,2025-06-23,2025-06-27,Changed Mind,Closed,Customer Support,Returns Team B,563.33,5,8,0,0
+RT001394,OR009839,2025-02-20,2025-02-21,2025-02-24,,Size/Fit Issue,Requested,Customer Support,Returns Team B,1614.91,5,,0,1
+RT001395,OR009853,2025-04-23,2025-04-24,2025-04-29,,Late Delivery,Pickup Scheduled,Website,Returns Team A,39385.58,5,,0,1
+RT001396,OR009864,2025-06-11,2025-06-12,2025-06-14,2025-06-18,Product Not as Described,Closed,App,Returns Team C,21633.98,5,7,0,0
+RT001397,OR009868,2025-10-04,2025-10-06,2025-10-10,2025-10-13,Changed Mind,Closed,App,Returns Team A,23622.96,5,9,0,0
+RT001398,OR009877,2025-05-30,2025-06-01,2025-06-05,2025-06-08,Wrong Item Delivered,Closed,Customer Support,Returns Team B,34706.53,5,9,0,0
+RT001399,OR009880,2025-03-17,2025-03-19,2025-03-24,2025-03-24,Changed Mind,Closed,App,Escalations Team,21561.78,5,7,0,0
+RT001400,OR009886,2025-08-07,2025-08-09,2025-08-14,2025-08-16,Damaged Product,Closed,App,Returns Team C,22012.7,5,9,0,0
+RT001401,OR009889,2025-06-29,2025-06-30,2025-07-02,,Wrong Item Delivered,Inspection,App,Returns Team B,26043.07,5,,0,1
+RT001402,OR009890,2025-10-07,2025-10-09,2025-10-10,,Product Not as Described,Inspection,Website,Escalations Team,22187.16,5,,0,1
+RT001403,OR009894,2025-04-13,2025-04-16,2025-04-18,2025-04-18,Product Not as Described,Closed,Website,Returns Team B,3241.43,5,5,1,0
+RT001404,OR009895,2025-09-16,2025-09-17,2025-09-23,2025-09-26,Size/Fit Issue,Closed,Website,Returns Team A,19575.4,5,10,0,0
+RT001405,OR009898,2025-04-24,2025-04-25,2025-05-01,,Late Delivery,Requested,Website,Returns Team B,28241.08,5,,0,1
+RT001406,OR009914,2025-08-07,2025-08-08,2025-08-14,2025-08-19,Product Not as Described,Rejected,Customer Support,Escalations Team,26172.21,5,12,0,0
+RT001407,OR009918,2025-11-15,2025-11-18,2025-11-19,2025-11-18,Missing Parts,Closed,Website,Returns Team C,20530.42,5,3,1,0
+RT001408,OR009946,2025-07-25,2025-07-27,2025-07-29,2025-08-05,Missing Parts,Closed,Website,Returns Team B,30934.73,5,11,0,0
+RT001409,OR009952,2025-11-22,2025-11-23,2025-11-28,2025-12-02,Product Not as Described,Closed,Website,Returns Team B,22922.86,5,10,0,0
+RT001410,OR009955,2025-05-19,2025-05-20,2025-05-24,,Missing Parts,Received,App,Escalations Team,22413.52,5,,0,1
+RT001411,OR009957,2025-01-07,2025-01-09,2025-01-11,,Wrong Item Delivered,In Transit,App,Escalations Team,18661.53,5,,0,1
+RT001412,OR009973,2025-11-07,2025-11-08,2025-11-12,2025-11-18,Wrong Item Delivered,Closed,Website,Escalations Team,32346.6,5,11,0,0
+RT001413,OR009980,2025-07-30,2025-08-01,2025-08-02,,Damaged Product,Received,Website,Returns Team B,13862.78,5,,0,1
+RT001414,OR009982,2025-11-22,2025-11-24,2025-11-29,,Late Delivery,Received,App,Returns Team C,11012.58,5,,0,1
+RT001415,OR009985,2025-05-21,2025-05-22,2025-05-27,2025-05-23,Wrong Item Delivered,Closed,Customer Support,Returns Team A,33589.58,5,2,1,0
+RT001416,OR009987,2025-10-01,2025-10-04,2025-10-05,,Product Not as Described,In Transit,Customer Support,Returns Team C,21412.94,5,,0,1
+RT001417,OR009993,2025-05-28,2025-05-31,2025-05-31,,Wrong Item Delivered,Received,Website,Returns Team A,2154.38,5,,0,1
+RT001418,OR009994,2025-08-13,2025-08-15,2025-08-18,2025-08-14,Damaged Product,Closed,Customer Support,Escalations Team,11650.64,5,1,1,0
+RT001419,OR009999,2026-01-07,2026-01-09,2026-01-11,2026-01-14,Damaged Product,Closed,Customer Support,Returns Team C,22050.71,5,7,0,0
